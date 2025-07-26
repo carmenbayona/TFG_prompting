@@ -1,0 +1,15 @@
+You are a dialog generation expert. Your task is to generate a **humorous, informal, and natural** human conversation based on the following specification.
+
+Requirements:
+- Include exactly the number of turns indicated.
+- Alternate between P1 and P2 consistently.
+- Explicitly reflect the goals and subplots described.
+- Use humor, teasing, exaggerations or light sarcasm where appropriate.
+- Include imperfections such as hesitations ("uh", "hmm"), mild contradictions, or off-topic comments.
+- Each line must start with P1: or P2:, no system message, no narration, no explanation.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the full dialog, line by line, starting directly with P1: or P2:

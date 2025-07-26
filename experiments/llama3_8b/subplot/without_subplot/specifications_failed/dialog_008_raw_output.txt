@@ -1,0 +1,11 @@
+Here is the analysis result in the required JSON format:
+
+{
+  "topic": "Gift suggestion for Emma's birthday",
+  "turns": 4,
+  "participants": 2,
+  "tone": { "P1": "casual", "P2": "thoughtful" },
+  "goals": { "P1": "get a birthday gift for Emma", "P2": "help P1 decide on a gift" },
+  "subplots": [],
+  "imperfections": [ ]
+}

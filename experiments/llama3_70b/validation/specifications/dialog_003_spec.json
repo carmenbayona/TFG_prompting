@@ -1,0 +1,17 @@
+{
+  "topic": "laptop order issue",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "frustrated",
+    "participant_2": "apologetic"
+  },
+  "goals": {
+    "participant_1": "resolve order issue",
+    "participant_2": "assist and provide solution"
+  },
+  "subplots": [
+    "work impact"
+  ],
+  "imperfections": []
+}

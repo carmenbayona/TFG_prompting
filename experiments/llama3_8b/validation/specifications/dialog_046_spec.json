@@ -1,0 +1,13 @@
+{
+  "topic": "planning a hike",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "inviting",
+    "P2": "agreeable"
+  },
+  "goals": {
+    "P1": "plan a hike",
+    "P2": "accept the invitation"
+  }
+}

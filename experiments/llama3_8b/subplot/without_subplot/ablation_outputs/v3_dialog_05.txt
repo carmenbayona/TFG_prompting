@@ -1,0 +1,15 @@
+Here is the generated dialog:
+
+---
+P1: Hey, what's taking you so long to decide on lunch? I'm starving!
+P2: I don't know... I was thinking maybe sushi, but then again, I really don't feel like raw fish today... Maybe burgers?
+P1: Ugh, burgers again? You know I'm not a big fan of repetitive meals. Can I suggest something?
+P2: Sure, what did you have in mind? I'm willing to try something new if you think it's good.
+
+---
+
+I've tried to capture the tone and goals specified:
+
+* P1 is hungry and wants to decide quickly, which is evident in their initial question and frustration with P2's indecisiveness.
+* P2 is indecisive and wants to ask for recommendations, which is shown through their hesitation and willingness to consider P1's suggestion.
+* The imperfection specified, "P2 changes mind mid-line", is present in the second turn where P2 initially suggests sushi but then changes their mind to burgers.

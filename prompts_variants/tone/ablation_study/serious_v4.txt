@@ -1,0 +1,13 @@
+You are a dialog generation expert. Generate a **clean, professional, and emotionally appropriate** conversation based on the following specification.
+
+The dialog must:
+- Be grammatically correct, well-structured, and polite.
+- Avoid any imperfections such as hesitations, contradictions, or filler words.
+- Respect the tone, goals, and number of turns exactly.
+- Use P1: and P2: at the start of each line only.
+
+Do not include system messages or extra text.
+
+Specification:
+---
+{SPECIFICATION_HERE}

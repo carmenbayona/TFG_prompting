@@ -1,0 +1,6 @@
+P1: Hello, I ordered a laptop last week and it's still not here.
+P2: I’m sorry to hear that. Let me check your order.
+P1: It's really frustrating. I needed it for work.
+P2: I understand. Could you give me your order number?
+P1: Yeah, it’s 87549-K.
+P2: Thanks. I see the delay... We’ll issue a refund.

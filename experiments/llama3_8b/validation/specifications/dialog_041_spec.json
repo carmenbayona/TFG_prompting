@@ -1,0 +1,15 @@
+{
+  "topic": "new yoga class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "positive",
+    "P2": "neutral"
+  },
+  "goals": {
+    "P1": "recommendation",
+    "P2": "information"
+  },
+  "subplots": [],
+  "imperfections": []
+}

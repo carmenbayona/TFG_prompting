@@ -1,0 +1,18 @@
+{
+  "topic": "Meeting new neighbors",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": " casual",
+    "P2": " engaged"
+  },
+  "goals": {
+    "P1": "share experience",
+    "P2": "gather information"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "repetition"
+  ]
+}

@@ -1,0 +1,4 @@
+P1: Can we talk?
+P2: Sure, what’s going on?
+P1: I’ve been feeling overwhelmed.
+P2: Let’s sit and figure it out together.

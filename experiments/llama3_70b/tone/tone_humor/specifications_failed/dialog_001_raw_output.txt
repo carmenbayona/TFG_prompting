@@ -1,0 +1,9 @@
+{
+"topic": "Meeting Reminder",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "nonchalant" },
+"goals": { "P1": "ensure P2 attends the meeting", "P2": "avoid getting in trouble" },
+"subplots": [ "P2's forgetfulness", "P1's reminders" ],
+"imperfections": [ "P2's initial denial", "P1's nagging" ]
+}

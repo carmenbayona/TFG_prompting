@@ -1,0 +1,4 @@
+P1: Hey, how's it been going?
+P2: Ah, you know, been pretty busy with work. How about you?
+P1: Same here, been trying to get a lot done before the deadline. I was thinking about taking a few days off after that.
+P2: Yeah, I could use a break myself. What made you think of that?

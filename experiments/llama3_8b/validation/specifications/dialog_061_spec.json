@@ -1,0 +1,15 @@
+{
+  "topic": "Project presentation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "focused"
+  },
+  "goals": {
+    "P1": "check project status",
+    "P2": "complete project"
+  },
+  "subplots": [],
+  "imperfections": []
+}

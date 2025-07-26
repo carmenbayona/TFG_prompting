@@ -1,0 +1,15 @@
+{
+  "topic": "book recommendation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inquisitive",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "get a book recommendation",
+    "participant_2": "recommend a book"
+  },
+  "subplots": [],
+  "imperfections": []
+}

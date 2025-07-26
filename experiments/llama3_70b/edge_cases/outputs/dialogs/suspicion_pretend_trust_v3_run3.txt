@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: So, I just wanted to confirm that we're still on track to meet the deadline.
+P2: Absolutely, everything is going according to plan.
+P1: Great, I remember you mentioning that the development team was, uh, making good progress... last week, was it?
+P2: (pauses slightly) Yeah, that's right. We're right where we need to be.
+P1: Okay, because I could've sworn we discussed some potential roadblocks... but I must have misremembered.
+P2: (nervously chuckles) No, no, we've just been working really efficiently, that's all.
+P1: I see. And, if I recall correctly, you mentioned that the testing phase would be completed by... (pauses) Friday, was it?
+P2: (slightly hesitates) Ah, yeah, that's right. We're expecting to wrap up testing by the end of the week.
+P1: Okay, because I was thinking that might be a bit tight, considering... (trails off)
+P2: (firmly) Like I said, we're on track. You can count on it.
+P1: Alright, I just want to make sure we're all on the same page.

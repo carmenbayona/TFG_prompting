@@ -1,0 +1,23 @@
+Here is the extracted structured specification in the required JSON format:
+
+{
+  "topic": "Medical Consultation",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "professional"
+  },
+  "goals": {
+    "P1": "get diagnosed and treated",
+    "P2": "diagnose and treat the patient"
+  },
+  "subplots": [
+    "headache",
+    "dizziness",
+    "tiredness"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause)"
+  ]
+}

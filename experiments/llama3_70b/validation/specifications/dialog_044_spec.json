@@ -1,0 +1,16 @@
+{
+  "topic": "presentation update",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "positive",
+    "participant_2": "cautiously optimistic"
+  },
+  "goals": {
+    "participant_1": "confirmation of update",
+    "participant_2": "seeking approval"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

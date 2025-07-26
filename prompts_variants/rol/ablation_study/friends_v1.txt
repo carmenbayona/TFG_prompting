@@ -1,0 +1,14 @@
+You are a dialog generation expert. Your task is to generate a natural, friendly, and informal conversation between two friends based on the following specification.
+
+The dialog must:
+- Reflect a casual and familiar tone, appropriate between close friends.
+- Address the goals of each participant as defined in the specification.
+- Include humor, shared references, or teasing where appropriate.
+- Show imperfections like hesitations ("uh", "hmm"), digressions, or off-topic lines.
+- Use P1: and P2: at the start of each line.
+
+Avoid system messages or explanations.
+
+Specification:
+---
+{SPECIFICATION_HERE}

@@ -1,0 +1,16 @@
+{
+  "topic": "assignment deadline and collaboration",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "anxious",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "to clarify assignment deadline",
+    "P2": "to offer assistance"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

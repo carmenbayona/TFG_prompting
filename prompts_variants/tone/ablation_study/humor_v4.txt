@@ -1,0 +1,14 @@
+You are a dialog generation expert. Your task is to generate a **humorous, clean and coherent** conversation based on the following specification.
+
+The dialog must:
+- Be humorous and lighthearted, but well-structured.
+- Reflect the tone, goals, and number of turns in the specification.
+- Avoid any conversational imperfections such as hesitations, digressions, contradictions, or filler expressions.
+- Use only high-quality, grammatically correct lines.
+- Alternate clearly between P1: and P2: at each turn.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the full dialog, starting with P1: or P2:, without any extra explanation.

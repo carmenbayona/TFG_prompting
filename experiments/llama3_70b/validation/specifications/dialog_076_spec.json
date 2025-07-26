@@ -1,0 +1,16 @@
+{
+  "topic": "troubleshooting an app issue",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "frustrated",
+    "participant_2": "helpful"
+  },
+  "goals": {
+    "participant_1": "get help with the app issue",
+    "participant_2": "provide a solution"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

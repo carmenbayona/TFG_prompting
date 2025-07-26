@@ -1,0 +1,13 @@
+{
+  "topic": "forgetting an umbrella and getting wet in the rain",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "express frustration and seek solution",
+    "P2": "offer help and assistance"
+  }
+}

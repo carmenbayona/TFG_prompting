@@ -1,0 +1,17 @@
+P1: Ugh, I'm so frustrated. This stupid printer is doing it again. It won't print anything.
+
+P2: Sorry to hear that. What's going on? Can you tell me more about the issue?
+
+P1: Yeah, I mean, I was trying to print out some documents for work and it just stopped working. I tried restarting it, but nothing.
+
+P2: Okay, so it's not printing at all? Have you tried checking the paper jam or anything like that?
+
+P1: Yeah, I checked that already. And the ink levels are fine. I'm starting to think it's something with the settings or something.
+
+P2: Hmm, that's a good point. Can you show me the print settings you're using? Maybe we can troubleshoot from there.
+
+P1: Yeah, sure thing. (pauses) Okay, so I'm using the default settings, but I did change the print quality to high...
+
+P2: Okay, so that's the problem. The high print quality is causing the printer to jam. If you switch it back to normal, it should work fine.
+
+P1: Really? That's it? I was expecting a much bigger issue. Thanks for your help, I think I'll just switch it back.

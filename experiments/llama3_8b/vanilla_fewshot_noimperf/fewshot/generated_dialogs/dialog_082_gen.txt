@@ -1,0 +1,8 @@
+P1: So, I'm trying to decide on a place for dinner. Do you folks have any recommendations?
+P2: Ah, actually, we have a new chef and our menu has changed quite a bit recently. What kind of food are you in the mood for?
+P1: Hmm, I was thinking maybe something Italian. I've been craving some good pasta lately.
+P2: Yeah, our new chef is from Italy, and he's really brought some amazing dishes to the table. Can I recommend something?
+P1: Sure thing! But first, can you tell me a bit about your menu? What's the most popular dish or something?
+P2: Yeah, definitely. So, we've got a lot of great options, but if I had to pick one, it's probably our signature pasta dish, the carbonara. It's made with fresh eggs, guanciale, and parmesan... (pauses, thinking) And, actually, we're offering a new special this week, too. Our chef's special is a take on a classic romaine salad, with grilled shrimp and a lemon-herb dressing...
+P1: Wow, that sounds amazing! I'll definitely have to try that. But, I'm still a little torn—what's the difference between the carbonara and the chef's special?
+P2: (hesitates) Well, the carbonara is a more traditional take on the dish... whereas the chef's special is a bit more modern, with the addition of the shrimp and the dressing. It's really a unique twist on the classic recipe... (repeats himself) But, yeah, both are delicious in their own way!

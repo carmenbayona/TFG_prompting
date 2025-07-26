@@ -1,0 +1,19 @@
+{
+  "topic": "gym routine",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "self-deprecating"
+  },
+  "goals": {
+    "P1": "to support P2 in exercising",
+    "P2": "to get back on track with gym routine"
+  },
+  "subplots": [
+    "getting back on track after slacking"
+  ],
+  "imperfections": [
+    "P2's initial guilt"
+  ]
+}

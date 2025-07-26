@@ -1,0 +1,5 @@
+P1: Ugh, I'm so frustrated. I ordered a new laptop from your company two weeks ago, and I still haven't received it.
+P2: I'm so sorry to hear that. Let me check on the status of your order. Can you please give me your order number?
+P1: Yeah, it's... uh... (checks email) ...#1234. And I need it ASAP for work. I've got a project due soon, and my old laptop is on its last leg.
+P2: Okay, I see the issue. It looks like there was a delay in shipping. I'm going to go ahead and reship it today with expedited shipping. You should receive it by the end of the week.
+P1: A delay in shipping? That's the best you've got? I swear, I've been checking the tracking every hour, and it still says "processing" from two weeks ago. What's going on over there?

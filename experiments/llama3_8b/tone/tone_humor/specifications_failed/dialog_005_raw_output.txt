@@ -1,0 +1,11 @@
+Here is the extracted high-level structured specification in the required JSON format:
+
+{
+  "topic": "Movie Night",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "casual", "P2": "interested" },
+  "goals": { "P1": "suggest a movie", "P2": "agree on a movie" },
+  "subplots": [ "sci-fi movie", "snacks" ],
+  "imperfections": [ "P2's initial hesitation" ]
+}

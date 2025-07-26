@@ -1,0 +1,15 @@
+{
+  "topic": "planning weekend activities",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "casual",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "plan a fun weekend activity",
+    "participant_2": "agree on an activity and prepare for it"
+  },
+  "subplots": [],
+  "imperfections": []
+}

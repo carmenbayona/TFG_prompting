@@ -1,0 +1,16 @@
+{
+  "topic": "dog",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "friendly",
+    "participant_2": "polite"
+  },
+  "goals": {
+    "participant_1": "to learn more about the dog",
+    "participant_2": "to share information about the dog"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

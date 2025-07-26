@@ -1,0 +1,4 @@
+P1: You seemed distracted in the meeting.
+P2: I didn’t sleep well last night.
+P1: Everything okay?
+P2: Just stressed about deadlines.

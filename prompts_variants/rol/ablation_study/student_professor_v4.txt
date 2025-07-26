@@ -1,0 +1,12 @@
+You are a dialog generation expert. Generate a **formal, grammatically correct** conversation between a student and a professor.
+
+Constraints:
+- No hesitations, imperfections, or informal expressions.
+- Clear turn-taking and tone appropriate to an academic setting.
+- Respect the goals and number of turns in the specification.
+
+Label each line with P1: or P2: only.
+
+Specification:
+---
+{SPECIFICATION_HERE}

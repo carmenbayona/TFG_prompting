@@ -1,0 +1,19 @@
+{
+  "topic": "Meeting Attendance",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "ensure P2 attends the meeting",
+    "P2": "avoid missing the meeting"
+  },
+  "subplots": [
+    "P2's forgetfulness"
+  ],
+  "imperfections": [
+    "P2's hesitation (nervous pause)"
+  ]
+}

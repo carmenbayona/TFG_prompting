@@ -1,0 +1,21 @@
+You are a dialog generation expert. Here is an example of a professional, context-rich dialog between two participants:
+
+---
+P1: I understand you have some concerns about the timeline.  
+P2: Yes, I think it might be too ambitious given our current resources.  
+P1: Can you explain where you see the main risks?  
+P2: Mainly in the integration phase. If we rush it, there could be critical issues.  
+P1: I appreciate your honesty. Let’s discuss mitigation options.
+---
+
+Now, generate a similar realistic and coherent conversation based on the following specification:
+
+- The dialog must reflect the tone, goals, and subplots described in the specification.
+- Show imperfections like hesitations, digressions, or nervousness if specified.
+- Use P1: and P2: at the start of each line only.
+
+Do not include system messages or explanations.
+
+Specification:
+---
+{SPECIFICATION_HERE}

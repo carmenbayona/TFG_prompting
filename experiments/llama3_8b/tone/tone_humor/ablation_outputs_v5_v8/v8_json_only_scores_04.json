@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 5,
+  "realism": 4,
+  "fidelity_to_specification": 5,
+  "engagement": 3,
+  "originality": 2,
+  "comments": "The dialog is mostly natural, but some phrases feel a bit forced or clich\u00e9.",
+  "Variant": "v8_json_only_04",
+  "Dialog": "Here is a dialog between two characters, Alex and Maya:\n\n**Alex:** Hey, Maya. How's it going?\n\n**Maya:** Not bad, Alex. Just trying to get some work done before the deadline. How about you?\n\n**Alex:** Same here. I'm trying to finish up this report for my boss. But I'm having a hard time focusing. I keep thinking about our weekend trip to the beach.\n\n**Maya:** Ah, yeah! I remember how much fun we had. We should do it again soon.\n\n**Alex:** Definitely. So, what's new with you? Anything exciting happening?\n\n**Maya:** Well, my sister is getting married next month and I'm supposed to be her maid of honor. I'm a little nervous about giving a speech, though.\n\n**Alex:** Oh, don't worry! I'm sure you'll be great. What's the speech about, anyway?\n\n**Maya:** It's just a toast, really. But I want to make sure I say something meaningful and not just stuck-up and boring. Do you have any advice?\n\n**Alex:** Actually, my sister gave me some advice when I was a groomsmen at her wedding. She said to just speak from the heart and be sincere. And don't worry too much about what the other people think.\n\n**Maya:** That's great advice. Thanks, Alex. You're a natural motivational speaker!\n\n**Alex:** (laughs) Thanks, Maya. I think I'll stick to my day job, though.\n\n**Maya:** (laughs) Yeah, probably for the best.\n\nHow was that? Would you like me to generate another dialog?",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": 2,\n  \"tone\": {\n    \"P1\": \"enthusiastic\",\n    \"P2\": \"suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack a bag without asking too many questions\",\n    \"P2\": \"understand what's going on and get more info\"\n  },\n  \"subplots\": [\n    \"P1 struggles to keep the destination secret\",\n    \"P2 thinks it's a prank or a kidnapping\"\n  ],\n  \"imperfections\": [\n    \"P1 slips a hint by accident\",\n    \"P2 repeats questions and gets more paranoid\"\n  ]\n}"
+}

@@ -1,0 +1,9 @@
+{
+"topic": "thesis progress",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "frustrated" },
+"goals": { "P1": "offer help", "P2": "get help" },
+"subplots": [ "academic struggle" ],
+"imperfections": [ "P2's uncertainty about methodology" ]
+}

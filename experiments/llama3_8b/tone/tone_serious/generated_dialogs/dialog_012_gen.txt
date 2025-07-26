@@ -1,0 +1,4 @@
+P1: I'm interested in pursuing a master's degree in data science. Can you help me with the application process for the program at Complutense University in Madrid?
+P2: Of course, it's a great program! What specifically do you need help with? Have you already checked the admission requirements?
+P1: Yes, I've reviewed the requirements. I'm struggling to choose the right specialization within the program. Can you walk me through the different options?
+P2: Absolutely. The program offers three specializations: data analysis, machine learning, and visualization. Each has its own strengths. For example, data analysis focuses on statistical methods, while machine learning emphasizes predictive modeling.

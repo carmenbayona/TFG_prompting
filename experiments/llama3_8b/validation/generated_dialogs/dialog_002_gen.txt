@@ -1,0 +1,17 @@
+P1: Ugh, I'm still having trouble booking our tickets and hotel for the trip. Can you help me?
+
+P2: Oh, sorry to hear that. What's the issue?
+
+P1: Well, I tried to book the hotel online, but it says they're all sold out. And the airline website is being really weird too.
+
+P2: Hmm, that does sound frustrating. Let me see if I can help you troubleshoot. Which airline are you using?
+
+P1: United. But the website keeps freezing on me. And I'm worried that if I don't book the hotel soon, we'll be stuck without a place to stay.
+
+P2: Okay, I think I see the problem. The hotel website is having some issues with availability. Let me try to get in touch with them real quick.
+
+P1: Great, thank you. But why does it always seem like these things happen to us? I swear, we're going to be the only ones who don't get their tickets and hotel on time.
+
+P2: I know, I know. It's not ideal. But I'm on it. I'll get back to you as soon as I can with an update.
+
+P1: Okay... Thanks, I guess.

@@ -1,0 +1,18 @@
+{
+  "topic": "movie night",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "inviting",
+    "P2": "agreeable"
+  },
+  "goals": {
+    "P1": "to plan a movie night",
+    "P2": "to have a good time"
+  },
+  "subplots": [
+    "choosing a movie",
+    "getting snacks"
+  ],
+  "imperfections": []
+}

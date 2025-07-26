@@ -1,0 +1,7 @@
+Here's a generated dialog that meets the specified requirements:
+
+---
+P1: Hey, what are you in the mood for for lunch?
+P2: Hmm, I don't know. What do you think? Maybe something light? 
+P1: Not too hungry myself, but I was thinking we could grab a sandwich or salad. 
+P2: Yeah, that sounds good. But wait, I was also thinking about trying that new burger place...

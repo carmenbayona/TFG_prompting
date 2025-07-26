@@ -1,0 +1,11 @@
+Here is the extracted JSON object:
+
+{
+  "topic": "Plan for tonight",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "casual", "P2": "agreement" },
+  "goals": { "P1": "decide on movie", "P2": "agree on movie" },
+  "subplots": [ "discuss sci-fi movie", "concern about movie being scary" ],
+  "imperfections": [ "P2's initial hesitation" ]
+}

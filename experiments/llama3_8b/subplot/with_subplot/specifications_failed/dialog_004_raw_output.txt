@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Review of thesis draft",
+  "turns": 6,
+  "participants": 2,
+  "tone": {"P1": "curious", "P2": "constructive"},
+  "goals": {"P1": "get feedback on thesis draft", "P2": "provide helpful feedback"},
+  "subplots": ["hidden motive (P1's ego protection)"],
+  "imperfections": ["P2's indirect criticism"]
+}

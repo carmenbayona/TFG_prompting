@@ -1,0 +1,17 @@
+{
+  "topic": "P1's concern for P2's well-being",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "show care and support",
+    "P2": "seek relief from fatigue"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

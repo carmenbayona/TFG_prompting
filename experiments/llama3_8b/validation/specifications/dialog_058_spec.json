@@ -1,0 +1,13 @@
+{
+  "topic": "rain and desire for sunshine",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "playful",
+    "P2": "cheerful"
+  },
+  "goals": {
+    "P1": "suggest a fun activity",
+    "P2": "express a desire for sunshine"
+  }
+}

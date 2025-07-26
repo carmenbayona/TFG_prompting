@@ -1,0 +1,16 @@
+{
+  "topic": "Mom's birthday gift",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "matter-of-fact",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "suggest a gift idea",
+    "participant_2": "find a suitable gift"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

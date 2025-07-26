@@ -1,0 +1,9 @@
+{
+"topic": "medical consultation",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "reassuring" },
+"goals": { "P1": "identify cause of symptoms", "P2": "diagnose and treat patient" },
+"subplots": [],
+"imperfections": [ "none" ]
+}

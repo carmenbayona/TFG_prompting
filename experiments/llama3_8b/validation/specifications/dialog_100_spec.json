@@ -1,0 +1,13 @@
+{
+  "topic": "weather",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "learn more about weather"
+  }
+}

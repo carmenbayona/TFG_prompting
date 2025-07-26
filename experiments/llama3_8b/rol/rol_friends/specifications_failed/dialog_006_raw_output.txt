@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "P1's health concerns",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "concerned", "P2": "professional" },
+  "goals": { "P1": "get a diagnosis and relief", "P2": "collect information and assess symptoms" },
+  "subplots": [ "P1's headache and dizziness", "P2's professional approach" ],
+  "imperfections": [ "P1's worry about seriousness" ]
+}

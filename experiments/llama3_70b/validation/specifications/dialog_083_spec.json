@@ -1,0 +1,16 @@
+{
+  "topic": "a new book",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "excited",
+    "participant_2": "curious"
+  },
+  "goals": {
+    "participant_1": "to share information",
+    "participant_2": "to learn more"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

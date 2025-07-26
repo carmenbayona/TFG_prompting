@@ -1,0 +1,4 @@
+P1: I'm telling you, I booked those tickets online three days ago, and now you're telling me they're not confirmed?
+P2: I apologize for the inconvenience, sir. Let me check on the status. (nervous pause) Ah, yes... it says here that the payment didn't go through.
+P1: That's impossible! I received a confirmation email from your system, and it said everything was fine.
+P2: I understand, sir, but sometimes our system can make mistakes. (hesitation) I'll need to check with my supervisor to see what happened. Can you please provide me with your booking reference number?

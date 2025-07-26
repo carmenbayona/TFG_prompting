@@ -1,0 +1,20 @@
+{
+  "topic": "Booking Travel Arrangements",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive and slightly annoyed",
+    "P2": "apologetic and flustered"
+  },
+  "goals": {
+    "P1": "get travel arrangements confirmed",
+    "P2": "avoid responsibility and maintain harmony"
+  },
+  "subplots": [
+    "hidden motive (subplot): P2 wants to avoid taking charge"
+  ],
+  "imperfections": [
+    "lack of clear communication",
+    "incomplete task delegation"
+  ]
+}

@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Movie night planning",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "casual", "P2": "friendly" },
+  "goals": { "P1": "plan movie night", "P2": "plan movie night" },
+  "subplots": [ "sci-fi movie", "snacks" ],
+  "imperfections": [ "P2's initial hesitation (confusion about movie genre)" ]
+}

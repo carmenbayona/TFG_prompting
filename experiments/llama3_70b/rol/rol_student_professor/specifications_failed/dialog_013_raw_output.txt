@@ -1,0 +1,9 @@
+{
+"topic": "internet connection issue",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "frustrated" },
+"goals": { "P1": "resolve internet connection issue", "P2": "same" },
+"subplots": [ "router problem" ],
+"imperfections": [ "Technical difficulty" ]
+}

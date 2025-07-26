@@ -1,0 +1,17 @@
+Here is the generated conversation:
+
+**Turn 1**
+P1: I'm starving. What do you want to get for lunch?
+P2: Hmm, I don't know... Maybe something Italian?
+
+**Turn 2**
+P1: Italian sounds good. Do you want pizza or pasta?
+P2: Wait, no... I mean, maybe we should get sandwiches instead?
+
+**Turn 3**
+P1: Sandwiches are fine. What kind do you want? Turkey or ham?
+P2: Um, actually, can we get salads? I had a big breakfast.
+
+**Turn 4**
+P1: Salads it is. Do you want chicken or tuna on top?
+P2: Yeah, chicken sounds good. Thanks for deciding for us!

@@ -1,0 +1,9 @@
+{
+"topic": "master's program application",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "supportive" },
+"goals": { "P1": "to apply to the program", "P2": "to help P1 with the application" },
+"subplots": [ "P1's interest in data science", "P1's intention to move to Madrid" ],
+"imperfections": []
+}

@@ -1,0 +1,10 @@
+P1: I'm looking to book a room for this weekend. Can you show me what you have available?
+P2: Absolutely! We have a few different options. Let me see what's available... (pauses) Okay, so we have a standard double room for $120 a night, or a deluxe room with a city view for $180.
+P1: Hmm, that's a bit out of my budget. Do you have anything a bit more affordable?
+P2: (hesitates) Well, we do have a limited number of rooms available for $90 a night, but they're not all together. It would be two separate rooms, though.
+P1: (repeats) Two separate rooms? So, you're saying it's two rooms that can be connected, but aren't automatically together?
+P2: Yeah, exactly. It's just that the two rooms might be on different floors, or... (trails off) Wait, I think I can check if we have two adjacent rooms available. (pauses) Yeah, it looks like we do have one room available on the third floor, and another room right next door on the same floor.
+P1: That sounds great! Can I book those two rooms? And is there a minimum stay requirement or anything like that?
+P2: Yeah, you can book those rooms. And as for the minimum stay, it's usually one night, but if you're willing to book for two nights, we can give you a discount.
+P1: Okay, I think I'll take the rooms. Can I pay with credit card?
+P2: Yes, of course. I just need to see the card and get a confirmation number.

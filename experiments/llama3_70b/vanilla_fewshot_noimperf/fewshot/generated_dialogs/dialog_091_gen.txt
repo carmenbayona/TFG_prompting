@@ -1,0 +1,5 @@
+P1: We have a special promotion on our deluxe rooms for the summer season.
+P2: What's included in the deluxe room package?
+P1: It comes with a complimentary breakfast, free Wi-Fi, and a private balcony with a city view.
+P1: And, let me repeat, the private balcony is overlooking the city, so you'll have a great view.
+P2: How big are the rooms? Are they suitable for a family of three?

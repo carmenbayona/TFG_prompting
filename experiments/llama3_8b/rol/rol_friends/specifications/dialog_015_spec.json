@@ -1,0 +1,19 @@
+{
+  "topic": "Travel Arrangements",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get train tickets booked",
+    "P2": "check on train tickets"
+  },
+  "subplots": [
+    "miscommunication (P1 didn't book tickets)"
+  ],
+  "imperfections": [
+    "delayed response (P2 didn't check earlier)"
+  ]
+}

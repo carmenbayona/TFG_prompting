@@ -1,0 +1,4 @@
+P1: This weekend is going to be pretty eventful in the city. There's a music festival on Saturday.
+P2: That sounds awesome! Is it a free event or do we need to buy tickets?
+P1: Um, yeah... tickets. You need to buy tickets. I think they're still available online.
+P2: Okay, cool. And is the festival only on Saturday or are there events on Sunday as well?

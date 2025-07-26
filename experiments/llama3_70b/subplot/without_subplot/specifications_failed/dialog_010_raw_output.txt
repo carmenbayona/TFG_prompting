@@ -1,0 +1,9 @@
+{
+"topic": "Leaking Sink",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "calm" },
+"goals": { "P1": "Get the sink fixed", "P2": "Fix the leak" },
+"subplots": [],
+"imperfections": [ "apologetic tone from P1" ]
+}

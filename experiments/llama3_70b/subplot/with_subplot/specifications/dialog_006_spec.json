@@ -1,0 +1,19 @@
+{
+  "topic": "Medical Consultation",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "reassuring"
+  },
+  "goals": {
+    "P1": "to diagnose the cause of the symptoms",
+    "P2": "to diagnose and reassure the patient"
+  },
+  "subplots": [
+    "P1's fear of a serious diagnosis (subplot)"
+  ],
+  "imperfections": [
+    "P2's vague response to P1's concern"
+  ]
+}

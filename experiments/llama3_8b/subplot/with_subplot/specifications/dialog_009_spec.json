@@ -1,0 +1,20 @@
+{
+  "topic": "Travel Arrangements",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated and disappointed",
+    "P2": "exasperated and annoyed"
+  },
+  "goals": {
+    "P1": "clarify travel plans",
+    "P2": "correct misunderstanding"
+  },
+  "subplots": [
+    "hidden motive (P2's annoyance at P1's mistake)"
+  ],
+  "imperfections": [
+    "miscommunication",
+    "lack of attention to detail"
+  ]
+}

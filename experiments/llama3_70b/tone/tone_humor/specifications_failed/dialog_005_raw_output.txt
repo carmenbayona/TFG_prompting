@@ -1,0 +1,9 @@
+{
+"topic": "Movie Night",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "casual", "P2": "enthusiastic" },
+"goals": { "P1": "decide on a movie", "P2": "agree on a movie and snacks" },
+"subplots": [ "snack planning" ],
+"imperfections": [ "brief hesitation about scariness" ]
+}

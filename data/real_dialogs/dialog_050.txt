@@ -1,0 +1,4 @@
+P1: I'm thinking of learning to code.
+P2: That's great! Any language in mind?
+P1: Python, probably.
+P2: Solid choice.

@@ -1,0 +1,4 @@
+P1: I forgot my umbrella.
+P2: It’s pouring out!
+P1: Guess I’m getting soaked.
+P2: You can share mine.

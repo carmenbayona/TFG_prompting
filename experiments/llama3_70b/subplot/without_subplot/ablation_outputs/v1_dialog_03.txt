@@ -1,0 +1,6 @@
+Here is a generated conversation that meets the specification:
+
+P1: I'm starving, what do you want to get for lunch?
+P2: Uh, I don't know... maybe a sandwich... no, wait, maybe a salad...
+P1: Come on, decide already! I need food ASAP. How about we just get pizzas?
+P2: Actually, that sounds good. But can we get a veggie pizza? No, scratch that, I want a meat lovers instead.

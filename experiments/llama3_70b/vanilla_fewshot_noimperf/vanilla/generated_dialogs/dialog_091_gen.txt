@@ -1,0 +1,11 @@
+P1: Hi there! Welcome to our hotel's booking service. How can I assist you today?
+
+P2: Hi! Yeah, I'm interested in booking a room for this weekend. Do you guys have any availability?
+
+P1: Ah, yes! We do have some rooms left, but I just want to confirm - are you flexible with your dates? We have a special promotion going on for Sunday nights, and it might be worth considering.
+
+P2: Hmm, yeah, I think so. I mean, my plans are pretty flexible. What's the promotion about, again? (pauses) Wait, did you say Sunday nights?
+
+P1: (laughs) Yes, I did! And it's a great deal" - if I do say so myself. We're offering a discounted rate for Sunday night stays, and it includes a complimentary breakfast buffet, which is normally an add-on.
+
+P2: That sounds amazing! Yeah, I'll take it. How do I go about booking it?

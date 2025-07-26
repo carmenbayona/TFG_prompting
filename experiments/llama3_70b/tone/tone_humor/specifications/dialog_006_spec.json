@@ -1,0 +1,21 @@
+{
+  "topic": "medical consultation",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "reassuring"
+  },
+  "goals": {
+    "P1": "get diagnosis and treatment",
+    "P2": "diagnose and reassure"
+  },
+  "subplots": [
+    "P1's health",
+    "P2's bedside manner"
+  ],
+  "imperfections": [
+    "P1's anxiety",
+    "P2's vagueness"
+  ]
+}

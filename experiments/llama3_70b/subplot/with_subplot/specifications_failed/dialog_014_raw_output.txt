@@ -1,0 +1,9 @@
+{
+"topic": "thesis progress",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "frustrated" },
+"goals": { "P1": "help P2", "P2": "get thesis help" },
+"subplots": [ "P2's fear of not meeting deadline (subplot)" ],
+"imperfections": [ "P2's hesitation to ask for help" ]
+}

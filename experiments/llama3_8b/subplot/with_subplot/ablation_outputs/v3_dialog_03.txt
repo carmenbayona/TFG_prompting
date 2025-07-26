@@ -1,0 +1,9 @@
+Here is a generated dialog:
+
+---
+P1: Hey, I'm finally going to return the book I borrowed from you.  
+P2: About time. I was starting to think I'd never see it again.  
+P1: I'm really sorry about the delay. I got caught up with work and...  
+P2: (scoffs) Work? You know what "work" is, don't you? It's just an excuse for being lazy. I remember the last time you borrowed something and took months to return it... the microwave.  
+P1: Ah, yeah... about that... I was going to return it, but then... (pauses) Okay, fine. I forgot. But this time, I really mean it. I'll return it today.  
+P2: (skeptical) You'd better. I don't want to have to remind you again. And what's with the stupid apologies? Just return the item on time in the first place.

@@ -1,0 +1,13 @@
+{
+  "topic": "presentation update",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "positive",
+    "P2": "cautious"
+  },
+  "goals": {
+    "P1": "verify presentation update",
+    "P2": "report presentation update"
+  }
+}

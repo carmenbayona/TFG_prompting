@@ -1,0 +1,13 @@
+P1: Hi there! I'm from Hotel Elite, and I'd be happy to help you book a room for your upcoming trip. Can you please tell me a bit about your preferences? What kind of room are you looking for?
+
+P2: Hi! I'm actually planning a surprise birthday party for my best friend, and I need a room that can accommodate around 10 people. We're looking for something with a nice view, preferably. Do you have any recommendations?
+
+P1: Ah, that sounds like a fun celebration! We have a few options that might fit the bill. Our Deluxe Suite with a city view is a popular choice, and it comes with a private balcony. However, it might be a bit pricey. We also have a larger room with a mountain view that's a bit more budget-friendly. Which one do you think your friend would prefer?
+
+P2: That's a tough choice! But I think the city view would be more impressive for a birthday party. Can you tell me more about the amenities included in that room? Are there any special perks, like a complimentary breakfast or something?
+
+P1: Absolutely! Our Deluxe Suite comes with a complimentary breakfast buffet, as well as access to our fitness center and spa. We also offer a late check-out option, so you and your guests can enjoy the party without any rush. Plus, we can arrange for a special birthday surprise, such as a cake and some balloons, if you'd like.
+
+P2: Wow, that sounds amazing! I think my friend would love all of those extras. Can you send me a confirmation email with all the details, including the total cost and any cancellation policies?
+
+P1: Of course! I'll send you a confirmation email right away. And just to confirm, the total cost for the Deluxe Suite with a city view would be around $500 per night, plus tax. If you need to make any changes to your reservation, please don't hesitate to reach out.

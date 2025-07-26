@@ -1,0 +1,16 @@
+{
+  "topic": "lost phone",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "anxious",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find phone",
+    "P2": "assist P1"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

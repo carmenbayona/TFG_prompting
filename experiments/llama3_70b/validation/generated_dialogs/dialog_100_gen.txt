@@ -1,0 +1,5 @@
+P1: Hey, have you seen the weather forecast for this weekend?
+P2: No, I haven't had a chance to check it yet. What's it looking like?
+P1: Uh, it's supposed to be pretty nice, actually. High pressure system moving in, so we're expecting clear skies and warm temps.
+P2: That sounds great. I was thinking of going for a hike on Sunday. Do you think it'll be warm enough for a t-shirt?
+P1: Hmm, yeah, it should be. They're saying mid-60s, so... yeah, a t-shirt should be fine. You might want to bring a light jacket, though, just in case.

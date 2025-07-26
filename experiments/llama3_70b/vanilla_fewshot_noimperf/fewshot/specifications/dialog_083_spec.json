@@ -1,0 +1,17 @@
+{
+  "topic": "discussing a new book",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "inquisitive"
+  },
+  "goals": {
+    "P1": "sharing information",
+    "P2": "gathering knowledge"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

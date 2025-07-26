@@ -1,0 +1,14 @@
+{
+  "topic": "asking for directions",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "informing",
+    "P2": "learning"
+  },
+  "subplots": []
+}

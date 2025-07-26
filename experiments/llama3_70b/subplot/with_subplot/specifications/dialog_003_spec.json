@@ -1,0 +1,21 @@
+{
+  "topic": "Laptop Order Delay",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "Resolve laptop delay",
+    "P2": "Provide customer support"
+  },
+  "subplots": [
+    "P1's work dependency on the laptop",
+    "P2's empowerment to issue refunds"
+  ],
+  "imperfections": [
+    "P1's emotional escalation",
+    "P2's brief pause before offering a solution"
+  ]
+}

@@ -1,0 +1,4 @@
+P1: Your dog is so well trained!
+P2: Thanks, took months of patience.
+P1: He even does tricks!
+P2: Only for treats.

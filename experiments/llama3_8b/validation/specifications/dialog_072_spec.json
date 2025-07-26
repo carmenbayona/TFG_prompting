@@ -1,0 +1,13 @@
+{
+  "topic": "weekend activities",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "make small talk",
+    "P2": "share weekend experience"
+  }
+}

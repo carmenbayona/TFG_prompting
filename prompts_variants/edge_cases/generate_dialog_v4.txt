@@ -1,0 +1,15 @@
+You are a dialog generation expert. Generate a **clear, professional, and contextually appropriate** conversation based on the following specification.
+
+The dialog must:
+- Be grammatically correct, well-structured, and polite.
+- Avoid any imperfections such as hesitations, contradictions, or filler words.
+- Respect the tone, goals, subplots, and number of turns exactly as described.
+- Use P1: and P2: at the start of each line only.
+
+Do not include system messages or extra text.
+Note: If the specification includes imperfections, you must ignore them and produce a clean dialog without any hesitations or filler words.
+
+
+Specification:
+---
+{SPECIFICATION_HERE}

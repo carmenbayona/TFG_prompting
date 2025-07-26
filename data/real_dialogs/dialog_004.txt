@@ -1,0 +1,6 @@
+P1: Did you have time to read my thesis draft?
+P2: Yes, I did. Some sections are strong, but others need work.
+P1: Oh... okay. Which parts exactly?
+P2: Mainly the literature review. It's a bit weak.
+P1: I see. Should I expand it?
+P2: Yes, and add more recent sources.

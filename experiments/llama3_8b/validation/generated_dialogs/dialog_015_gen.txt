@@ -1,0 +1,23 @@
+P1: Ugh, I'm so frustrated. I tried to book these train tickets online and it's not working.
+
+P2: Oh no, sorry to hear that. Which website were you using?
+
+P1: Oh, it's the national railway's official website. I've used it before, but today it's just not cooperating.
+
+P2: Hmm, that's weird. Can you show me what's happening? Maybe I can help troubleshoot.
+
+P1: Yeah, okay... (pauses) Wait, where's the login button? It's not where it usually is.
+
+P2: Hmm, that's strange. I think I know what might be the problem... (pauses) Yeah, I'm pretty sure I fixed it.
+
+P1: What did you do?
+
+P2: I think it was just a browser issue. Try refreshing the page.
+
+P1: Okay, yeah... that worked! But now I'm worried that it's gonna be late and I'll miss my train.
+
+P2: Oh, don't worry. You've got plenty of time. I checked the schedule and it's still a few hours away.
+
+P1: Okay, good. Thanks for helping me out. I really appreciate it.
+
+P2: No problem at all. That's what I'm here for.

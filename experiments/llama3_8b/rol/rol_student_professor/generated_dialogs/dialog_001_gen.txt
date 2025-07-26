@@ -1,0 +1,15 @@
+Here is the generated dialog:
+
+P1: Hi, Professor Johnson, I'm starting to get worried. I think we had a meeting scheduled for today, but I'm not sure if I'm correct.
+
+P2: What do you mean? What meeting?
+
+P1: I could've sworn we discussed meeting with a client today, but I just double-checked my schedule and I don't see anything. Can you confirm?
+
+P2: Ah, I see what might be the issue. I thought we rescheduled that meeting for next week. Am I right?
+
+P1: No, no, I could've sworn it was today. And if I don't get there on time, I'll be really late. Can you please check your notes or whatever you use to keep track of meetings?
+
+P2: Okay, let me check... (pauses) Yeah, I think you're right. We did schedule the meeting for today. I must have forgotten. Sorry about the confusion.
+
+P1: No worries, I'm just relieved it's still on. Can you please remind me of the details one more time, just to make sure I'm on the right track?

@@ -1,0 +1,20 @@
+{
+  "topic": "Grad School Application",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "considering",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "get into master's program",
+    "P2": "help P1 succeed"
+  },
+  "subplots": [
+    "P2's hidden motive: checking if P1 is leaving the current job"
+  ],
+  "imperfections": [
+    "P1's uncertainty",
+    "P2's overly enthusiastic tone"
+  ]
+}

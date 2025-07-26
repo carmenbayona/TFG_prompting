@@ -1,0 +1,5 @@
+Specification:
+---
+{SPECIFICATION_HERE}
+
+Now return the dialog line by line, starting with P1:

@@ -1,0 +1,21 @@
+{
+  "topic": "birthday gift idea",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find a suitable gift",
+    "P2": "suggest possible options"
+  },
+  "subplots": [
+    "Emma's interests (fantasy novels)",
+    "concert tickets"
+  ],
+  "imperfections": [
+    "lack of specific ideas",
+    "need to check concert schedule"
+  ]
+}

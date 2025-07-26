@@ -1,0 +1,11 @@
+Here is the analyzed interaction in the required JSON format:
+
+{
+  "topic": "Meeting with a client",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "concerned", "P2": "confused" },
+  "goals": { "P1": "remind P2 about the meeting", "P2": "clarify the meeting details" },
+  "subplots": [ "forgetting the meeting", "concern about being late" ],
+  "imperfections": [ "P2's initial confusion (misunderstanding)", "P1's tone of concern" ]
+}

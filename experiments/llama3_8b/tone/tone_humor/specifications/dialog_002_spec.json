@@ -1,0 +1,21 @@
+{
+  "topic": "Travel Planning",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "exasperated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get travel arrangements done",
+    "P2": "make amends"
+  },
+  "subplots": [
+    "miscommunication",
+    "last-minute task"
+  ],
+  "imperfections": [
+    "lack of follow-through",
+    " assumption"
+  ]
+}

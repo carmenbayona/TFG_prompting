@@ -1,0 +1,4 @@
+P1: I'm thinking of applying to that master's program.
+P2: Oh wow, in data science?
+P1: Yeah, the one in Madrid. Seems promising.
+P2: You'd be great for it! Want help with the application?

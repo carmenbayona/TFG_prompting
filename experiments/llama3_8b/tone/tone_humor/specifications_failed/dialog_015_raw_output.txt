@@ -1,0 +1,23 @@
+Here is the extracted high-level structured specification in the required JSON format:
+
+{
+  "topic": "Travel Planning",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get train tickets booked",
+    "P2": "avoid responsibility"
+  },
+  "subplots": [
+    "miscommunication",
+    "role confusion"
+  ],
+  "imperfections": [
+    "inadequate communication",
+    "assuming responsibility"
+  ]
+}

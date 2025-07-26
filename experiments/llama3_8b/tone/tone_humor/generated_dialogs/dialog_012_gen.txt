@@ -1,0 +1,17 @@
+P1: Hey, I'm thinking of applying to the Master's program in Data Science. What do you think?
+
+P2: Whoa, that's a great choice! You're always been good with numbers. When did you decide to go for it?
+
+P1: Hmm, I've been considering it for a while. I really like the idea of working with big data, but I'm not sure if I'm qualified enough.
+
+P2: Qualified enough? You're a math whiz! You'll crush it. Besides, the program is pretty competitive, but I'm sure you have a good shot.
+
+P1: Yeah, I guess you're right. But I've heard the coursework is really tough. What was your experience like in the program?
+
+P2: Oh boy, it was a wild ride. But I loved it. And hey, speaking of wild, did you hear about the teacher who walked into a bar?
+
+P1: Uh, no. What happened?
+
+P2: Never mind. So, what's holding you back from applying? Is it the GRE scores or...?
+
+P1: Yeah, that's a big part of it. I'm not sure if I can get the scores I need.

@@ -1,0 +1,21 @@
+{
+  "topic": "Performance Feedback Meeting",
+  "turns": 10,
+  "participants": 2,
+  "tone": {
+    "P1": "friendly",
+    "P2": "receptive"
+  },
+  "goals": {
+    "P1": "deliver critical feedback in a supportive manner",
+    "P2": "accept feedback and explain their perspective"
+  },
+  "subplots": [
+    "P1 highlights several project failures",
+    "P2 defends decisions with justifications"
+  ],
+  "imperfections": [
+    "P1 occasionally softens harsh points",
+    "P2 becomes slightly defensive"
+  ]
+}

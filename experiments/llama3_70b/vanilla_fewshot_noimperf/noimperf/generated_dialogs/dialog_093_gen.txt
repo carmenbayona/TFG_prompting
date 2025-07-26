@@ -1,0 +1,11 @@
+P1: Hi, I'm calling to make an appointment with Dr. Smith. I've been experiencing some fatigue lately and I'd like to get it checked out.
+
+P2: Okay, let me just check the schedule real quick. Can you tell me a little bit more about what's been going on with the fatigue? Is it constant or does it come and go?
+
+P1: It's been pretty constant, especially after I exercise. I've also noticed my heart rate has been a bit elevated lately. I'm not sure if it's related, but I thought it was worth mentioning.
+
+P2: That's good information to know. We'll definitely want to run some tests to rule out anything serious. Would you be available to come in Wednesday or Thursday of next week?
+
+P1: Wednesday would be perfect. What time were you thinking? And also, can you tell me a little bit more about what I can expect during the appointment?
+
+P2: How about 2 pm on Wednesday? As for the appointment, Dr. Smith will likely do a physical exam, take some blood work, and then discuss the results with you. If everything looks normal, we might do some follow-up tests just to be safe.

@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 4,
+  "realism": 3,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog is mostly fluent and coherent, but lacks realism and originality, and partially ignores key spec elements.",
+  "Variant": "v7_no_imperfections_02",
+  "Dialog": "Here is the generated conversation:\n\nP1: Dude, I've got an amazing surprise for you! You're going to love it.\nP2: Uh-oh, what's the catch? You're not planning on shipping me off to some remote cave in Antarctica, are you?\nP1: Ha! No way, it's not that bad. But you have to pack light and be ready for an adventure.\nP2: An adventure? You mean like the time you surprised me with a trip to the in-laws' house and we had to pretend to enjoy their hospitality?\nP1: Well, this one's going to be much better, I promise! Just trust me and pack your bags.\nP2: Okay, fine. But if we're going to a llama farm, I'm not going.\nP1: No llamas, I swear! But you might want to bring a light jacket. It can get a bit chilly there.\nP2: A light jacket? You're not going to tell me it's because we're going to the moon, are you?\nP1: No, no, it's just a normal destination. I promise.\nP2: Normal destination, huh? That's what you said about the time we went to the Renaissance faire and had to pay for a bunch of overpriced turkey legs.\nP1: Okay, okay, I'll stop teasing you. Just pack your bags and you'll see!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

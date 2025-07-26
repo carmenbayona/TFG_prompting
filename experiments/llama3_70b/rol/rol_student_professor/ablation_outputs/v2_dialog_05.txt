@@ -1,0 +1,11 @@
+P1: P-professor, I-I was wondering if I could talk to you about the up-coming assignment that's due on Friday?
+
+P2: Yes, what about it?
+
+P1: W-well, I'm having a bit of a tough time getting it done on time. I've been dealing with some p-personal problems lately and it's been hard for me to focus.
+
+P2: I'm sorry to hear that. Can you clarify what kind of personal problems you're facing?
+
+P1: I-I, uh, my family's been going through some health issues and it's been a real challenge to balance school and, you know, taking care of them. I think I can still do a great job on the assignment, but I just need a little more time.
+
+P2: I understand your situation, but I have to consider the fact that extensions can be unfair to other students. Can you tell me exactly how much more time you need and what you plan to accomplish with that extra time?

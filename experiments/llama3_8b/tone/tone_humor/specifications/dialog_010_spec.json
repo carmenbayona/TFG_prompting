@@ -1,0 +1,21 @@
+{
+  "topic": "Household Maintenance",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "calm"
+  },
+  "goals": {
+    "P1": "get the issue resolved",
+    "P2": "help P1 and maintain a positive relationship"
+  },
+  "subplots": [
+    "previous fixing attempt",
+    "apologizing for being annoying"
+  ],
+  "imperfections": [
+    "P1's lack of clear communication",
+    "P2's initial denial"
+  ]
+}

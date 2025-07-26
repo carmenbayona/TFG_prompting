@@ -1,0 +1,17 @@
+Here is a clean, minimalistic, and direct conversation that strictly follows the specification:
+
+**Turn 1**
+P1: I'm starving. What do you want to order for lunch?
+P2: Hmm, I'm not sure. What are you in the mood for?
+
+**Turn 2**
+P1: I could eat anything right now. How about you suggest a few options?
+P2: Okay... Well, we could get sandwiches or... no, maybe pasta instead.
+
+**Turn 3**
+P1: Pasta sounds good to me. Which place do you recommend?
+P2: Uh, actually, I was thinking maybe we should get burgers instead...
+
+**Turn 4**
+P1: Fine, burgers it is. Where do you want to order from?
+P2: Oh, how about that new place that just opened up downtown?

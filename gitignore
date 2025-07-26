@@ -1,0 +1,27 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Environments / API keys
+.env
+*.env
+keys.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.xlsx
+*.pdf
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Notebooks with outputs (optional)
+*.nbconvert.ipynb

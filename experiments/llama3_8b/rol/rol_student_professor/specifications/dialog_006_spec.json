@@ -1,0 +1,21 @@
+{
+  "topic": "Student's health concerns",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned and uncertain",
+    "P2": "professional and reassuring"
+  },
+  "goals": {
+    "P1": "get a diagnosis and feel better",
+    "P2": "gather information and provide a diagnosis"
+  },
+  "subplots": [
+    "student's symptoms",
+    "possibility of a serious condition"
+  ],
+  "imperfections": [
+    "P1's lack of medical knowledge",
+    "P2's use of vague language (e.g., 'Let's not worry yet')"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "learning to code",
+  "turns": 3,
+  "participants": 2,
+  "tone": {
+    "participant_1": "contemplative",
+    "participant_2": "encouraging"
+  },
+  "goals": {
+    "participant_1": "explore coding options",
+    "participant_2": "offer support and guidance"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "movie discussion",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "excited",
+    "participant_2": "agreeable"
+  },
+  "goals": {
+    "participant_1": "to share excitement about the movie",
+    "participant_2": "to show agreement and shared experience"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

@@ -1,0 +1,23 @@
+P1: Hey, Doc, I'm really worried about this pain in my knee. It's been going on for weeks and I don't know what's causing it.
+
+P2: Okay, let's take a closer look. Can you tell me more about the pain? Where exactly is it located and how would you describe it?
+
+P1: Uh, it's mostly on the outer side of my knee, and it's like a dull ache, you know? Sometimes it feels like it's going to give out on me.
+
+P2: I see. Have you noticed any triggers that make it worse? Like bending or twisting?
+
+P1: Yeah, definitely. Bending down to pick something up or twisting to get something from the back seat of my car seems to make it flare up.
+
+P2: Alright, okay. I'm going to examine your knee and do a few tests. (pause) Hmm, I'm not feeling any significant swelling or redness. Can you show me how you bend your knee?
+
+P1: (bends knee) Like that?
+
+P2: Right. And what about your flexibility? Can you straighten your leg completely?
+
+P1: (struggles to straighten knee) It's not as easy as it used to be, that's for sure.
+
+P2: Okay, I think we might need to do some imaging tests to rule out any structural issues. Would you be comfortable with that?
+
+P1: Yeah, I guess so. But can you tell me what you're looking for? What's the likelihood of it being something serious?
+
+P2: We'll discuss the results once we get them back. But in general, most cases of knee pain can be managed with physical therapy and lifestyle changes.

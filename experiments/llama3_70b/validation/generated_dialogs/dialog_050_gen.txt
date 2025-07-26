@@ -1,0 +1,8 @@
+P1: I've been thinking about learning to code, but I have no idea where to start.
+P2: Oh, that's awesome! You're considering coding? I've been doing it for a while, I can totally help you out.
+P1: Yeah, I mean, I've heard it's a great skill to have, but it seems so... overwhelming. Like, which language should I even learn first?
+P2: Hmm, well, it depends on what you wanna do with it, you know? Are you interested in web development, or maybe mobile apps, or...?
+P1: Uh, I'm not really sure. I just know I wanna be able to, like, create something from scratch, you know?
+P2: Totally get it! Okay, so, have you considered starting with something like Python or JavaScript? They're pretty beginner-friendly.
+P1: Python, yeah, I've heard of that. Is it, like, a good all-around language to know?
+P2: Absolutely! Python's super versatile, and it's got a huge community behind it, so there are tons of resources available. I can give you some links to get you started, if you want.

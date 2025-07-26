@@ -1,0 +1,29 @@
+Here is a dialog between two friends, Alex and Sam, planning a weekend trip:
+
+---
+P1 (Alex): Oh man, I've been thinking about this trip to the beach for weeks! Are you in?  
+P2 (Sam): I don't know, Alex. I've got a family dinner on Saturday.  
+P1 (Alex): Ah, come on! It'll be fun, I promise! We can even make it a quick trip, just Saturday to Sunday.  
+P2 (Sam): I'm not sure... how far is the drive again?  
+P1 (Alex): Like, three hours max. We can make it a road trip adventure!  
+P2 (Sam): You know what, fine. But if we don't leave by 8 am sharp, I'm blaming you for making me late to my dinner.
+
+---
+
+Here's how the dialog meets the specifications:
+
+* Topic: Planning a weekend trip
+* Turns: 6
+* Participants: 2 (Alex and Sam)
+* Tone:
+	+ P1 (Alex): excited
+	+ P2 (Sam): skeptical
+* Goals:
+	+ P1 (Alex): convince P2 to join
+	+ P2 (Sam): get more information before agreeing
+* Subplots:
+	+ P2 has a family commitment (family dinner on Saturday)
+* Imperfections:
+	+ P2 changes their mind mid-dialog (initially hesitant, but agrees to go in the end with conditions)
+
+Let me know if you'd like me to make any changes!

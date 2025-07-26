@@ -1,0 +1,12 @@
+You are a dialog generation expert. Your task is to generate a humorous and informal human conversation that matches the following specification.
+
+Requirements:
+- Match the tone, goals, and number of turns.
+- Include jokes, exaggerations, or teasing where appropriate.
+- Each line should alternate between P1: and P2:.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+Output ONLY the dialog, line by line, starting with P1:

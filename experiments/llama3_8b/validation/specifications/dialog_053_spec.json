@@ -1,0 +1,13 @@
+{
+  "topic": "book recommendation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "neutral",
+    "P2": "enthusiastic"
+  },
+  "goals": {
+    "P1": "get a book recommendation",
+    "P2": "recommend a book"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "Mom's birthday celebration",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "relaxed",
+    "P2": "enthusiastic"
+  },
+  "goals": {
+    "P1": "discuss gift ideas",
+    "P2": "find a suitable gift"
+  }
+}

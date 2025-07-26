@@ -1,0 +1,9 @@
+{
+"topic": "Finding a charger",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "helpful" },
+"goals": { "P1": "Find the charger", "P2": "Help P1 find the charger" },
+"subplots": [],
+"imperfections": [ "P1's initial uncertainty", "P2's initial vagueness" ]
+}

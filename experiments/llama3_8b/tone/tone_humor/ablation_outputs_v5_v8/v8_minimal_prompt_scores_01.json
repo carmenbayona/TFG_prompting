@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 4,
+  "realism": 3,
+  "fidelity_to_specification": 4,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unnatural responses, but overall it's coherent and engaging.",
+  "Variant": "v8_minimal_prompt_01",
+  "Dialog": "Here is the conversation:\n\n**Turn 1: P1**\nHey, P2! I have a surprise for you! I've been planning a trip and I think you'll love it. Can you please start packing your bag?\n\n**Turn 2: P2**\nA surprise? What does that even mean? Where are we going? And why do I need to pack already? Is it some kind of emergency?\n\n**Turn 3: P1**\nHa ha, no emergency! I just want to make it a special surprise. Trust me, you'll love it. Just pack a few essentials like clothes and toiletries. That's all I'll say for now.\n\n**Turn 4: P2**\nOkay, fine. But you're really not making this easy, are you? I'm starting to think it's some kind of prank. Is it Antarctica? Are we going to the South Pole?\n\n**Turn 5: P1**\nHa ha, no, not Antarctica! That's a great guess, though. Let's just say it's a \"unique\" destination. Pack some comfortable shoes, okay?\n\n**Turn 6: P2**\nUnique destination, huh? Is it a llama farm, then? I've always wanted to see llamas up close.\n\n**Turn 7: P1**\n(laughs nervously) Oh, no, no llama farm! But you're on the right track with the \"unique\" part. Just remember to pack for different weather conditions. You don't want to be caught off guard.\n\n**Turn 8: P2**\n(raises an eyebrow) Weather conditions, huh? So it's not a desert or a tropical island, then? Is it... (pauses, looking thoughtful) ...a city that has a lot of rain?!\n\n**P1:** (accidentally) Oh, yeah, it does rain there... just a little.\n\n**P2:** (excitedly) AHA! I KNEW IT! IS IT SEATTLE?!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

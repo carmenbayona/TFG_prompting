@@ -1,0 +1,7 @@
+P1: Excuse me, I'm trying to get to the city center. Can you tell me the best way to get there?
+
+P2: Oh, yeah! I'm actually heading in that direction too. What's taking you there? Got a meeting or something?
+
+P1: No, I'm just a tourist. I heard the city center has some great landmarks and shopping areas. I've got my map here, but I'm not really sure which route to take. Do you think I should take the bus or walk?
+
+P2: Ah, tourist, eh? Well, I can give you some insider tips then! The bus is a good option, but if you're up for a short walk, I can show you a shortcut that'll take you through this really cool street art alley. It's not on most tourist maps, but it's definitely worth a look. Would you like that?

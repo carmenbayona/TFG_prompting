@@ -1,0 +1,19 @@
+{
+  "topic": "Fitness Goals",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "motivating P2 to exercise",
+    "P2": "regaining exercise routine"
+  },
+  "subplots": [
+    "P2's guilt over slacking on exercise"
+  ],
+  "imperfections": [
+    "P2's initial reluctance to start exercising"
+  ]
+}

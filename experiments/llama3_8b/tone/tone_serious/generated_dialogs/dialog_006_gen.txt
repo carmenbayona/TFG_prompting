@@ -1,0 +1,15 @@
+P1: Hello, doctor. I've been experiencing some strange symptoms lately and I'm worried about my health.
+
+P2: Good morning, sir. Please, tell me more about these symptoms. What exactly have you been experiencing?
+
+P1: Well, I've been having severe headaches for the past week. They're constant and there's no relief. Sometimes I feel dizzy too, and I'm getting really tired easily.
+
+P2: I see. Headaches, dizziness, and fatigue can be caused by many things. Can you tell me when these symptoms started and if you've noticed any triggers?
+
+P1: Yeah... my headaches started a few days after I had a minor car accident. I'm not sure if it's related, but I've been feeling anxious since then too... (hesitation) I'm worried it might be something serious.
+
+P2: I understand your concern, sir. We'll definitely investigate all possibilities. I'd like to do a physical examination and some tests to rule out any underlying conditions. Would you be comfortable with that?
+
+P1: Yes, of course. I just want to know what's going on and how to make it stop.
+
+P2: Very well. Let's get started then.

@@ -1,0 +1,10 @@
+{
+  "fluency": 3,
+  "coherence": 2,
+  "realism": 2,
+  "fidelity_to_specification": 1,
+  "engagement": 2,
+  "originality": 1,
+  "comments": "The dialog lacks natural flow and has some awkward phrasing.",
+  "Variant": "llama3_8b_subplot_without_subplot_v2_03"
+}

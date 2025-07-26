@@ -1,0 +1,9 @@
+{
+  "topic": "Emma's birthday gift",
+  "turns": 4,
+  "participants": 2,
+  "tone": { "P1": "inquisitive", "P2": "helpful" },
+  "goals": { "P1": "find a suitable gift", "P2": "assist in gift selection" },
+  "subplots": [ "P1's uncertainty about Emma's preferences" ],
+  "imperfections": [ "P2's vague initial suggestion (hidden motive: buying time to think)" ]
+}

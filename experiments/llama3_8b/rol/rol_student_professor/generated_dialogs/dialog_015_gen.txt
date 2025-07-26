@@ -1,0 +1,11 @@
+Here is the generated dialog:
+
+P1: I'm trying to book a train ticket from London to Manchester, but the website keeps saying the train is sold out. Can you help me figure out what's going on?
+
+P2: Ah, sorry to hear that. Can you tell me more about what happened when you tried to book the ticket? Did you get an error message or something?
+
+P1: Yeah, it just says "train not available" or something like that. I've tried refreshing the page and even tried booking a different ticket, but nothing's working.
+
+P2: Okay, let me see what might be going on. (pauses) Hmm, it looks like the ticket you're trying to book is actually for a train that's been cancelled due to engineering works. I think that's why you're getting the "train not available" message.
+
+P1: What?! That's ridiculous! I specifically checked the website before booking and it didn't say anything about it being cancelled. Can you please help me get a new ticket?

@@ -1,0 +1,7 @@
+P1: Can you walk me through the travel arrangements for the upcoming conference?
+
+P2: Ah, yes... I believe our team is responsible for booking the flights and accommodations.
+
+P1: I thought we had delegated that task to HR?
+
+P2: I apologize, I must have misspoken. Let me double-check.

@@ -1,0 +1,18 @@
+{
+  "topic": "technical help",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "engaged"
+  },
+  "goals": {
+    "P1": "seeking information",
+    "P2": "learning"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "unnatural phrasing"
+  ]
+}

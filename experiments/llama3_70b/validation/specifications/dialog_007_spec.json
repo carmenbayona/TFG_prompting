@@ -1,0 +1,16 @@
+{
+  "topic": "workout routine",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "encouraging",
+    "participant_2": "self-critical"
+  },
+  "goals": {
+    "participant_1": "to motivate and guide the workout",
+    "participant_2": "to get back on track with exercising"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

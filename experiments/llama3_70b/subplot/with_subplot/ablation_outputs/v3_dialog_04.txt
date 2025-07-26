@@ -1,0 +1,14 @@
+Here is a dialog that meets the specification:
+
+---
+P1: Hey, I'm really sorry about keeping your laptop for so long. I'm finally bringing it back.
+P2: (sighing) About time. I've been asking you for weeks.
+P1: I know, I know. I've just been really busy with work and stuff.
+P2: (incredulous) "Stuff"? You're always busy with "stuff". Remember that time you borrowed my camera and kept it for months?
+P1: (sheepishly) Oh, yeah... I'm really sorry about that too.
+P2: (frustrated) Yeah, sorry isn't going to cut it. You always do this. You borrow something and then forget about it.
+P1: (apologetically) I said I'm sorry, okay? It won't happen again. I promise.
+
+---
+
+In this dialog, the topic is returning a borrowed item, and the tone is apologetic for P1 and annoyed for P2. P1's goal is to return the item and apologize, while P2's goal is to express disappointment. The subplot involves P2 bringing up a previous similar incident, where P1 borrowed something else and kept it for too long. The imperfections in the dialog include P1 giving excuses ("I've just been really busy with work and stuff") and P2 repeating themselves ("You always do this. You borrow something and then forget about it").

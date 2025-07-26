@@ -1,0 +1,18 @@
+{
+  "topic": "request to cover a shift",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "desperate",
+    "P2": "hesitant"
+  },
+  "goals": {
+    "P1": "get shift covered",
+    "P2": "accommodate P1"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition",
+    "hesitation"
+  ]
+}

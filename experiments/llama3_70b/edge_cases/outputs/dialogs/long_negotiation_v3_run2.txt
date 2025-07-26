@@ -1,0 +1,17 @@
+Here is a generated dialog based on the specification:
+
+---
+P1: I've had a chance to examine the vase, and I have to say, I'm not convinced it's entirely genuine.
+P2: What do you mean? This is a rare piece, certified by the best experts in the field.
+P1: (interrupting) Yes, yes, I've seen the certificates, but I've also seen similar pieces at a fraction of the price.
+P2: (frustrated) Those pieces are not comparable. This vase has a provenance that's unmatched.
+P1: (pushing) I understand that, but I still think the price is too high. Can you show me some comparable sales?
+P2: (defensively) We've had similar pieces sell for even higher prices at auction. I can show you the records.
+P1: (skeptical) Auction fever can drive prices up. I'm looking for private sales, where the buyers aren't caught up in the excitement.
+P2: (hesitating) Okay, fine. I can show you a private sale from last year, but it's not publicly disclosed.
+P1: (persistent) That's exactly what I need to see. Can you share the details?
+P2: (reluctantly) Alright... The piece sold for... (pausing, looking uncomfortable) ...a price very close to what we're asking.
+P1: (quickly) And what about the flaws in the glazing? That has to affect the value.
+P2: (firmly) Those flaws are minor and don't detract from the overall piece. In fact, they add character.
+P1: (smiling) I think we can both agree that character comes at a cost. Can you revisit the price, considering everything we've discussed?
+P2: (firmly) I'll think about it, but I'm not making any promises.

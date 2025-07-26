@@ -1,0 +1,19 @@
+{
+  "topic": "lost charger",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find charger",
+    "P2": "assist student"
+  },
+  "subplots": [
+    "charger location"
+  ],
+  "imperfections": [
+    "initial uncertainty (P2)"
+  ]
+}

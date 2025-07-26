@@ -1,0 +1,14 @@
+You are a dialog generation expert. Generate a concise and structured conversation without any subplot, based on the following specification.
+
+Rules:
+- Follow the number of turns exactly.
+- Avoid unrelated narrative developments.
+- Maintain focus on the main goals.
+- Include mild imperfections like hesitations.
+- Start each line with P1: or P2: only.
+
+No extra text, explanation, or story branches.
+
+Specification:
+---
+{SPECIFICATION_HERE}

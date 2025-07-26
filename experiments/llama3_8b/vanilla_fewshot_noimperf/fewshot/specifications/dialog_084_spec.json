@@ -1,0 +1,18 @@
+{
+  "topic": "Movie",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "acquire information"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "repetition"
+  ]
+}

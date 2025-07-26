@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 4,
+  "realism": 3,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unrealistic interactions, but it's engaging and coherent.",
+  "Variant": "v6_no_example_02",
+  "Dialog": "P1: Oh my gosh, I'm so excited to plan a surprise trip! You're going to love it.\nP2: Uh, what's going on? You've been acting weird all week. Spill the beans, pal.\nP1: Nothing's going on, I just really need to get out of town for a bit, okay?\nP2: Okay, but I'm watching you. You're not getting away that easily. So, where is this mystery trip taking me?\nP1: Hmm, well, let's just say it's somewhere with a lot of... natural beauty.\nP2: Oh, natural beauty, huh? That's code for \"it's a llama farm, isn't it?\"\nP1: Ha! No, no llamas, I promise. But there will be some pretty cool wildlife.\nP2: Okay, okay, I'll play along. Is it, like, Antarctica or something?\nP1: *pauses* Well, it's not cold, exactly... but you will need a light jacket.\nP2: *laughs* Oh, you're a tough guy, huh? Alright, I'll keep guessing. How about a hot air balloon festival?\nP1: *laughs* No, no balloons. But you are getting warmer... or should I say, cooler?\nP2: *laughs* Oh, this is ridiculous. You're not even trying to hide it anymore. Just tell me where we're going!\nP1: *laughs* Okay, okay, I'll stop teasing you. But just for now!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

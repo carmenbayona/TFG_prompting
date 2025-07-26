@@ -1,0 +1,13 @@
+{
+  "topic": "traffic",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "to give warning about traffic",
+    "P2": "to express frustration and agree with P1"
+  }
+}

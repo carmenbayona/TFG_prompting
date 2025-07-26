@@ -1,0 +1,13 @@
+{
+  "topic": "health issue",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "professional"
+  },
+  "goals": {
+    "P1": "get diagnosed and treated",
+    "P2": "evaluate symptoms and plan testing"
+  }
+}

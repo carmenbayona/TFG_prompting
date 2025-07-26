@@ -1,0 +1,27 @@
+# Core dependencies
+numpy
+pandas
+tqdm
+python-dotenv
+requests
+
+# LLM APIs and prompt management
+openai
+groq
+transformers
+accelerate
+
+# JSON parsing and validation
+orjson
+jsonschema
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Date/time utilities
+python-dateutil
+
+# Optional (for working with LLaMA locally, if applicable)
+llama-cpp-python  # Uncomment if using local models

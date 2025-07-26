@@ -1,0 +1,20 @@
+{
+  "topic": "Maintenance of the House",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "skeptical"
+  },
+  "goals": {
+    "P1": "report a problem",
+    "P2": "investigate and resolve the issue"
+  },
+  "subplots": [
+    "previous repair",
+    "nagging"
+  ],
+  "imperfections": [
+    "P1's unclear reporting (vagueness)"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "Shift coverage",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "desperate",
+    "P2": "reluctant"
+  },
+  "goals": {
+    "P1": "get shift covered",
+    "P2": "maintain existing plans"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

@@ -1,0 +1,17 @@
+P1: Hi, I'm having some trouble with my internet connection in class. It keeps dropping every few minutes.
+
+P2: (sighs) Okay, what's your laptop's operating system?
+
+P1: Um, it's... (pauses) Windows 10, I think.
+
+P2: Alright. Have you tried restarting your router? Sometimes that resolves the issue.
+
+P1: Yeah, I tried that already. Could it be a problem with the school's network?
+
+P2: (frustrated) Look, I've already checked the network, it's fine. The issue is probably with your router. Let me take a look. (pauses) Okay, I think I see the problem. Your router's firmware is outdated. That's why you're experiencing the drops.
+
+P1: Okay, so how do I update it?
+
+P2: (sighs) You need to download the update from the manufacturer's website and follow their instructions. I'll give you a handout with the steps. In the meantime, you can use the school's Wi-Fi on your phone to stay connected.
+
+P1: Alright, got it. Thanks for your help.

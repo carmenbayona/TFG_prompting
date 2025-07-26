@@ -1,0 +1,7 @@
+P1: Hi, I'm trying to schedule a doctor's appointment for next week.
+P2: Okay, which kind of doctor are you seeing?
+P1: My primary care physician, just for a routine check-up.
+P2: Got it. What times are you available?
+P1: Hmm, let me think... how about Wednesday afternoon?
+P2: Wednesday works, but what time were you thinking specifically?
+P1: Oh, um, around 2 o'clock?

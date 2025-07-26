@@ -1,0 +1,8 @@
+Here is the generated dialog:
+
+P1: P-professor, c-can I s-speak with you about the assignment?  
+P2: Yes, what seems to be the issue?  
+P1: I-I'm having t-trouble meeting the deadline, p-professor. I've been having some p-personal problems lately...  
+P2: I'm sorry to hear that. Can you clarify what kind of problems you're facing?  
+P1: W-well, my grandmother fell ill and I had to take care of her. I didn't get much time to work on the assignment.  
+P2: I understand. However, I need to consider the impact of an extension on the overall course schedule. Can you show me what you've done so far?

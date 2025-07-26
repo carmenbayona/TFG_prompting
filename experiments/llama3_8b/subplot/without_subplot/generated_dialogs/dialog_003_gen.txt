@@ -1,0 +1,15 @@
+P1: Look, I'm trying to get my new laptop delivered, but it's been a week and I still haven't received it. Can you please help me figure out what's going on?
+
+P2: I apologize for the inconvenience, sir. Can you please provide me with your order number so I can look into this further?
+
+P1: (pauses) Ah, okay... it's... uh... 123456. Yeah, that's it.
+
+P2: Thank you, sir. Let me just check on the status of your order. (pauses) It looks like there was an issue with the shipping carrier causing a delay.
+
+P1: What? That's ridiculous! I paid for expedited shipping, and now you're telling me it's been delayed? This is unacceptable.
+
+P2: I understand your frustration, sir. I'm going to go ahead and reschedule the delivery for tomorrow. You should receive the laptop by end of day.
+
+P1: Tomorrow? That's still too long! I need this laptop for work, and I'm falling behind because of your company's mistake.
+
+P2: I apologize again for the inconvenience, sir. I'm going to also provide you with a prepaid return shipping label in case the laptop is damaged or doesn't meet your expectations.

@@ -1,0 +1,13 @@
+{
+  "topic": "leaking sink",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "calm"
+  },
+  "goals": {
+    "P1": "report the issue and get help",
+    "P2": "assess and fix the issue"
+  }
+}

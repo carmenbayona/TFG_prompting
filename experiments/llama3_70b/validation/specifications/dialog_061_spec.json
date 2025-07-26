@@ -1,0 +1,16 @@
+{
+  "topic": "project status and presentation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inquisitive",
+    "participant_2": "confident"
+  },
+  "goals": {
+    "participant_1": "obtain project update",
+    "participant_2": "report project status"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

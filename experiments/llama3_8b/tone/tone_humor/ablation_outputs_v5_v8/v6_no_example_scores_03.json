@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 3,
+  "realism": 2,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unrealistic expectations, but it's engaging and has some creative moments.",
+  "Variant": "v6_no_example_03",
+  "Dialog": "Here is the generated conversation:\n\nP1: Oh man, I'm so excited for our surprise trip! You're going to love it!\n\nP2: What surprise trip? You're not even telling me where we're going, are you?\n\nP1: Uh, no... it's a surprise! But trust me, it'll be amazing!\n\nP2: Save it, I've seen some of these tactics before. Are we going to a llama farm?\n\nP1: Hmm, no... why would we go to a llama farm? That's not even a real vacation spot!\n\nP2: Oh, come on! You're not telling me because it's Antarctica, aren't you?\n\nP1: Uh, no... it's definitely not Antarctica! Although, I did hear it's going to be a bit chilly when we get there.\n\nP2: See, I knew it! You're taking me to the North Pole and making me ice-sculpture for the rest of the trip!\n\nP1: (laughs) No, no, no! That's not even close! Just trust me, you'll love it. Pack your bags and I'll reveal everything when we get there!\n\nP2: Fine, but if I end up in a bird sanctuary, I'm blaming you!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

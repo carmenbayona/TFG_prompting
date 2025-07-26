@@ -1,0 +1,13 @@
+{
+  "topic": "asking for directions",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "learn about asking for directions"
+  }
+}

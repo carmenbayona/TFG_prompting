@@ -1,0 +1,14 @@
+{
+  "topic": "complaining about a product",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "critical",
+    "P2": "inquisitive"
+  },
+  "goals": {
+    "P1": "to share a negative experience",
+    "P2": "to learn more"
+  },
+  "subplots": []
+}

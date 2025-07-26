@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 2,
+  "realism": 2,
+  "fidelity_to_specification": 1,
+  "engagement": 3,
+  "originality": 2,
+  "comments": "The dialog's unnatural phrasing and repetitive structure detract from its overall fluency and coherence.",
+  "Variant": "v6_no_example_05",
+  "Dialog": "P1: Oh my gosh, I'm so excited to plan this surprise trip for us!\nP2: What's going on? You've been acting super sneaky lately.\nP1: Nothing, nothing! Just a little something I've been thinking about. You'll love it, I promise!\nP2: Hmm, that sounds suspicious. Is it to the moon? I've always wanted to visit the moon.\nP1: Ha! No, no, it's definitely not the moon. But I will say that the weather will be... unpredictable.\nP2: Unpredictable, huh? Is that code for \"it's going to be freezing in Antarctica\"?\nP1: No way, it's definitely not that cold! But I will say that we might need some special gear.\nP2: Special gear? Like llama farm gear? I've heard those places can get pretty rugged.\nP1: Um, no. Definitely not a llama farm. But I do think we'll need something to keep us dry.\nP2: Dry? Like on a desert island? I've always wanted to visit a desert island.\nP1: No, it's not a desert island... but I do think we'll have some amazing views.\nP2: Views? Like from the top of a skyscraper? I've heard those cities can get pretty windy.\nP1: No, it's not a city... but I do think we'll feel very small.\nP2: Small? Like in a tiny village in the middle of nowhere? I've heard those places can get pretty... deserted.\nP1: Okay, okay, I think I've said too much. Just pack your bags and trust me, you'll love it!\nP2: Fine, but if we end up in a llama farm, I'm blaming you!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

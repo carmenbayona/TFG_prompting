@@ -1,0 +1,16 @@
+{
+  "topic": "inquiry about the other person's well-being and studying",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "concerned",
+    "participant_2": "matter-of-fact"
+  },
+  "goals": {
+    "participant_1": "expressing care and interest",
+    "participant_2": "providing a brief explanation"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

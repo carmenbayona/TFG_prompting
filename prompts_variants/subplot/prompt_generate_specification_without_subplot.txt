@@ -1,0 +1,28 @@
+You are an expert in analyzing clear and goal-driven conversations.
+
+Your task is to analyze the following conversation and extract a high-level structured specification. The conversation should **not include any subplot** beyond the main goals.
+
+Return ONLY a valid JSON object with the following exact format and keys:
+```json
+{
+  "topic": "string",
+  "turns": integer,
+  "participants": 2,
+  "tone": { "P1": "string", "P2": "string" },
+  "goals": { "P1": "string", "P2": "string" },
+  "subplots": [],
+  "imperfections": [ "string", "..." ]
+}
+```
+
+⚠️ Strict formatting rules:
+- Use only **straight double quotes** (`"like this"`) for all keys and string values.
+- Do **not** include any extra or unmatched quotes.
+- All dictionary keys must be followed by a colon `:` and comma-separated.
+- All list elements must be **double-quoted strings**, separated by commas.
+- `"subplots"` must be an **empty array** `[]`.
+- Do not include any introductory or closing text. Output must be pure JSON parsable with `json.loads()`.
+
+Here is the dialog:
+---
+{REAL_DIALOG_HERE}

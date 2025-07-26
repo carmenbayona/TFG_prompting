@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 2,
+  "realism": 2,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unrealistic expectations, but it's engaging and has some creative moments.",
+  "Variant": "v5_no_instructions_05",
+  "Dialog": "Here is the dialog line by line, starting with P1:\n\n**P1:** \"Hey, I've been thinking, and I have a surprise for you! Are you ready?\"\n\n**P2:** \"A surprise? What kind of surprise? You're not planning on dumping me at a llama farm, are you?\"\n\n**P1:** \"Ha! No, nothing like that! I just thought it would be fun to take a spontaneous trip. You know, just the two of us.\"\n\n**P2:** \"Spontaneous trip? You've been planning this for weeks, I can tell! What's the weather like where we're going? Is it sunny?\"\n\n**P1:** \"Uh, yeah... it's... sunny-ish. But that's not important. Just pack your bags and we'll figure out the rest when we get there.\"\n\n**P2:** \"Sunny-ish? That's not very specific. Are we going to the moon? I bet it's sunny there during the day...\"\n\n**P1:** \"No, no, it's not the moon! Just... trust me on this one, okay? And don't worry, it's not Antarctica either...\"\n\n**P2:** \"Wait, you're not telling me anything! Are we going to a secret underground bunker or something? Do you have a friend who has one of those?\"\n\n**P1:** \"No, nothing like that! Just... just pack your bags and come with me, okay?\"\n\n**P2:** \"Okay, fine... but if we end up at a llama farm, I'm blaming you...\"\n\nLet me know if you'd like me to add any additional lines!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

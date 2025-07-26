@@ -1,0 +1,9 @@
+{
+"topic": "Travel plans",
+"turns": 6,
+"participants": 2,
+"tone": { "P1": "slightly annoyed", "P2": "apologetic" },
+"goals": { "P1": "to confirm travel plans", "P2": "to make amends" },
+"subplots": [ "miscommunication", "responsibility" ],
+"imperfections": [ "forgetfulness", "blame-shifting" ]
+}

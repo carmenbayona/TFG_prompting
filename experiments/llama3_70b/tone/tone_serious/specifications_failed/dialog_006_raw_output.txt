@@ -1,0 +1,9 @@
+{
+"topic": "Medical Consultation",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "professional" },
+"goals": { "P1": "understand diagnosis", "P2": "diagnose patient" },
+"subplots": [ "identifying symptoms", "ruling out serious conditions" ],
+"imperfections": [ "P1's hesitation (nervous tone)" ]
+}

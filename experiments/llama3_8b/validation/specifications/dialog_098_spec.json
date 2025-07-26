@@ -1,0 +1,13 @@
+{
+  "topic": "Job Interview",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share experience",
+    "P2": "learn about job interview"
+  }
+}

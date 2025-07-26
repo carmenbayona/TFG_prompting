@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Internet Connectivity Issues",
+  "turns": 4,
+  "participants": 2,
+  "tone": { "P1": "concerned", "P2": "frustrated" },
+  "goals": { "P1": "get internet working", "P2": "resolve issue" },
+  "subplots": ["hidden motive (subplot): P2 is trying to avoid being responsible for the router's issues"],
+  "imperfections": ["P1 assumes the router is the cause of the issue without knowing"]
+}

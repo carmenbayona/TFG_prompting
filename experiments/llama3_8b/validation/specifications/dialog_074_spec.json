@@ -1,0 +1,15 @@
+{
+  "topic": "P1's interest in P2's dog",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "friendly",
+    "P2": "grateful"
+  },
+  "goals": {
+    "P1": "learn more about P2's dog",
+    "P2": "share information about P2's dog"
+  },
+  "subplots": [],
+  "imperfections": []
+}

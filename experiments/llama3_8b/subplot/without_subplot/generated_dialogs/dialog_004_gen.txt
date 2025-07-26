@@ -1,0 +1,15 @@
+P1: I'm excited to get your feedback on my thesis draft. What are your initial thoughts?
+
+P2: Well, I think it's a good start, but I have some concerns about the methodology section. Can you walk me through your thought process behind choosing that approach?
+
+P1: Yeah, I was thinking that it would be more efficient to use a mixed-methods approach, but I'm open to other suggestions. What specifically is concerning you about it?
+
+P2: I'm not sure it's the best choice for this topic. Have you considered the potential biases that could be introduced?
+
+P1: That's a good point. I hadn't thought about that. Can you suggest an alternative?
+
+P2: Yeah, I think a single-method approach would be more suitable. But I'd like to see more clarity on how you're going to address those biases.
+
+P1: Okay, I'll add that to the draft. What else do you think I should focus on?
+
+P2: Well, I think the literature review could be stronger. Can you provide more context on why you're choosing to focus on certain studies over others?

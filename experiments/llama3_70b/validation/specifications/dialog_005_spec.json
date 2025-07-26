@@ -1,0 +1,17 @@
+{
+  "topic": "watching a movie together",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "participant_1": "casual",
+    "participant_2": "cautious"
+  },
+  "goals": {
+    "participant_1": "suggest a movie to watch",
+    "participant_2": "agree on a movie and clarify its genre"
+  },
+  "subplots": [
+    "getting snacks"
+  ],
+  "imperfections": []
+}

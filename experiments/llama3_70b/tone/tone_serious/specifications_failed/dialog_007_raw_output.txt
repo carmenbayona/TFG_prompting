@@ -1,0 +1,9 @@
+{
+"topic": "workout planning",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "encouraging", "P2": "apologetic" },
+"goals": { "P1": "helping P2 get back on track", "P2": "getting back into a workout routine" },
+"subplots": [ "overcoming procrastination" ],
+"imperfections": [ "hesitation (slightly hesitant tone)" ]
+}

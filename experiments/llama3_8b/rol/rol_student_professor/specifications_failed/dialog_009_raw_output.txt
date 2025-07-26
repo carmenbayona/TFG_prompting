@@ -1,0 +1,23 @@
+Here is the extracted specification in the required JSON format:
+
+{
+  "topic": "Travel Schedule Confusion",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "confused",
+    "P2": "patient"
+  },
+  "goals": {
+    "P1": "clarify travel schedule",
+    "P2": "remind student of correct date"
+  },
+  "subplots": [
+    "re-reading email",
+    "booking hotel mistake"
+  ],
+  "imperfections": [
+    "miscommunication about date",
+    "inadequate email confirmation"
+  ]
+}

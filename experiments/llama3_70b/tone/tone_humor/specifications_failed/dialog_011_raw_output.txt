@@ -1,0 +1,9 @@
+{
+"topic": "lost charger",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "helpful" },
+"goals": { "P1": "find charger", "P2": "assist P1" },
+"subplots": [ "misdirection to kitchen" ],
+"imperfections": [ "P2's initial deception" ]
+}

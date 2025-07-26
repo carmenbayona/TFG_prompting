@@ -1,0 +1,20 @@
+{
+  "topic": "Leaking Sink",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "confused"
+  },
+  "goals": {
+    "P1": "get sink fixed",
+    "P2": "assess and fix issue"
+  },
+  "subplots": [
+    "previous repair",
+    "dripping at night"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause)"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "fluency": 5,
+  "coherence": 5,
+  "realism": 5,
+  "fidelity_to_specification": 1,
+  "engagement": 5,
+  "originality": 4,
+  "comments": "The dialog is well-structured and engaging, but lacks any clear specification to follow.",
+  "Variant": "llama3_70b_rol_friends_v1_04"
+}

@@ -1,0 +1,9 @@
+{
+"topic": "graduate school application",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "supportive" },
+"goals": { "P1": "seeking advice", "P2": "offering help" },
+"subplots": [ "data science interest", "application process" ],
+"imperfections": []
+}

@@ -1,0 +1,7 @@
+P1: Hey, wanna watch a movie tonight?
+P2: Hmm, I don't know... what did you have in mind?
+P1: Uh, I was thinking maybe that new rom-com with Emma Stone?
+P2: Rom-com? I'm not really in the mood for something so... sappy.
+P1: Oh, come on! It's supposed to be really funny. And we can grab some snacks too, I've got some popcorn kernels...
+P2: Okay, okay... but can you tell me a bit more about it? Is it a straight-up rom-com or does it have some other elements to it?
+P2: And yeah, snacks sound good. Do you have any chips?

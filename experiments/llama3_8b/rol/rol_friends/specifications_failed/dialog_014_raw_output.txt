@@ -1,0 +1,21 @@
+Here is the high-level structured specification in JSON format:
+
+{
+  "topic": "Academic struggles",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "offer help",
+    "P2": "get help with thesis"
+  },
+  "subplots": [
+    "struggling with a specific section of a thesis"
+  ],
+  "imperfections": [
+    "P2's inability to figure out the methodology section"
+  ]
+}

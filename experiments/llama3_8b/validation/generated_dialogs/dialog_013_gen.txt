@@ -1,0 +1,17 @@
+P1: Hey, I'm having some issues with my internet connection. I'm not getting any speed at all.
+
+P2: What's going on? You're not even getting any connection?
+
+P1: That's right, I'm just getting the error message saying "no internet connection available".
+
+P2: Hmm, okay. Let me take a look at your router. (pauses) Yeah, everything looks good here. Can you tell me what kind of internet plan you have?
+
+P1: Uh, I think it's the 100 Mbps one. But like I said, I'm not getting any speed at all.
+
+P2: Okay, so you're paying for 100 Mbps but you're not getting anything? That's crazy. (pauses) Okay, I think I see the problem. Your modem is set to the wrong frequency.
+
+P1: What? I don't know anything about frequencies. Can you explain it to me?
+
+P2: Yeah, sure. So your modem is set to 2.4 GHz instead of 5 GHz. That's why you're not getting any speed.
+
+P1: Okay, that makes sense, I guess. But how do I change it?

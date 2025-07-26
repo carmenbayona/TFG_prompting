@@ -1,0 +1,16 @@
+{
+  "topic": "Job Interviewing",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "informative",
+    "participant_2": "inquisitive"
+  },
+  "goals": {
+    "participant_1": "sharing information",
+    "participant_2": "learning about job interviewing"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

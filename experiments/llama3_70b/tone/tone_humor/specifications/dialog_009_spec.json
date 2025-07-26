@@ -1,0 +1,21 @@
+{
+  "topic": "Travel plans",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "confused",
+    "P2": "exasperated"
+  },
+  "goals": {
+    "P1": "clarify travel dates",
+    "P2": "correct misunderstanding"
+  },
+  "subplots": [
+    "booking hotel",
+    "checking email"
+  ],
+  "imperfections": [
+    "miscommunication",
+    "forgetfulness"
+  ]
+}

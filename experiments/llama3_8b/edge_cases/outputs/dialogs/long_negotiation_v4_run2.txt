@@ -1,0 +1,31 @@
+Here is the generated dialog:
+
+P1: I'm interested in purchasing this rare antique, but I have some concerns about its authenticity.
+P2: Of course, the provenance is impeccable. The previous owner was a renowned collector, and I have all the documentation to prove it.
+
+P1: Documentation can be fabricated, and I'd like to see the antique under better lighting to inspect it more closely.
+P2: I assure you, the documentation is genuine, and the antique is in excellent condition. It's worth every penny.
+
+P1: I understand your stance, but I've noticed a few scratches on the surface. Are those consistent with the age of the antique?
+P2: Those scratches are hardly noticeable, and they're a testament to the antique's well-preserved state. Besides, they don't affect its value.
+
+P1: I disagree. Those scratches take away from the antique's overall appeal. I'm willing to make a serious offer, but I need to see the price reduced.
+P2: I'm not willing to negotiate the price. This antique is a rare find, and I know its true value. It's already priced competitively.
+
+P1: I've done my research, and I know that similar antiques have sold for lower prices. I expect a more reasonable offer.
+P2: Those sales were of lower-quality pieces. This antique is exceptional, and it's worth every cent. I've sold pieces to reputable collectors before, and they've paid top dollar.
+
+P1: I'm not convinced. Can you provide more documentation about the previous sales and the collectors who purchased them?
+P2: Of course, I have all the records. I can even provide references from those collectors if you'd like.
+
+P1: That's all well and good, but I still think the price is too high. I'm willing to walk away if we can't come to an agreement.
+P2: I understand your concerns, but I'm not willing to compromise on the price. This antique is a once-in-a-lifetime find, and I won't let it go for anything less than its true value.
+
+P1: Fine. I'll make you an offer: I'll pay half the asking price, and that's as high as I'm willing to go.
+P2: I'm afraid that's not even close to the antique's value. I'll need to decline your offer.
+
+P1: I'm disappointed, but I understand your position. I'm willing to make one final offer: I'll pay three-quarters of the asking price, and that's my final offer.
+P2: I'm sorry, but that's still not enough. I'll have to decline your offer once again.
+
+P1: I've reached my limit. I'll be leaving now.
+P2: I understand. I hope you can see the value in this antique and reconsider our offer in the future.

@@ -1,0 +1,13 @@
+{
+  "topic": "booking tickets and hotel",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "ensure tickets and hotel are booked",
+    "P2": "avoid responsibility for not booking"
+  }
+}

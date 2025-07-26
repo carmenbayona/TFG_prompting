@@ -1,0 +1,16 @@
+{
+  "topic": "lost wallet",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "concerned",
+    "participant_2": "helpful"
+  },
+  "goals": {
+    "participant_1": "find wallet",
+    "participant_2": "assist participant_1"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

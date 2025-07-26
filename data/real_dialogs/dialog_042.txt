@@ -1,0 +1,4 @@
+P1: The traffic today was insane!
+P2: Tell me about it, I was stuck for an hour.
+P1: We need to leave earlier tomorrow.
+P2: Agreed.

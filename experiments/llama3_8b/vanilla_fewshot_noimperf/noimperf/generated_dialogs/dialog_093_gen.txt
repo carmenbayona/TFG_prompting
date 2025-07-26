@@ -1,0 +1,13 @@
+P1: Hi, I'm calling to make an appointment with your doctor. I'm experiencing some persistent fatigue and stomach issues, and I'd like to get it checked out.
+
+P2: Ah, sorry to hear that! Can you tell me a bit more about the fatigue? Is it constant or does it come and go?
+
+P1: Yeah, it's been going on for about a month now, and it's been constant. I've also been experiencing some mild stomach cramps and bloating. I'm worried it might be related to something serious.
+
+P2: I see. Have you tried speaking with your primary care physician about it? Or has it been more of a sudden onset?
+
+P1: No, I haven't seen my primary care physician in a while, and I really don't know what's causing it. That's why I wanted to schedule an appointment with your doctor. I've heard great things about their work with digestive issues.
+
+P2: Excellent! I can definitely book you an appointment with Dr. Thompson. We can schedule it for next Wednesday at 2 PM. Would that work for you?
+
+P1: That sounds perfect, thank you! I'm looking forward to getting some answers and getting back on track with my health.

@@ -1,0 +1,16 @@
+{
+  "topic": "office incident",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "amused",
+    "participant_2": "concerned"
+  },
+  "goals": {
+    "participant_1": "share interesting news",
+    "participant_2": "understand the situation"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

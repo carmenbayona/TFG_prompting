@@ -1,0 +1,5 @@
+P1: I'm having some issues with my Wi-Fi router. Can you help me troubleshoot?
+P2: Of course! What kind of router do you have and what's the problem you're experiencing?
+P1: It's a Netgear one... um... what was the question again? Sorry, I'm a bit tech-challenged.
+P2: No worries! So, you're having trouble connecting to the internet, right?
+P2: Okay, let's start with the basics. Have you tried restarting the router and modem?

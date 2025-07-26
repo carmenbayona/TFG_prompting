@@ -1,0 +1,29 @@
+You are an expert in analyzing layered conversations.
+
+Your task is to analyze the following conversation and extract a structured specification, including at least one **subplot** that adds depth to the main interaction.
+
+Return ONLY a valid JSON object with the following exact format and keys:
+```json
+{
+  "topic": "string",
+  "turns": integer,
+  "participants": 2,
+  "tone": { "P1": "string", "P2": "string" },
+  "goals": { "P1": "string", "P2": "string" },
+  "subplots": [ "string", "..." ],
+  "imperfections": [ "string", "..." ]
+}
+```
+
+⚠️ Strict formatting rules:
+- Use only **straight double quotes** (`"like this"`) for all keys and string values.
+- Do **not** include any extra or unmatched quotes.
+- All dictionary keys must be followed by a colon `:` and comma-separated.
+- All list elements must be **double-quoted strings**, separated by commas.
+- If an item includes distraction, hidden intent or irony, write it like: `"hidden motive (subplot)"`
+- **Do not include any text or markdown** before or after the JSON block.
+- Make sure the entire output is valid JSON and parsable with `json.loads()`.
+
+Here is the dialog with subplot:
+---
+{REAL_DIALOG_HERE}

@@ -1,0 +1,16 @@
+{
+  "topic": "requesting a day off",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "informative",
+    "participant_2": "interested"
+  },
+  "goals": {
+    "participant_1": "to share information",
+    "participant_2": "to learn more"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

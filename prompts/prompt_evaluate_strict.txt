@@ -1,0 +1,58 @@
+You are a rigorous expert in dialog evaluation.
+
+Your task is to rate the quality of a generated dialog using a reference dialog (if provided) and a dialog specification.
+
+Respond ONLY with a valid Python dictionary, no explanation, no comments, no additional text.
+
+Use the following strict 1–5 scale for each criterion:
+
+- Fluency: 
+  5 = completely natural and fluent  
+  3 = some awkward or robotic phrases  
+  1 = unnatural, ungrammatical  
+- Coherence: 
+  5 = turns logically follow, consistent replies  
+  3 = some jumps or contradictions  
+  1 = incoherent or confusing  
+- Realism: 
+  5 = believable conversation  
+  3 = somewhat artificial  
+  1 = unrealistic interaction  
+- Fidelity to Specification: 
+  5 = fully satisfies the goals and constraints  
+  3 = partially follows the specification  
+  1 = ignores key instructions  
+- Engagement: 
+  5 = captivating, dynamic  
+  3 = moderately interesting  
+  1 = boring or monotonous  
+- Originality: 
+  5 = creative, non-cliché responses  
+  3 = somewhat predictable  
+  1 = generic, overused patterns
+
+Be harsh if needed. Do not inflate scores. 
+Also include a short "comments" field at the end with one sentence justifying the scores.
+
+
+Example format:
+{
+  "fluency": 3,
+  "coherence": 5,
+  "realism": 2,
+  "fidelity_to_specification": 4,
+  "engagement": 2,
+  "originality": 3,
+  "comments": "Some responses were creative and coherent, but lacked realism and natural phrasing."
+}
+
+Now evaluate this dialog.
+
+Generated dialog:
+{GENERATED_DIALOG_HERE}
+
+Reference dialog (if provided):
+{REFERENCE_DIALOG_HERE}
+
+Dialog specification:
+{SPECIFICATION_HERE}

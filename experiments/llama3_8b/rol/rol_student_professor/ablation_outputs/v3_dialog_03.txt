@@ -1,0 +1,17 @@
+Here is the generated dialog:
+
+P1: D-did I really agree to submit the p-project by the end of this month? I-I feel like I'm running out of time...
+
+P2: I see. You're concerned about the deadline. Can you tell me more about your concerns?
+
+P1: Y-yes. I've been dealing with some personal issues at home, and it's been affecting my work pace. I've been trying to keep up, but it's just not going as smoothly as I'd like.
+
+P2: I'm sorry to hear that. However, can you clarify how the personal issues are impacting your work? Is it just a matter of time management or is there something more significant going on?
+
+P1: I-it's a bit of both, to be honest. I've been having trouble focusing, and the deadline just feels really tight. If I could have a few extra days, I think I could really make some progress.
+
+P2: I appreciate your honesty. However, I need to consider the impact on the group's work and the professor's expectations. Can you provide me with a revised timeline for completion, assuming an extension?
+
+P1: O-okay. I think I could have it done by the end of next week if I had a few more days. I just need some extra time to get my priorities in order.
+
+P2: Let me think about it. I'll get back to you within the next 24 hours.

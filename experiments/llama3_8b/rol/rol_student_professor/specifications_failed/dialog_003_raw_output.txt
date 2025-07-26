@@ -1,0 +1,11 @@
+Here is the analyzed interaction in the required JSON format:
+
+{
+  "topic": "Order Delay and Refund",
+  "turns": 7,
+  "participants": 2,
+  "tone": { "P1": "frustrated", "P2": "apologetic" },
+  "goals": { "P1": "get laptop", "P2": "resolve issue" },
+  "subplots": [ "order delay", "refund" ],
+  "imperfections": [ "confusion (order number)" ]
+}

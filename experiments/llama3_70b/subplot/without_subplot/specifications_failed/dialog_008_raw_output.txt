@@ -1,0 +1,9 @@
+{
+"topic": "Emma's birthday gift",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "helpful" },
+"goals": { "P1": "find a suitable gift for Emma", "P2": "suggest gift ideas" },
+"subplots": [],
+"imperfections": [ "no specific book title mentioned", "no specific concert mentioned" ]
+}

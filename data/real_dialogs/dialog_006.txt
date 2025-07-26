@@ -1,0 +1,6 @@
+P1: Good morning, doctor. I've had a headache all week.
+P2: I’m sorry to hear that. Any other symptoms?
+P1: Some dizziness, and I feel tired all the time.
+P2: Hmm... we’ll run some tests to be sure.
+P1: Do you think it’s something serious?
+P2: Let’s not worry yet. We’ll check everything.

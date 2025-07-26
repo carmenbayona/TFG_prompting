@@ -1,0 +1,9 @@
+{
+"topic": "Internet Connection Issue",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "frustrated" },
+"goals": { "P1": "fix internet connection", "P2": "resolve router issue" },
+"subplots": [ "P1 might be dependent on internet for work/study", "P2 might have had previous router issues" ],
+"imperfections": [ "assumes router is the problem" ]
+}

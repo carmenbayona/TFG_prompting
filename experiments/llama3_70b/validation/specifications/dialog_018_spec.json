@@ -1,0 +1,16 @@
+{
+  "topic": "attendance to class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "uncertain"
+  },
+  "goals": {
+    "P1": "to inform and ensure P2's attendance",
+    "P2": "to attend class after dentist appointment"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

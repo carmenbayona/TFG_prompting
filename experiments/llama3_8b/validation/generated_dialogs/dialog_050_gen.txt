@@ -1,0 +1,19 @@
+P1: Hey, I'm really struggling to learn coding. I've been trying for weeks, but I just can't seem to get the hang of it.
+
+P2: Ah, don't worry, it's normal. I struggled too when I first started. What specifically is giving you trouble?
+
+P1: Uh, everything, I guess. I mean, I get the basics, but then when I try to do something more complex, it all falls apart. And I'm just so frustrated.
+
+P2: Yeah, it can be really discouraging. But the thing is, once you get past that initial hump, it gets so much easier. What kind of projects are you trying to work on?
+
+P1: Well, I wanted to build a simple game, but I just can't seem to get the logic right. And I'm starting to think I'm just not cut out for this.
+
+P2: Hold on, don't give up yet! Let me ask you, have you tried breaking it down into smaller chunks? Like, focusing on one piece at a time?
+
+P1: Yeah, I've tried, but it just doesn't seem to work. And I feel like I'm wasting my time.
+
+P2: Okay, let's take a step back. What's the one thing you're most proud of accomplishing so far in your coding journey?
+
+P1: Hmm, actually, I did manage to get a simple calculator working... a while back, I mean.
+
+P2: See, you have done something! And I'm sure that calculator was way harder to build than you thought it'd be. We can build on that momentum.

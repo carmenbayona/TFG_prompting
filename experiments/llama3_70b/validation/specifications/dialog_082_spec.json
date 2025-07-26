@@ -1,0 +1,16 @@
+{
+  "topic": "ordering at a restaurant",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "informative",
+    "participant_2": "curious"
+  },
+  "goals": {
+    "participant_1": "to share information",
+    "participant_2": "to learn something new"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

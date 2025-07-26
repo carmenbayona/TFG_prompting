@@ -1,0 +1,33 @@
+You are an expert in analyzing human conversations. Given the following real dialog, extract a high-level specification of its structure and contents.
+
+Your specification must include:
+- The main topic(s) of the conversation
+- Number of turns and participants
+- General tone or sentiment of each participant
+- The goals or intentions of each participant
+- Any subplots or secondary themes
+- Misunderstandings or clarifications (if present)
+- Conversational imperfections (e.g., repetitions, hesitations)
+
+Respond using a valid Python dictionary only. Do not include any explanations, comments, or extra text.
+
+Example format:
+{
+  "topic": "...",
+  "turns": 12,
+  "participants": 2,
+  "tone": {
+    "participant_1": "optimistic",
+    "participant_2": "confused"
+  },
+  "goals": {
+    "participant_1": "...",
+    "participant_2": "..."
+  },
+  "subplots": ["..."],
+  "imperfections": ["repetition", "hesitation"]
+}
+
+Here is the real dialog:
+---
+{REAL_DIALOG_HERE}

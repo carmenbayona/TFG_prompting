@@ -1,0 +1,13 @@
+{
+  "topic": "Internship news",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "enthusiastic"
+  },
+  "goals": {
+    "P1": "share news",
+    "P2": "celebrate"
+  }
+}

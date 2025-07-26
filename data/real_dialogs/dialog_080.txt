@@ -1,0 +1,4 @@
+P1: I didn’t get the job.
+P2: I’m sorry to hear that.
+P1: It’s okay, I’ll keep applying.
+P2: You’ll get something soon, don’t worry.

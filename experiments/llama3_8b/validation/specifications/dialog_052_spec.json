@@ -1,0 +1,13 @@
+{
+  "topic": "planning a coffee shop visit",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "recommend a coffee shop",
+    "P2": "plan a visit"
+  }
+}

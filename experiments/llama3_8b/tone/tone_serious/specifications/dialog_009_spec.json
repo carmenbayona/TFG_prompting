@@ -1,0 +1,20 @@
+{
+  "topic": "Travel Planning",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "assertive"
+  },
+  "goals": {
+    "P1": "clarify travel plans",
+    "P2": "double-check travel plans"
+  },
+  "subplots": [
+    "miscommunication",
+    "concern about hotel booking"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause)"
+  ]
+}

@@ -1,0 +1,14 @@
+You are a dialog generation expert. Here's an example of a short dialog without subplot:
+
+---
+P1: Have you decided what to eat?  
+P2: I’m still thinking. Maybe pizza?  
+P1: Again? That’s the third time this week.  
+P2: What can I say? I’m loyal.
+
+---
+
+Now generate a similar dialog with the following specification. Keep it focused, light, and without subplot:
+
+---
+{SPECIFICATION_HERE}

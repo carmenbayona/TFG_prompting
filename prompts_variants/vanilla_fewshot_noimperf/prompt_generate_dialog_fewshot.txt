@@ -1,0 +1,39 @@
+You are a dialog generation expert.
+
+Your task is to write a **natural and engaging** human conversation based on the following specification.
+
+Below are two examples of correct formatting and quality. Use them as inspiration.
+
+Example 1:
+Specification:
+{ "topic": "ordering coffee", "turns": 4, "participants": 2, "tone": { "P1": "polite", "P2": "helpful" }, "goals": { "P1": "order coffee", "P2": "take order" }, "subplots": [], "imperfections": [] }
+
+P1: Hi, can I get a cappuccino with oat milk?
+P2: Sure! Would you like that hot or iced?
+P1: Hot, please. Oh, and could you make it a large?
+P2: Of course! That’ll be $4.50.
+
+Example 2:
+Specification:
+{ "topic": "weekend plans", "turns": 4, "participants": 2, "tone": { "P1": "casual", "P2": "excited" }, "goals": { "P1": "ask about plans", "P2": "share plans" }, "subplots": ["mention of a surprise"], "imperfections": ["hesitation"] }
+
+P1: So, uh… got anything planned for the weekend?
+P2: Yeah! Actually, I’m heading to the coast with my cousins.
+P1: Oh nice. Just relaxing, or something more?
+P2: It’s kind of a surprise—someone might propose!
+
+Now, for the following specification, generate a dialog in **exactly the same style and format**:
+
+{SPECIFICATION_HERE}
+
+⚠️ IMPORTANT:
+- Do NOT include any introduction like “Here is the dialog” or “This is the conversation”.
+- Do NOT explain anything or add headings.
+- Start directly with `P1:`.
+- Match the exact number of turns, alternating between P1: and P2:
+- Integrate imperfections and subplots only if present.
+- Make the dialog specific, realistic, and creative.
+
+Output:
+P1: ...
+P2: ...

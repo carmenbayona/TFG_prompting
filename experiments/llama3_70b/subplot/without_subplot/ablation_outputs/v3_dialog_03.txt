@@ -1,0 +1,24 @@
+Here is a generated dialog that meets the specified requirements:
+
+---
+P1: What's taking so long? I'm starving.  
+P2: Um, I was thinking maybe a sandwich... no, wait, a salad...  
+P1: (sighs) Can you please just pick one?  
+P2: Okay, how about a wrap? Do you think they have good wraps here?
+
+---
+
+Here's a breakdown of how the generated dialog meets the specifications:
+
+* Topic: Ordering lunch
+* Turns: 4
+* Participants: 2
+* Tone:
+	+ P1: Hungry (expressed through "I'm starving" and a sigh)
+	+ P2: Indecisive (shown through changing their mind mid-line and seeking recommendations)
+* Goals:
+	+ P1: Decide quickly (expressed through "What's taking so long?" and "Can you please just pick one?")
+	+ P2: Ask for recommendations (implied through "Do you think they have good wraps here?")
+* Subplots: None
+* Imperfections:
+	+ P2 changes mind mid-line ("I was thinking maybe a sandwich... no, wait, a salad...")

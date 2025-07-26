@@ -1,0 +1,13 @@
+{
+  "topic": "booked train tickets",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "ensure train tickets are booked",
+    "P2": "clarify responsibility"
+  }
+}

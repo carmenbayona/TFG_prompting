@@ -1,0 +1,18 @@
+{
+  "topic": "Product Complaint",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "Complaining",
+    "P2": "Curious"
+  },
+  "goals": {
+    "P1": "Share Experience",
+    "P2": "Gain Knowledge"
+  },
+  "subplots": [],
+  "imperfections": [
+    "Hesitation",
+    "Repetition"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "fluency": 2,
+  "coherence": 2,
+  "realism": 1,
+  "fidelity_to_specification": 1,
+  "engagement": 2,
+  "originality": 1,
+  "comments": "The dialog is marred by unnatural phrasing and a lack of logical flow.",
+  "Variant": "v7_no_imperfections_03",
+  "Dialog": "Here is the generated dialog:\n\nP1: Oh man, I'm so excited to tell you about this surprise trip I've planned!\nP2: What's going on? You've been acting super shady all week.\nP1: Shady?! I'm just really passionate about... travel.\nP2: Save it, I know you're up to something. Is it a trip to Antarctica?\nP1: Ha! No, not Antarctica... but I do know someone who has a fascinating collection of penguins.\nP2: Okay, okay, so it's a llama farm, right?\nP1: Um, no... but have you ever heard of a place with super fluffy clouds?\nP2: Geez, you're really making me work for this. Did you book a trip to a cloud farm?\nP1: *accidentally* Oh, yeah, the weather is going to be just... um, cloudy.\nP2: Wait, what?! You're really going to cloud farm?!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

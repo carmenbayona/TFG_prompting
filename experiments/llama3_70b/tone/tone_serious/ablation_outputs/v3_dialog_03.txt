@@ -1,0 +1,10 @@
+Here is a generated dialog that meets the specified requirements:
+
+---
+P1: (nervously) I got my exam results back... and I didn't pass.  
+P2: (calmly) I'm so sorry to hear that. Can you tell me what's going through your mind right now?  
+P1: (interrupting) I just don't get it. I studied really hard for that exam. I thought I was prepared. (starts to get flustered)  
+P2: (calmly) Okay, let's take a deep breath and go through this together. What do you think might have gone wrong?  
+P1: (still agitated) I don't know... maybe I just wasn't cut out for this course. (starts to change topic) Do you think I should just switch majors?  
+P2: (gently refocusing) Hold on, let's not make any rash decisions just yet. First, let's review the exam and see where you can improve. And if needed, we can discuss repeating the course. Would you like that?  
+P1: (slightly calmed) Yeah... yeah, that would be really helpful, thank you.

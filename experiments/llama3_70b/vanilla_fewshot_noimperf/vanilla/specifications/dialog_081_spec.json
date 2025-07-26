@@ -1,0 +1,19 @@
+{
+  "topic": "Making travel plans",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "inquisitive"
+  },
+  "goals": {
+    "P1": "to share information",
+    "P2": "to learn more"
+  },
+  "subplots": [
+    "Showing interest"
+  ],
+  "imperfections": [
+    "repetition"
+  ]
+}

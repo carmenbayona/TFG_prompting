@@ -1,0 +1,16 @@
+{
+  "topic": "quitting a job",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "seeking advice or validation",
+    "P2": "offering guidance"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

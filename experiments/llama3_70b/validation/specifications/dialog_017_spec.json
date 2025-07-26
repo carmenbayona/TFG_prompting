@@ -1,0 +1,16 @@
+{
+  "topic": "Internship in Berlin",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "excited",
+    "participant_2": "congratulatory"
+  },
+  "goals": {
+    "participant_1": "Share news and express feelings",
+    "participant_2": "Show enthusiasm and ask for details"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

@@ -1,0 +1,23 @@
+{
+  "topic": "Meeting with client",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "reminders",
+    "participant_2": "forgetfulness"
+  },
+  "goals": {
+    "participant_1": "ensure P2's attendance and punctuality",
+    "participant_2": "recall meeting details"
+  },
+  "subplots": [
+    "P2's forgetfulness",
+    "P1's concern for punctuality"
+  ],
+  "misunderstandings": [
+    "P2's initial confusion about meeting"
+  ],
+  "imperfections": [
+    "hesitation"
+  ]
+}

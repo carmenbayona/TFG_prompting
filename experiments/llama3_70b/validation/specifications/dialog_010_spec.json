@@ -1,0 +1,16 @@
+{
+  "topic": "sink leak",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "concerned",
+    "participant_2": "calm"
+  },
+  "goals": {
+    "participant_1": "get the sink fixed",
+    "participant_2": "resolve the issue"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

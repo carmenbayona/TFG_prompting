@@ -1,0 +1,23 @@
+Here is a generated dialog that meets the specified requirements:
+
+---
+P1: What do you want for lunch? I'm starving!  
+P2: Um, I don't know... maybe a sandwich... or salad... no, wait, a wrap!  
+P1: (sighs) Make up your mind! We need to order soon.  
+P2: How about you choose for me? You always know what's good.
+
+---
+
+This dialog meets the requirements as follows:
+
+* Topic: Ordering lunch
+* Turns: 4
+* Participants: 2 (P1 and P2)
+* Tone:
+	+ P1: Hungry (expressed through the phrase "I'm starving!" and the sigh)
+	+ P2: Indecisive (shown through the hesitant and changing responses)
+* Goals:
+	+ P1: Decide quickly (implied through the sense of urgency and the sigh)
+	+ P2: Ask for recommendations ( explicit in the last line)
+* Subplots: None
+* Imperfections: P2 changes mind mid-line (in the second turn)

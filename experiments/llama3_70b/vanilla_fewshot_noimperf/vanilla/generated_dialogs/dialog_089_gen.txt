@@ -1,0 +1,9 @@
+P1: Hi, I'm having some trouble with my computer. It keeps crashing and I have no idea why. Can you help me figure out what's going on?
+
+P2: Absolutely! I'd be happy to take a closer look. What's the make and model of your computer, and can you walk me through the last few things you did before it started crashing?
+
+P1: Um, let me think... I think it's a Dell Inspiron... and, oh yeah, I was trying to download this new software for work, and then... then it just froze up on me. And, wait, what was the question again? Sorry, I'm just really frustrated with this thing...
+
+P2: No worries at all! So, you were downloading software, and then it froze. Have you tried restarting your computer in safe mode to see if that resolves the issue? And by the way, what kind of software were you trying to download?
+
+P1: Yeah, I tried restarting, but it still didn't work... and the software is... uh... oh, shoot, it's on the tip of my tongue... ah, yes! It's called "QuickBooks Pro"! Do you think that could be the problem?

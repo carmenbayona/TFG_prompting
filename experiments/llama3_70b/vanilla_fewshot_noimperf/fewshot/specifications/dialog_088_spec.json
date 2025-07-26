@@ -1,0 +1,17 @@
+{
+  "topic": "Debating politics",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "inquisitive"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "learn more"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "topic": "thesis draft feedback",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "constructive"
+  },
+  "goals": {
+    "P1": "seeking feedback",
+    "P2": "providing feedback"
+  },
+  "subplots": [
+    "literature review improvement"
+  ],
+  "imperfections": [
+    "weak literature review"
+  ]
+}

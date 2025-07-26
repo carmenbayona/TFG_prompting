@@ -1,0 +1,5 @@
+P1: Doctor, I've been experiencing this persistent pain in my abdomen for weeks, and I'm getting really worried. 
+P2: I understand your concern. Can you tell me more about the pain? Is it constant or does it come and go? 
+P1: It's been constant, but it gets worse after I eat. I've also had some nausea and vomiting. 
+P2: I see. Have you noticed any changes in your bowel movements or appetite? 
+P2: Okay, we'll run some tests to rule out any underlying conditions. In the meantime, I'm going to prescribe you some medication to help manage the symptoms.

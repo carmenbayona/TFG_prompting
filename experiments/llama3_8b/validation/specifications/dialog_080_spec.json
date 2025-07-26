@@ -1,0 +1,13 @@
+{
+  "topic": "job rejection",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "neutral",
+    "P2": "sympathetic"
+  },
+  "goals": {
+    "P1": "processing disappointment",
+    "P2": "offering comfort"
+  }
+}

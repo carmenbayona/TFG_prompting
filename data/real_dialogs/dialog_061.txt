@@ -1,0 +1,4 @@
+P1: Are you done with the project?
+P2: Almost. I just need to write the conclusion.
+P1: We’re presenting tomorrow, right?
+P2: Yep, at 10 AM.

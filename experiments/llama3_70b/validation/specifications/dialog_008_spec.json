@@ -1,0 +1,16 @@
+{
+  "topic": "birthday gift for Emma",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "get a birthday gift idea for Emma",
+    "P2": "provide suggestions for Emma's birthday gift"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

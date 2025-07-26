@@ -1,0 +1,4 @@
+P1: Wanna do something this weekend?
+P2: Sure! Hike? Movie?
+P1: How about both?
+P2: Sounds perfect. I’ll check the weather.

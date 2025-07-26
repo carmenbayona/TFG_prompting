@@ -1,0 +1,29 @@
+P1: Ugh, I'm still trying to figure out this travel plan for the team. Can you help me book these train tickets?
+
+P2: Of course, I'd be happy to help. What's the issue?
+
+P1: The issue is that I thought you were going to take care of it, but it's not done yet. We need to make sure we get the right tickets or we'll be stuck in traffic.
+
+P2: Oh, I apologize for the mix-up. I thought you had it handled. Let me take a look at the schedule.
+
+P1: Yeah, just make sure you get the tickets for the 3 PM train. We can't miss that one.
+
+P2: Okay, got it. So, who's going on this trip again?
+
+P1: Just me, John, and Sarah. We're presenting our project to the client.
+
+P2: Ah, right. I remember now. So, what's the deal with the 3 PM train? Is it a rush hour thing?
+
+P1: Yeah, exactly. We need to get to the client's office before 4 PM. They're pretty particular about timing.
+
+P2: Okay, I think I've got the tickets booked. Can I just double-check something with you?
+
+P1: Sure, what is it?
+
+P2: So, did you want me to book the tickets in our names or under the company?
+
+P1: Oh, good question. Just do it under the company, please.
+
+P2: Alright, done. I sent you a confirmation email.
+
+P1: Great, thanks. I appreciate your help.

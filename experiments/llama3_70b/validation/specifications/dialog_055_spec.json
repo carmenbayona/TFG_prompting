@@ -1,0 +1,16 @@
+{
+  "topic": "baking cookies",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "inviting",
+    "P2": "enthusiastic"
+  },
+  "goals": {
+    "P1": "to bake cookies",
+    "P2": "to participate in baking cookies"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

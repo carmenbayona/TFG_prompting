@@ -1,0 +1,47 @@
+You are an expert in analyzing human conversations.
+
+Your task is to return a valid Python dictionary summarizing the following dialog.
+
+⚠️ Return ONLY a valid Python dictionary. NO extra characters, no explanations. Check carefully that the structure is valid JSON with correct brackets and quotes.
+
+
+Instructions:
+- Use precise labels, avoiding vague words like "friendly" or "nice".
+- If unsure about a field, make your best guess rather than leaving it empty.
+- Subplots are optional but encouraged if any topic shifts appear.
+- Be attentive to tones and goals — even subtle ones — and express them in a concise manner.
+
+Format:
+{
+  "topic": "...",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "...", "P2": "..." },
+  "goals": { "P1": "...", "P2": "..." },
+  "subplots": ["..."]
+}
+
+Dialog:
+---
+{REAL_DIALOG_HERE}
+
+⚠️ Your output MUST be a valid Python dictionary in correct JSON format.
+
+Double-check the following before returning:
+- All quotes must be straight (e.g., "like this", not “like this”).
+- All opening brackets `{` or `[` must be matched by a closing `}` or `]`.
+- Do NOT include extra closing brackets like `]]` or `}}`.
+- Do NOT include any extra characters or comments after the dictionary.
+- Do NOT add commas at the end of the last item in a dictionary or list.
+- If a list is empty, write it as `[]`, not `[ ] ]` or similar.
+
+Your response should ONLY include the dictionary, and it MUST be syntactically correct JSON that can be parsed without error.
+
+
+⚠️ VERY IMPORTANT:
+- Each dictionary key (e.g., "P1", "P2") must be wrapped in **correct straight quotes**.
+- Do NOT omit the closing quote in a key like "P2": it MUST be written like this → "P2": not P2: or "P2:
+- Before returning your output, simulate as if a strict JSON parser will test it immediately — your response must pass.
+
+⚠️ Any response that is not strictly valid JSON will be rejected and considered invalid.
+

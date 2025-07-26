@@ -1,0 +1,6 @@
+Here is a simple and focused conversation based on the specification:
+
+P1: I'm starving, what do you want to order for lunch?
+P2: Um, I don't know... maybe a sandwich... or maybe pasta...
+P1: Come on, decide already! Do you want Italian or Mexican?
+P2: Okay, okay... Italian sounds good... no, wait, can I get a burger instead?

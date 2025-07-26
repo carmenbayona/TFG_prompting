@@ -1,0 +1,11 @@
+P1: Hey, I'm having some trouble with my internet connection at home. Can you help me troubleshoot it?
+
+P2: Ugh, what's going on? I've got a deadline to meet and I need to get online. What's not working?
+
+P1: Well, I can get online, but it's really slow and keeps dropping out. I'm starting to get worried that it's the router.
+
+P2: The router? That's ridiculous. It's fine. I just checked the lights and everything looks normal. Must be something else.
+
+P1: But I've tried restarting it and nothing's changed. I'm starting to think that maybe it is the router, or maybe there's something going on with our provider.
+
+P2: Fine. Let me come over and take a look. Maybe I can figure out what's going on. But if it's not the router, I'm blaming your neighbor for putting up that new antenna.

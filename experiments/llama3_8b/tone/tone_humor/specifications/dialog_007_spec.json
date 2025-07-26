@@ -1,0 +1,20 @@
+{
+  "topic": "fitness",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "help P2 get back into fitness routine",
+    "P2": "start exercising again"
+  },
+  "subplots": [
+    "P2's slacking",
+    "P1's motivation"
+  ],
+  "imperfections": [
+    "P2's initial reluctance"
+  ]
+}

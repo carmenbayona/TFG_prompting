@@ -1,0 +1,16 @@
+{
+  "topic": "visiting a new caf\u00e9",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inviting",
+    "participant_2": "agreeable"
+  },
+  "goals": {
+    "participant_1": "to suggest a social activity",
+    "participant_2": "to agree and make plans"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

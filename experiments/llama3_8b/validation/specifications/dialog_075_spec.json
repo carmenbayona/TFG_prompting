@@ -1,0 +1,17 @@
+{
+  "topic": "Joining a coding club",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "neutral"
+  },
+  "goals": {
+    "P1": "recruit a new member",
+    "P2": "evaluate the opportunity"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation"
+  ]
+}

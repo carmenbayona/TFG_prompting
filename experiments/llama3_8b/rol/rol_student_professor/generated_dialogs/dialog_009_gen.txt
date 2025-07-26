@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: Hi, Professor. I'm having some trouble understanding the travel schedule for the trip next week.
+
+P2: Ah, okay! Let's take a look at the email I sent out last week. I'm happy to help clarify anything.
+
+P1: Yeah, I tried re-reading it, but I'm still not sure about the dates. I thought we were supposed to arrive on Friday, but the email says Saturday.
+
+P2: Ah, I see what might be the issue. Let me check my notes. (pause) Ah yes, it looks like we did book the hotel for Saturday, not Friday. We need to adjust our travel plans accordingly.
+
+P1: Oh, okay. So I messed up when booking the hotel, then? And how did I not catch the date mistake in the email?
+
+P2: Well, it's easy to overlook these things. I should have included a confirmation email to double-check the dates. That's on me. Let's get you re-booked for Saturday, and I'll send another email to confirm the details.

@@ -1,0 +1,13 @@
+P1: Hey, have you started working on the Johnson report yet? Our deadline is just around the corner.
+
+P2: Not yet, I'm still waiting for the data from marketing to come in. What's the current state of your progress?
+
+P1: I've finished the first draft, but I need to incorporate the new sales figures before I can finalize it. The client is being quite particular about the numbers.
+
+P2: That's great that you're ahead of schedule! What kind of sales figures are they looking for? Are they expecting a specific trend or outcome?
+
+P1: They want to see a 15% increase in quarterly sales, and they're concerned about the recent dip we've seen in online conversions. Have you spoken to anyone in marketing about the delay?
+
+P2: Yeah, I talked to Sarah earlier, and she said they're experiencing some issues with their data pipeline. She's working on getting it resolved ASAP. Do you think we can still meet the deadline if we push back the report by a week?
+
+P1: I think that's doable, but we should check in with our manager to confirm. I'll send her an email to discuss the potential delay.

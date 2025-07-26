@@ -1,0 +1,18 @@
+{
+  "topic": "Master's Program in Data Science",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "encouraging"
+  },
+  "goals": {
+    "P1": "get advice on application process",
+    "P2": "help friend with application"
+  },
+  "subplots": [
+    "P1's consideration of master's program",
+    "P2's surprise and enthusiasm"
+  ],
+  "imperfections": []
+}

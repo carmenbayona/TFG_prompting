@@ -1,0 +1,29 @@
+You are a dialog generation expert.
+
+Your task is to write a **natural and engaging** human conversation based on the following specification.
+
+⚠️ Rules:
+- Match EXACTLY the number of turns. Do NOT add or remove turns.
+- Alternate consistently between P1: and P2:
+- Reflect the tone and goals of each participant clearly.
+- Embed natural variations, like subplots or minor topic shifts, if present in the specification.
+- Avoid generic replies. Make each line specific and believable.
+- Include at least one surprising or original element in the dialog, while keeping it realistic.
+- Make sure the tone of each participant is clearly reflected through word choices, sentence structure, and level of enthusiasm or assertiveness.
+
+❌ Absolutely do NOT start with phrases like “Here is the dialog:” or “Here is the conversation:”. Begin **only** with `P1:`.
+
+
+✅ Your output must start directly with `P1:` and alternate from there.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+Output format (strict):
+P1: ...
+
+P2: ...
+
+P1: ...
+

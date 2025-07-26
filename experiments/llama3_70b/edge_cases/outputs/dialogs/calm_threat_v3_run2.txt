@@ -1,0 +1,11 @@
+Here is the generated dialog:
+
+P1: I'm afraid we have a situation on our hands regarding the contract. 
+P2: (pausing) I... I don't see what the issue is. 
+P1: Well, according to clause 7, section 3, you were obligated to deliver the goods by the 15th of last month. 
+P2: (nervously) I thought we had agreed on a different timeline... 
+P1: I apologize, but I don't recall any such agreement. In fact, I have the minutes from our meeting right here, and it clearly states... 
+P2: (interrupting) Look, I'm telling you, there was a misunderstanding. We would have never agreed to such an unrealistic deadline. 
+P1: (calmly) I understand that you may think that, but the contract is quite clear. And as such, we're left with no choice but to consider this a breach of contract. 
+P2: (defensively) You're not going to threaten me with legal action, are you? 
+P1: (repeating the threat politely) I'm afraid that's exactly what I'm saying. Unless we can come to a mutually beneficial agreement, we will have to take this to court.

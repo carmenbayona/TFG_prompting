@@ -1,0 +1,25 @@
+Here is the generated dialog:
+
+P1: Hi, I wanted to confirm the deadline for the project proposal. Can you please remind me when it's due?
+
+P2: Absolutely, the deadline is set for Friday at 5 PM.
+
+P1: Okay, just to clarify, I recall we discussed it earlier and you mentioned it was supposed to be due on Friday, but the team leader mentioned it was actually on Thursday. Can you confirm which one is correct?
+
+P2: I'm positive it's Friday at 5 PM. We went over the schedule during the team meeting last week.
+
+P1: I see. So, if I remember correctly, didn't we also discuss the possibility of pushing the deadline to next week due to some unforeseen circumstances?
+
+P2: No, we didn't discuss that. We agreed on Friday at 5 PM and that hasn't changed.
+
+P1: Alright, just to make sure. Can you tell me what the plan is if we miss the deadline by a day or two?
+
+P2: We'll have to work overtime to catch up, but I'm confident we can meet the deadline. We've made good progress so far.
+
+P1: Great, I appreciate your confidence. One more thing, do you recall what was the reason behind setting the deadline for Friday?
+
+P2: Yes, it was due to the manager's vacation schedule. He's away from Friday to Monday, and we needed to finalize the proposal before he leaves.
+
+P1: Okay, thank you for confirming. I'll make sure to double-check the deadline before proceeding.
+
+P2: You're welcome. I'm certain the deadline is Friday at 5 PM.

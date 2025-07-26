@@ -1,0 +1,8 @@
+Here is the generated dialog:
+
+P1: P-p-professor, c-can I t-talk to you about the deadline for the assignment?
+P2: Yes, what's the issue?
+P1: I-I'm having a bit of trouble meeting it, to be honest. I've had some p-personal problems lately...
+P2: Clarify what you mean by personal problems. Are you referring to health issues or family matters?
+P1: Uh, y-yes, a bit of both, actually. My grandmother's been in the hospital and I've had to take care of some things... and it's just been really tough to keep up with the coursework.
+P2: I understand that life can be unpredictable. However, I need to see a clear plan for how you intend to catch up on the assignment before I can consider an extension. Can you provide that?

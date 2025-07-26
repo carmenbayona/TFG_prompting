@@ -1,0 +1,20 @@
+{
+  "topic": "Fitness Routine",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "establishing a routine",
+    "P2": "getting back on track"
+  },
+  "subplots": [
+    "overcoming slacking",
+    "creating a workout plan"
+  ],
+  "imperfections": [
+    "lack of clear goals (P2)"
+  ]
+}

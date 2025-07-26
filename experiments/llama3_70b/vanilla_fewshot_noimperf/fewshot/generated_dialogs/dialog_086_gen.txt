@@ -1,0 +1,4 @@
+P1: Excuse me, can you tell me how to get to the nearest museum?
+P2: Ah, yeah! I've been meaning to check it out myself. Is it the one with the modern art exhibit?
+P1: Um, I think so... I'm really not sure. I just know it's supposed to be around here somewhere.
+P2: Okay, well, if you head down this street, take a left at the traffic light, and then a right on Oak Street, you should run right into it.

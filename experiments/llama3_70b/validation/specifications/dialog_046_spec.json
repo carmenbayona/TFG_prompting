@@ -1,0 +1,15 @@
+{
+  "topic": "hiking invitation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inviting",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "to get P2 to join the hike",
+    "participant_2": "to confirm the hike details"
+  },
+  "subplots": [],
+  "imperfections": []
+}

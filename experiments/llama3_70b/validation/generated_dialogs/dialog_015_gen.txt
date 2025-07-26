@@ -1,0 +1,10 @@
+P1: So, did you book the train tickets like I asked you to?
+P2: Uh, I thought you were gonna do it... I mean, didn't we agree that you'd take care of that?
+P1: No, I specifically told you to do it. I don't know why you're saying that.
+P2: Hmm, I could've sworn... I'm really sorry, man. I feel like I messed up.
+P1: Yeah, you did mess up. Now we're gonna have to deal with the consequences. Do you know how hard it is to get tickets at the last minute?
+P2: I know, I know... Look, can I try to fix it? I'll go online right now and see what's available.
+P1: You should've thought of that earlier. Fine, go ahead and try. But if we can't get tickets, this is on you.
+P2: Okay, okay... I'm on it. Oh, wait, what's the date of the trip again?
+P1: Seriously? You don't even remember that? It's the 15th, okay? Just get it done.
+P2: Alright, got it. I'll make it happen. I promise.

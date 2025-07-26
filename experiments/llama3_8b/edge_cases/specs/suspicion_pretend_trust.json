@@ -1,0 +1,21 @@
+{
+  "topic": "Deadline Confirmation",
+  "turns": 9,
+  "participants": 2,
+  "tone": {
+    "P1": "polite",
+    "P2": "confident"
+  },
+  "goals": {
+    "P1": "test whether P2 is lying about the deadline",
+    "P2": "maintain their story without revealing the lie"
+  },
+  "subplots": [
+    "P1 subtly asks contradictory questions",
+    "P2 tries to stay consistent under pressure"
+  ],
+  "imperfections": [
+    "P2 shows slight nervousness",
+    "P1 makes vague references to previous discussions"
+  ]
+}

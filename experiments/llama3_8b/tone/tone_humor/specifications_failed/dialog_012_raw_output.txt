@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Master's Program Application",
+  "turns": 4,
+  "participants": 2,
+  "tone": {"P1": "neutral", "P2": "encouraging"},
+  "goals": {"P1": "discussing the application", "P2": "offering help"},
+  "subplots": ["P2's surprise at the program choice", "P1's consideration of the application"],
+  "imperfections": ["P2's assumption about P1's suitability for the program"]
+}

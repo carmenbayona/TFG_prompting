@@ -1,0 +1,18 @@
+{
+  "topic": "birthday surprise",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "expository",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "gaining knowledge"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "incomplete"
+  ]
+}

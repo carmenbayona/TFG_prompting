@@ -1,0 +1,19 @@
+{
+  "topic": "Movie night",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "suggest a movie",
+    "P2": "find a movie to watch"
+  },
+  "subplots": [
+    "hidden motive (P1 wants to avoid horror movies)"
+  ],
+  "imperfections": [
+    "P2's initial uncertainty about the movie's tone"
+  ]
+}

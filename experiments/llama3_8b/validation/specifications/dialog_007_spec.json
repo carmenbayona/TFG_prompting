@@ -1,0 +1,13 @@
+{
+  "topic": "fitness",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "to help P2 get back into fitness",
+    "P2": "to get motivated and make a plan"
+  }
+}

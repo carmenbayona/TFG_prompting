@@ -1,0 +1,13 @@
+{
+  "topic": "emotional support",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "vulnerable",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "seek emotional support",
+    "P2": "provide emotional support"
+  }
+}

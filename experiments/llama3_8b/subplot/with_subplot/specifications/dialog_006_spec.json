@@ -1,0 +1,19 @@
+{
+  "topic": "Health Concerns",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "professional"
+  },
+  "goals": {
+    "P1": "determine cause of symptoms",
+    "P2": "diagnose and treat patient"
+  },
+  "subplots": [
+    "hidden motive (subplot): P1 seeking reassurance"
+  ],
+  "imperfections": [
+    "P1 omitting details about lifestyle and stress"
+  ]
+}

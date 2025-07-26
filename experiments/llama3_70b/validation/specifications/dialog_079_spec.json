@@ -1,0 +1,16 @@
+{
+  "topic": "umbrella and rain",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "resigned",
+    "participant_2": "helpful"
+  },
+  "goals": {
+    "participant_1": "express frustration",
+    "participant_2": "offer assistance"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

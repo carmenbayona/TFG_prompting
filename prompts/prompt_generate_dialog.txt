@@ -1,0 +1,18 @@
+You are a dialog generation expert. Your task is to generate a fully realistic and natural human conversation based on the following specification.
+
+The dialog must:
+- Resemble a spontaneous, informal human conversation.
+- Reflect the tone, goals, and number of turns indicated in the specification.
+- Include subplots and minor digressions.
+- Show occasional misunderstandings, clarifications, and corrections.
+- Contain spoken language imperfections like hesitations ("uh", "hmm"), repetitions, or informal expressions.
+- Include explicit participant labels as P1: and P2: at the start of each line.
+
+Avoid out-of-character phrases such as "As an AI..." or narrations. No system messages or explanations.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+
+⚠️ Return ONLY the full dialog, line by line, starting directly with P1: or P2:, without any heading, explanation, or comments.

@@ -1,0 +1,4 @@
+P1: Hi, I'm calling to confirm my train ticket booking for this weekend. Can you please check on the status?
+P2: I apologize, but can you please provide me with your booking reference number?
+P1: Ah, um, I think it's... uh... *pauses* Oh, wait, I wrote it down somewhere... * rustling papers* Ah, yes! It's TR1234.
+P2: I apologize, but I couldn't find any booking with that reference number. Could you please provide more details, like the date and time of travel?

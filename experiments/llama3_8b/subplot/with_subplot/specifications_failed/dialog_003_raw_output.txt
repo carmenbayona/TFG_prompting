@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Order Issue",
+  "turns": 7,
+  "participants": 2,
+  "tone": { "P1": "frustrated", "P2": "apologetic" },
+  "goals": { "P1": "get laptop", "P2": "resolve issue" },
+  "subplots": ["hidden motive (subplot): P2's tone is overly apologetic to compensate for company's mistake"],
+  "imperfections": ["P1's frustration implies a sense of urgency, but P2's response doesn't acknowledge it"]
+}

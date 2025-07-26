@@ -1,0 +1,19 @@
+Here is a dialog that meets the specified requirements:
+
+---
+P1: I'm starving, let's order lunch already! What's taking so long?
+P2: Uh, I don't know... I was thinking we could try that new sandwich place, but then again, have you considered that new Asian fusion spot?
+P1: Sandwich place? You just said you weren't sure about the sandwich place! Make up your mind!
+P2: Oh, yeah, sorry about that... never mind the sandwich place, I think I'll go with the Asian fusion spot. Do you know what they recommend?
+
+---
+
+This dialog meets the requirements as follows:
+
+* Topic: Ordering lunch
+* Turns: 4
+* Participants: 2
+* Tone: P1 is hungry and a bit frustrated, P2 is indecisive
+* Goals: P1 wants to decide quickly, P2 wants to ask for recommendations
+* Subplots: None
+* Imperfections: P2 changes their mind mid-line (I've included this imperfection as specified)

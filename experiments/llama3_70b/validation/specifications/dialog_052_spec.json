@@ -1,0 +1,16 @@
+{
+  "topic": "new coffee shop",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "recommendation",
+    "P2": "social invitation"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

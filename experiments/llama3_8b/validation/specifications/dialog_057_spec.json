@@ -1,0 +1,15 @@
+{
+  "topic": "joining a pottery class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "excited"
+  },
+  "goals": {
+    "P1": "inviting P2 to join the pottery class",
+    "P2": "accepting the invitation"
+  },
+  "subplots": [],
+  "imperfections": []
+}

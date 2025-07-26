@@ -1,0 +1,16 @@
+{
+  "topic": "weekend activities",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "friendly",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "showing interest",
+    "P2": "sharing experience"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

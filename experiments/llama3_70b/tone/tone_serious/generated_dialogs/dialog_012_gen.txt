@@ -1,0 +1,4 @@
+P1: I've been considering applying to the master's program in data science, but I'm not sure if I'm a strong candidate.
+P2: Ah, data science is a fascinating field. What makes you think you wouldn't be a good fit?
+P1: Well, my undergraduate degree is in computer science, but I don't have any direct experience in data science. I'm worried that my background might not be sufficient.
+P2: That's a valid concern, but your computer science background can actually be beneficial. We can work on highlighting your transferable skills in your application.

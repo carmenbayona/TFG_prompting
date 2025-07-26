@@ -1,0 +1,11 @@
+P1: Hi, I'm calling to book a room at your hotel for this weekend. Do you have any availability?
+
+P2: Yeah, let me check. What kind of room are you looking for? We have, uh, singles, doubles, and suites.
+
+P1: Hmm, I think a double would be fine. How much would that cost per night?
+
+P2: Okay, so for a double, it's gonna be around... *pause* ...$120 per night. Would you like to book it for Friday and Saturday night?
+
+P1: Yeah, that's right. And, by the way, do you have free Wi-Fi and breakfast included?
+
+P2: Yeah, we do. Free Wi-Fi throughout the hotel, and breakfast is a continental buffet, you know, pastries, cereal, that kind of thing.

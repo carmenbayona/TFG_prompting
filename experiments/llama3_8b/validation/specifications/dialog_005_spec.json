@@ -1,0 +1,13 @@
+{
+  "topic": "planning a movie night",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "friendly",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "suggest a movie",
+    "P2": "agree on a movie"
+  }
+}

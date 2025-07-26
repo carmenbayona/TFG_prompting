@@ -1,0 +1,19 @@
+{
+  "topic": "fitness and exercise",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "encourage friend to exercise",
+    "P2": "make up for lack of exercise"
+  },
+  "subplots": [
+    "making excuses for lack of exercise"
+  ],
+  "imperfections": [
+    "P2's apologetic tone may come across as excessive"
+  ]
+}

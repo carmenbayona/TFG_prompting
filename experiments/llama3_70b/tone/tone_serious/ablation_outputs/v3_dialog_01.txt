@@ -1,0 +1,15 @@
+Here is a generated dialog based on the specification:
+
+---
+P1: (nervously) I just got my exam results... and I didn't do well.  
+P2: (calmly) I'm sorry to hear that. What did you think of the test overall?  
+P1: (interrupting) I don't understand, I studied for weeks! I thought I was ready...  
+P2: (calmly) Let's take a closer look at the results together. Sometimes there are areas where-  
+P1: (changing the topic) Do you think I should just retake the whole course? I don't want to fall behind...  
+P2: (comfortingly) Let's not jump to that conclusion just yet. Like I was saying, there might be specific areas where you need more practice. We can review those together.  
+P1: (worried) But what if I'm just not cut out for this?  
+P2: (supportively) That's not true. You're just experiencing a setback. We'll work through this together, and I'm confident you'll do better next time.
+
+---
+
+This dialog aims to capture the specified tone, goals, and subplots. P1 is worried and stressed, while P2 is calm and supportive. P1's goals are to understand why they failed and to find a solution, while P2's goal is to comfort and support P1. The conversation touches on the subplot of repeating the course, and includes imperfections such as P1 interrupting P2 and changing the topic out of stress.

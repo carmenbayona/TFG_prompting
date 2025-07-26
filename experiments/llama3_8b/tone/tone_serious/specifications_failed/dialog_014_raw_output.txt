@@ -1,0 +1,11 @@
+Here is the extracted specification in JSON format:
+
+{
+  "topic": "Thesis Discussion",
+  "turns": 4,
+  "participants": 2,
+  "tone": { "P1": "helpful", "P2": "frustrated" },
+  "goals": { "P1": "offer assistance", "P2": "get help with thesis" },
+  "subplots": [ "methodology section challenges", "thesis struggles" ],
+  "imperfections": [ "hesitation (nervous pause)" ]
+}

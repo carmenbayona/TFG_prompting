@@ -1,0 +1,12 @@
+You are a dialog generation expert. Generate a clean and structured conversation based on the following specification.
+
+Constraints:
+- Include both the main topic and subplot.
+- No digressions, contradictions, or filler.
+- Dialog must be polished and clear.
+
+Only return dialog starting with P1: and P2:.
+
+Specification:
+---
+{SPECIFICATION_HERE}

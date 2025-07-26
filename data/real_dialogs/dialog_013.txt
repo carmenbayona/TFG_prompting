@@ -1,0 +1,4 @@
+P1: Is your internet working? Mine just dropped.
+P2: Ugh, same here. Maybe it's the router again.
+P1: Should we restart it?
+P2: Already on it. Let's hope it works this time.

@@ -1,0 +1,13 @@
+{
+  "topic": "office incident",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "informal",
+    "P2": "polite"
+  },
+  "goals": {
+    "P1": "share news",
+    "P2": "seek clarification"
+  }
+}

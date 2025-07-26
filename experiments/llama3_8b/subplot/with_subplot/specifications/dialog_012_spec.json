@@ -1,0 +1,19 @@
+{
+  "topic": "Academic Applications",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "encouraging"
+  },
+  "goals": {
+    "P1": "get advice on master's program",
+    "P2": "help friend with application"
+  },
+  "subplots": [
+    "hidden motive (P2 wants to relive their own academic experiences)"
+  ],
+  "imperfections": [
+    "P1's tone is too casual for a serious academic decision"
+  ]
+}

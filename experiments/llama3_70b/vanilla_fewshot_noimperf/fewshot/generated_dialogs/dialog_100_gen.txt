@@ -1,0 +1,5 @@
+P1: It's going to be a lot this week, I checked the forecast.
+P2: Really? How much rain are we talking about?
+P1: Well, they're predicting at least three inches by Friday. Maybe more.
+P2: That's a lot. Is it supposed to clear up by the weekend?
+P1: Yeah, it's supposed to clear up by Saturday. They're saying it'll be sunny day.

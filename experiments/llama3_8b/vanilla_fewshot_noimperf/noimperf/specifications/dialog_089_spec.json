@@ -1,0 +1,14 @@
+{
+  "topic": "Technical Help",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "seeking technical help",
+    "P2": "learning"
+  },
+  "subplots": []
+}

@@ -1,0 +1,4 @@
+P1: Hey, I'm having some issues with my internet connection. It's been dropping out all morning. 
+P2: Ugh, not again. I was in the middle of a project and it just stopped working. 
+P1: Yeah, I know. I've tried restarting the router, but that didn't help. 
+P2: Hmm, maybe we should just get a new router. This one's like, ancient.

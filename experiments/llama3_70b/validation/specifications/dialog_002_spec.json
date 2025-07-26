@@ -1,0 +1,22 @@
+{
+  "topic": "booking travel arrangements",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "assertive",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "to confirm travel arrangements",
+    "P2": "to rectify the mistake"
+  },
+  "subplots": [
+    "assigning responsibility"
+  ],
+  "misunderstandings": [
+    "miscommunication about who would book the tickets"
+  ],
+  "imperfections": [
+    "hesitation"
+  ]
+}

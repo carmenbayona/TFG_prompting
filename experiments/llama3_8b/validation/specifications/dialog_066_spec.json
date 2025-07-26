@@ -1,0 +1,13 @@
+{
+  "topic": "book",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "cautious"
+  },
+  "goals": {
+    "P1": "discuss book",
+    "P2": "avoid spoilers"
+  }
+}

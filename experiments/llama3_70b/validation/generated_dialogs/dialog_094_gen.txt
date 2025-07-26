@@ -1,0 +1,9 @@
+P1: Hey, have you seen the latest project timeline? I was just going over it and, uh, we're getting close to the deadline.
+
+P2: Yeah, I took a look yesterday. What's the situation looking like? Are we on track?
+
+P1: Well, we're a bit behind, to be honest. I think we can still make it, but we need to, hmm, prioritize our tasks better.
+
+P2: Okay, makes sense. What's the biggest bottleneck right now? Is it the design team or the dev team?
+
+P1: Actually, it's a bit of both. The design team is waiting on some feedback from the client, and the dev team is struggling to meet the new requirements.

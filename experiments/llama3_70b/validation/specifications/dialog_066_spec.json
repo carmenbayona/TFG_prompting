@@ -1,0 +1,16 @@
+{
+  "topic": "Book discussion",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "cautious"
+  },
+  "goals": {
+    "P1": "share opinion about the book",
+    "P2": "avoid spoilers"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

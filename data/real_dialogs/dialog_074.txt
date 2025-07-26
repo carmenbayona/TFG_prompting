@@ -1,0 +1,4 @@
+P1: Your dog is adorable!
+P2: Thanks! Her name’s Luna.
+P1: What breed is she?
+P2: She’s a mix, rescue from the shelter.

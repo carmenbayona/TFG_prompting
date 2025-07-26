@@ -1,0 +1,39 @@
+Based on the specification, here is the dialog line by line, starting with P1:
+
+P1: "Hey P2, I've been thinking... I know you love adventure, so I wanted to surprise you with a trip! What do you say?"
+
+(P2's turn)
+
+P2: "A surprise trip? That sounds sketchy. Where are we going? Is it a secret llama farm or something?"
+
+(P1's turn)
+
+P1: "Ha! No, nothing like that. I promise it's a real place. But I really want to keep it a surprise until we get there. Can I count on you to pack without asking too many questions?"
+
+(P2's turn)
+
+P2: "Hmm, that's weird. Are we going to Antarctica or something? I bet you're taking me to Antarctica!"
+
+(P1's turn)
+
+P1: "Uh, no, not Antarctica. But I will say this: it's going to be a real change of pace from our usual routine. And don't worry, the weather will be... unique."
+
+(P2's turn)
+
+P2: "Unique weather? That's code for 'we're going to get caught in a tornado', isn't it? I bet you're taking me to a llama farm!"
+
+(P1's turn)
+
+P1: "Ha! No, no llamas. But I will say that the scenery will be very... green. And we'll have to pack accordingly."
+
+(P2's turn)
+
+P2: "Green? Like, the green of a toxic waste dump? You're taking me to a toxic waste dump, aren't you?"
+
+(P1's turn)
+
+P1: "No, nothing like that! Just... greenery. Trust me, you'll love it. Can we just agree to pack without asking too many questions?"
+
+(P2's turn)
+
+P2: "Fine, fine. But if we end up on a llama farm, I'm blaming you."

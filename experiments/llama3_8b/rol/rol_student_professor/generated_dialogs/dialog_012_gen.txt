@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: Hi, Professor Thompson! I'm really interested in applying to the Master's program in data science. Can you tell me more about the application process?
+
+P2: Ah, great to hear from you! The Master's program in data science is an exciting opportunity, and I'm happy to help with the application process. So, to start, we require a Bachelor's degree in a relevant field, and a minimum GPA of 3.0.
+
+P1: That makes sense. I have a Bachelor's in Computer Science, so I think I meet the GPA requirement. But what about the relevant field part? Is it just data science, or is there some flexibility?
+
+P2: Excellent question! While a degree in data science is preferred, we also consider applicants with backgrounds in related fields like statistics, mathematics, or computer engineering. We're looking for students who have a strong foundation in algorithms, data structures, and programming languages.
+
+P1: That gives me a bit more clarity. What's the timeline for the application process? Are there any specific deadlines or requirements I should be aware of?
+
+P2: Good thinking ahead! The application deadline for this semester is actually just a few weeks away, but I encourage you to apply as soon as possible to ensure consideration. You can find all the application requirements and deadlines on our website.

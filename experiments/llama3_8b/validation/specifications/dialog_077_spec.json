@@ -1,0 +1,13 @@
+{
+  "topic": "Assignment due date",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frantic",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find out assignment due date",
+    "P2": "help P1 with assignment"
+  }
+}

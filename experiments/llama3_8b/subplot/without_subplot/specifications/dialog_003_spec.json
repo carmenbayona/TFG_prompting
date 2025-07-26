@@ -1,0 +1,18 @@
+{
+  "topic": "Laptop Order Issue",
+  "turns": 7,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get laptop delivered",
+    "P2": "resolve order issue"
+  },
+  "subplots": [],
+  "imperfections": [
+    "P1 didn't provide order number immediately",
+    "P2 didn't explain the delay"
+  ]
+}

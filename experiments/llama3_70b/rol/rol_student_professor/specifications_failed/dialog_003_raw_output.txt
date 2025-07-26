@@ -1,0 +1,9 @@
+{
+"topic": "laptop order issue",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "frustrated", "P2": "apologetic" },
+"goals": { "P1": "resolve laptop order issue", "P2": "assist student" },
+"subplots": [ "need for laptop for work" ],
+"imperfections": [ "delay in order fulfillment" ]
+}

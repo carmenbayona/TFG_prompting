@@ -1,0 +1,15 @@
+P1: So, I'm going to this conference next week and I'm trying to book a hotel room. Have you ever done that before?
+
+P2: Yeah, I do it all the time! What's the conference about?
+
+P1: It's about, uh, machine learning. I'm really excited! So, I'm using this travel website and it's been a real pain. Can you believe how many options there are?
+
+P2: Hmm, yeah, I can imagine. What's wrong with the options?
+
+P1: Well, I don't know if I want to stay in the city center or outside. And what's the deal with the stars? Do they really matter?
+
+P2: Yeah, I think so. I mean, at least the star rating gives you some idea of what to expect. But, honestly, I've had great experiences at three-star hotels.
+
+P1: That's true. Maybe I'll go for that. Do you have any recommendations? How do you usually book your hotel rooms?
+
+P2: Usually, I just use my phone and check what's available. Sometimes I'll look at reviews or ask friends for advice. But, hey, since you're going to the conference, are you going to any of the after-parties?

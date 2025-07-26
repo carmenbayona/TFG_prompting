@@ -1,0 +1,5 @@
+P1: I'm extremely frustrated that my laptop order is delayed. I was supposed to receive it last week.
+P2: I apologize for the inconvenience, sir. I'm happy to help you with the issue. Can you please provide me with your order number?
+P1: It's #1234. I've been waiting for weeks and I really need this laptop for work. What's going on with the shipping?
+P2: I've checked on the status, and I see that there was an unexpected delay in our warehouse. I'm going to go ahead and expedite the shipping for you.
+P1: That's not good enough. I want to know what caused the delay in the first place. Was it some kind of mistake on your end?

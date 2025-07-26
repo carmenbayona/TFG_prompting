@@ -1,0 +1,15 @@
+You are a dialog generation expert. Here's an example of a serious and respectful dialog:
+
+---
+P1: I saw the exam results.  
+P2: Yes. I was going to talk to you about that.  
+P1: I honestly thought I had done better.  
+P2: It was a difficult test. But there’s room for improvement.  
+P1: I guess I’ll have to retake it.  
+P2: I can help you prepare this time.
+
+---
+
+Now, generate a similar serious conversation based on this specification:
+---
+{SPECIFICATION_HERE}

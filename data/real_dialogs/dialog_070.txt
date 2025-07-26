@@ -1,0 +1,4 @@
+P1: There’s something wrong with the printer.
+P2: Again? Did you try restarting it?
+P1: Twice already.
+P2: I’ll take a look in a bit.

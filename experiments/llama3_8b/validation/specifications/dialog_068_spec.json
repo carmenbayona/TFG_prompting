@@ -1,0 +1,13 @@
+{
+  "topic": "hiking plans",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "neutral"
+  },
+  "goals": {
+    "P1": "suggest an activity",
+    "P2": "understand the reason and agree"
+  }
+}

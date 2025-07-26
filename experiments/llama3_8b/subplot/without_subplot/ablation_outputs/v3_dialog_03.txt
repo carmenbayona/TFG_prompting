@@ -1,0 +1,17 @@
+Here is a generated dialog that meets the specifications:
+
+---
+P1: Hey, what's for lunch? I'm starving.  
+P2: Um... I don't know. What do you feel like having?  
+P1: Something quick and easy, like a sandwich. You know, something that won't take too long to make.  
+P2: Hmm, yeah... that sounds good. But what kind of sandwich? Turkey or ham?
+
+Note:
+
+* The topic is "Ordering lunch".
+* There are 4 turns.
+* The participants are 2.
+* The tone is set: P1 is hungry, and P2 is indecisive.
+* The goals are set: P1 wants to decide quickly, and P2 wants to ask for recommendations.
+* There are no subplots.
+* The imperfection specified ("P2 changes mind mid-line") is implemented, as P2 changes their mind from giving a general suggestion to asking for specific sandwich options.

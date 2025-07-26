@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 4,
+  "realism": 2,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unrealistic elements, but it's still engaging and coherent.",
+  "Variant": "v6_no_example_04",
+  "Dialog": "Here is the generated dialog:\n\nP1: Dude, I've got an amazing surprise for you!\nP2: What is it? You're not going to make me do some ridiculous scavenger hunt or something, are you?\nP1: Uh, nope, nothing like that. Just pack a bag, and we'll get there.\nP2: Hmm, okay... you're really mysterious about this, aren't you? I bet it's to Hawaii.\nP1: *laughs* Oh, no way! It's not warm and sunny, that's for sure. \nP2: Ooh, so it must be Antarctica! You're taking me on a polar expedition!\nP1: *laughs* No, no, nothing like that. Just... wear layers, okay?\nP2: Ha! I knew it! You're a llama farmer and you're taking me to a llama farm!\nP1: *laughs* You're really close, though! I mean, there are llamas everywhere...\nP2: Wait, what? Are you serious?!\nP1: Shh, just pack the bag and trust me!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

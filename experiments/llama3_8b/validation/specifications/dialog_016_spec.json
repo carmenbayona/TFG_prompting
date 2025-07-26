@@ -1,0 +1,13 @@
+{
+  "topic": "restaurant review",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "positive"
+  },
+  "goals": {
+    "P1": "get information about the restaurant",
+    "P2": "share their experience"
+  }
+}

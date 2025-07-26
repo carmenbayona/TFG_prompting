@@ -1,0 +1,13 @@
+{
+  "topic": "thesis draft review",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "constructive"
+  },
+  "goals": {
+    "P1": "get feedback on thesis draft",
+    "P2": "provide constructive feedback"
+  }
+}

@@ -1,0 +1,8 @@
+Here is the generated dialog:
+
+P1: P-p-professor, c-c-can I t-t-talk to you about the d-d-deadline for the p-p-project?
+P2: Yes, what's the concern?
+P1: I-I-I'm having a bit of t-t-trouble meeting the d-d-deadline, s-s-sir. I've been having some p-p-personal issues lately, and it's been h-h-hard for me to keep up.
+P2: What kind of personal issues? Clarify, please.
+P1: W-w-well, my g-g-grandmother passed away last w-w-week, and I've been dealing with the funeral arrangements and all that. It's just been really t-t-tough to focus on the project.
+P2: I'm sorry to hear that. However, I need to evaluate whether an extension is warranted. Can you show me your progress so far and a revised timeline?

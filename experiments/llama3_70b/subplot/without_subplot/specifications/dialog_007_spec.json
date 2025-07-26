@@ -1,0 +1,17 @@
+{
+  "topic": "Gym Workout",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "Encouraging",
+    "P2": "Self-critical"
+  },
+  "goals": {
+    "P1": "Support a workout",
+    "P2": "Get back on track with exercise"
+  },
+  "subplots": [],
+  "imperfections": [
+    "P2's self-criticism"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "watering plants",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "concerned",
+    "participant_2": "apologetic"
+  },
+  "goals": {
+    "participant_1": "ensure plants are watered",
+    "participant_2": "make amends for forgetting"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

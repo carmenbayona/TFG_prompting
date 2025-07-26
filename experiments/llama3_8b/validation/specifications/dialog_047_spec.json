@@ -1,0 +1,19 @@
+{
+  "topic": "P2's personal issues",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "understand P2's distraction",
+    "P2": "share personal issues"
+  },
+  "subplots": [
+    "P2's stress about deadlines"
+  ],
+  "imperfections": [
+    "repetition"
+  ]
+}

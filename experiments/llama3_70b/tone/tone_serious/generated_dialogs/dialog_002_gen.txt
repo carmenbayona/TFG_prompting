@@ -1,0 +1,7 @@
+P1: I need to confirm the travel arrangements for the upcoming conference. Can you walk me through the itinerary?
+P2: Ah, yes... I think we have everything in place. Let me just check the files real quick.
+P1: I'd appreciate that. I want to make sure we're on the same page. We can't afford any mistakes.
+P2: Of course, of course. Okay, so we have your flight booked for Thursday morning, arriving at 10 am.
+P1: That's not what I was told. I could've sworn it was Wednesday evening.
+P2: I apologize for the confusion. Let me double-check. (pause) Ah, I see the mistake. It was indeed Wednesday evening. I'll make the necessary changes.
+P1: Good. And what about the hotel reservation? Is it confirmed?

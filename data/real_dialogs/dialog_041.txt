@@ -1,0 +1,4 @@
+P1: Have you tried the new yoga class?
+P2: Not yet, is it good?
+P1: It’s amazing, really relaxing.
+P2: I’ll check it out this weekend.

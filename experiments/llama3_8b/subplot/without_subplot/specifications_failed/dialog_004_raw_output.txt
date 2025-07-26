@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required format:
+
+{
+  "topic": "thesis draft review",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "curious", "P2": "critical" },
+  "goals": { "P1": "get feedback on thesis draft", "P2": "provide constructive feedback" },
+  "subplots": [],
+  "imperfections": [ "P1 doesn't specify what they want to know", "P2 doesn't provide a clear plan for improvement" ]
+}

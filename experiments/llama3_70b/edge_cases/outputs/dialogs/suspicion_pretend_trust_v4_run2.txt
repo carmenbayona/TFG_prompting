@@ -1,0 +1,25 @@
+Here is the generated dialog:
+
+P1: Hi, I just wanted to confirm the deadline for the project. You mentioned it was next Friday, correct?
+
+P2: That's right. We're on track to meet the deadline, no issue.
+
+P1: Great. I remember you mentioning that the design team would finish their part by this Wednesday. Can you confirm that?
+
+P2: Yes, they're on schedule to deliver the final design files by the end of Wednesday.
+
+P1: Okay, got it. So, if the design files are ready on Wednesday, that gives us two days for review and revision before the deadline. Is that correct?
+
+P2: Exactly. We've built in some buffer time to ensure everything is perfect before submitting the final project.
+
+P1: That's reassuring. I recall you mentioning that the client would be available for feedback on Thursday. Is that still the case?
+
+P2: Yes, the client has confirmed they'll be available for a call on Thursday to review and provide feedback.
+
+P1: I see. So, just to clarify, if the design files are ready on Wednesday and the client provides feedback on Thursday, we'll still be able to meet the deadline on Friday?
+
+P2: Absolutely. We've planned this out carefully, and everything is on track.
+
+P1: Alright, thanks for confirming. I feel much better about the project now.
+
+P2: No problem, happy to reassure you that we're on top of things.

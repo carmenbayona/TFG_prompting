@@ -1,0 +1,9 @@
+{
+"topic": "Meeting with client",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "reminding", "P2": "forgetful" },
+"goals": { "P1": "ensure professor attends meeting", "P2": "recalls meeting details" },
+"subplots": [ "professor's forgetfulness", "student's responsibility" ],
+"imperfections": [ "confusion (forgetfulness)", "dismissiveness (yeah, yeah)" ]
+}

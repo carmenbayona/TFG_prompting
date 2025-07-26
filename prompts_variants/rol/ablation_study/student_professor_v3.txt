@@ -1,0 +1,30 @@
+You are a dialog generation expert. Generate a casual and humorous conversation between two friends based on the following specification.
+aYou are a dialog generation expert. Here's an example of a professor-student dialog:
+
+---
+P1: Professor, could I speak to you about the assignment?  
+P2: Of course. What's the concern?  
+P1: I’m struggling to meet the deadline.  
+P2: Have you started the work?  
+P1: Yes, but I need more time.  
+P2: Let's discuss an extension.
+
+---
+
+Now generate a similar dialog with the following specification, keeping the tone formal and academic:
+
+---
+{SPECIFICATION_HERE}
+
+Requirements:
+- Use the exact number of turns.
+- Alternate between P1 and P2 naturally.
+- Make each participant pursue their goal clearly.
+- Include small imperfections like hesitations or contradictions.
+- Use P1: and P2: at the start of each line only.
+
+No system messages, narration, or meta-comments.
+
+Specification:
+---
+{SPECIFICATION_HERE}

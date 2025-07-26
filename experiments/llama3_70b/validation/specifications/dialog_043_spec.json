@@ -1,0 +1,17 @@
+{
+  "topic": "fate and relationships",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "curious",
+    "participant_2": "reflective"
+  },
+  "goals": {
+    "participant_1": "explore the concept of fate",
+    "participant_2": "share a personal perspective"
+  },
+  "subplots": [
+    "personal connection"
+  ],
+  "imperfections": []
+}

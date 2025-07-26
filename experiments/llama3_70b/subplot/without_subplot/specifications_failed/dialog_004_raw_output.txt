@@ -1,0 +1,9 @@
+{
+"topic": "thesis draft feedback",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "constructive" },
+"goals": { "P1": "get feedback on thesis draft", "P2": "provide constructive feedback" },
+"subplots": [],
+"imperfections": [ "P1 didn't specify which parts of the feedback they wanted" ]
+}

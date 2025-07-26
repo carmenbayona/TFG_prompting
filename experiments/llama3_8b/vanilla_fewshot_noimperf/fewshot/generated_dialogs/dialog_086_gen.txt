@@ -1,0 +1,8 @@
+P1: Excuse me, could you tell me how to get to the art museum from here?
+P2: Yeah, sure thing! It's about a 20-minute walk west from here. You can't miss it.
+P1: Okay, got it. But is there a more direct route than just walking?
+P2: (pauses) Hmm... let me think... I'm pretty sure there's a bus that takes you right there. It's number 12, I think? (hesitates) Yeah, definitely.
+P1: That sounds good. Where can I catch the bus?
+P2: There's a stop just a block that way. You can't see it from here, but it's a big sign with a bus on it.
+P1: Alright, cool. So, one more thing - does the bus run frequently?
+P2: Yeah, it's a pretty regular route. I think it comes every 10-15 minutes. (repeats) Yeah, definitely every 10-15 minutes.

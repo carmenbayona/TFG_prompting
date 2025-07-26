@@ -1,0 +1,16 @@
+{
+  "topic": "Applying to a master's program in data science",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "contemplative",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "exploring the possibility of applying",
+    "P2": "offering help and support"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

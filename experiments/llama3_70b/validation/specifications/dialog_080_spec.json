@@ -1,0 +1,16 @@
+{
+  "topic": "Job application outcome",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "resilient",
+    "P2": "empathetic"
+  },
+  "goals": {
+    "P1": "to share news and show determination",
+    "P2": "to offer comfort and reassurance"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

@@ -1,0 +1,21 @@
+{
+  "topic": "Distributed Systems Mentoring",
+  "turns": 14,
+  "participants": 2,
+  "tone": {
+    "P1": "supportive",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "explain scalability, fault tolerance, and security",
+    "P2": "understand complex concepts and ask clarifying questions"
+  },
+  "subplots": [
+    "P2 struggles to grasp fault tolerance",
+    "P1 uses analogies to help explain"
+  ],
+  "imperfections": [
+    "P2 repeats questions",
+    "P1 occasionally uses technical jargon"
+  ]
+}

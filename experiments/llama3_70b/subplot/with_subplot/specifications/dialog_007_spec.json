@@ -1,0 +1,19 @@
+{
+  "topic": "gym routine",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "self-deprecating"
+  },
+  "goals": {
+    "P1": "help P2 get back on track",
+    "P2": "get back into a regular workout routine"
+  },
+  "subplots": [
+    "P2's guilt and self-doubt about slacking off"
+  ],
+  "imperfections": [
+    "P2's brief defensiveness when confronted with their lack of motivation"
+  ]
+}

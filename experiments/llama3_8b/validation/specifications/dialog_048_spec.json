@@ -1,0 +1,13 @@
+{
+  "topic": "planning a weekend getaway",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": " casual"
+  },
+  "goals": {
+    "P1": "plan a weekend getaway",
+    "P2": "decide on a destination"
+  }
+}

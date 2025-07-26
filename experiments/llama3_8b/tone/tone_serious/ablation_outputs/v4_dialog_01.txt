@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: I'm really worried about my exam results, I don't understand why I failed the course.
+P2: Hi, it's okay to feel worried, but let's try to figure out what might have gone wrong. Can you tell me more about the exam?
+
+P1: Yeah, I studied really hard, but I still managed to get a bad grade. I feel like I'm just not cut out for this.
+P2: It's not uncommon for students to feel that way, especially after a tough exam. Let me ask you, did you review the material well before the exam?
+
+P1: Actually, I didn't have time to review the notes thoroughly. Maybe that's why I did so poorly.
+P2: It's possible that was a factor. But since you didn't pass, we can discuss the option of repeating the course with me.
+
+P1: Yeah, that's what I was thinking. But I don't want to waste another semester.
+P2: We can definitely explore other options as well, but repeating the course might be the best way to ensure you understand the material. Let's discuss the details and see what would work best for you.

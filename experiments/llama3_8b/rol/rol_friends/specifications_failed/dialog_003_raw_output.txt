@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "Delivery Issues with Laptop Order",
+  "turns": 7,
+  "participants": 2,
+  "tone": { "P1": "frustrated", "P2": "apologetic" },
+  "goals": { "P1": "resolve order issue", "P2": "help resolve order issue" },
+  "subplots": [ "difficulty with work", "delay in delivery" ],
+  "imperfections": [ "P2's request for order number" ]
+}

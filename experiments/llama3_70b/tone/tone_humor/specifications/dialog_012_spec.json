@@ -1,0 +1,21 @@
+{
+  "topic": "applying to a master's program",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "contemplative",
+    "P2": "encouraging"
+  },
+  "goals": {
+    "P1": "apply to master's program",
+    "P2": "help P1 with application"
+  },
+  "subplots": [
+    "P1's career development",
+    "P2's supportiveness"
+  ],
+  "imperfections": [
+    "P1's uncertainty",
+    "P2's assumption of P1's aptitude"
+  ]
+}

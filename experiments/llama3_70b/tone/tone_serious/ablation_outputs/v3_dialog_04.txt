@@ -1,0 +1,15 @@
+Here is a generated dialog based on the specification:
+
+---
+P1: (nervously) I just saw the exam results... I didn't pass.  
+P2: (calmly) I'm sorry to hear that. What are your thoughts on what happened?  
+P1: (interrupting) I just don't get it! I studied so hard. (stops suddenly) Wait, was the exam curved?  
+P2: (patiently) Actually, it wasn't. But let me take a look at your results with you... (starts to explain)  
+P1: (changing topic) You know, I was thinking about dropping the course anyway. I don't know if I'm cut out for it.  
+P2: (supportively) Hold on, let's not jump to conclusions. We can go over the material again, and I can give you some additional resources to help you prepare. Would you like that?  
+P1: (hesitantly) Yeah... I guess so. Would repeating the course really make a difference?  
+P2: (encouragingly) Absolutely. You can learn from your mistakes and come back stronger. I'll be here to support you every step of the way.
+
+---
+
+In this dialog, P1 is worried and stressed about their exam results, while P2 remains calm and supportive. P1's goals are to understand why they failed and to get comfort and support from P2. P2's goal is to provide that comfort and support. The subplots involve discussing the possibility of repeating the course, and P1's imperfections are shown through their interruptions and topic changes due to stress.

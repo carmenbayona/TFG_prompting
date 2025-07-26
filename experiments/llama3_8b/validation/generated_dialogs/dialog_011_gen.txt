@@ -1,0 +1,8 @@
+P1: Ugh, I'm so frustrated. I can't find my charger anywhere. I know I had it just a minute ago.
+P2: Sorry to hear that. When was the last time you used it?
+P1: Hmm, I think it was when I was watching TV last night. I might've left it on the couch.
+P2: That's a good lead. Can you check the living room for me?
+P1: Yeah, yeah, I'll do that. (pauses) Wait, wait, I just remembered something. I might've put it in my bag when I grabbed it for the meeting this morning.
+P2: Okay, so now we have two possible locations. Let's start by checking the couch, and then if we don't find it, we can look in your bag.
+P1: Sounds like a plan. Thanks for helping me out, I feel like I've been looking for it forever.
+P2: No problem, happy to help. We'll get it figured out.

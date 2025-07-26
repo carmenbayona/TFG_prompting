@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 5,
+  "realism": 5,
+  "fidelity_to_specification": 5,
+  "engagement": 4,
+  "originality": 3,
+  "comments": "The dialog is well-structured and natural-sounding, but some phrases feel a bit formulaic.",
+  "Variant": "v8_json_only_05",
+  "Dialog": "Here is a dialog between two characters, Emily and Jack:\n\n**Setting:** A small caf\u00e9 in the heart of the city. Emily and Jack are sitting at a cozy table by the window, sipping their lattes.\n\n**Emily:** So, Jack, what brings you here today? You're not exactly a morning person, are you?\n\n**Jack:** (laughs) No, I'm not. I just needed a break from the chaos at work. Plus, I wanted to make it up to you for missing our plans last night.\n\n**Emily:** (smiling) Ah, don't worry about it. I know you were stuck with a project deadline. But thanks for making an effort today.\n\n**Jack:** So, what's new with you? Anything exciting happening?\n\n**Emily:** Actually, I just got an email from my art school yesterday. They're interested in featuring my work in their upcoming exhibition!\n\n**Jack:** That's amazing! Congratulations! You must be thrilled.\n\n**Emily:** I am! I've been working on that project for months. It's a huge deal for me.\n\n**Jack:** You deserve it, Emily. Your art is incredible. I'm so proud of you.\n\n**Emily:** (blushes) Thanks, Jack. That means a lot coming from you.\n\n**Jack:** (smirks) So, are you going to make me come to the exhibition and pretend to be cultured?\n\n**Emily:** (laughs) Absolutely! I wouldn't want to miss it, actually. You can be my plus one.\n\n**Jack:** (grinning) Deal! Now, let's get back to our coffee and enjoy the morning.\n\n**Emily:** (smiling) Sounds like a plan to me.",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": 2,\n  \"tone\": {\n    \"P1\": \"enthusiastic\",\n    \"P2\": \"suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack a bag without asking too many questions\",\n    \"P2\": \"understand what's going on and get more info\"\n  },\n  \"subplots\": [\n    \"P1 struggles to keep the destination secret\",\n    \"P2 thinks it's a prank or a kidnapping\"\n  ],\n  \"imperfections\": [\n    \"P1 slips a hint by accident\",\n    \"P2 repeats questions and gets more paranoid\"\n  ]\n}"
+}

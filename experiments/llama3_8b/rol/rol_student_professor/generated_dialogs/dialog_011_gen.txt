@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: Hey, teacher. I lost my charger again. Can you help me find it?
+
+P2: Of course, I'd be happy to help you find it. Can you tell me more about what happened? When was the last time you saw it?
+
+P1: Um, I think it was during lunch... I was charging my phone and then I left it on the table. But now my phone's dead and I really need to charge it.
+
+P2: Okay, so you think it might be in the cafeteria? Let me see if I can help you narrow down the location. Did you sit at a specific table or with a particular group of friends?
+
+P1: Yeah, we were sitting at the usual table by the window. But I don't know if that's where I left it. Maybe someone took it by mistake?
+
+P2: That's a good point. Let's try to ask around and see if anyone else might have seen your charger. Why don't you ask your friends if they've seen it, and we can also put up a lost and found notice?

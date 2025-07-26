@@ -1,0 +1,13 @@
+You are a dialog generation expert. Generate a natural conversation that includes both a main topic and a subplot, based on the following specification.
+
+The dialog must:
+- Reflect the goals and tone of each participant.
+- Include a subplot that adds complexity (as defined in the specification).
+- Show imperfections like interruptions, hesitations, or topic shifts.
+- Use P1: and P2: at the start of each line.
+
+No narration or explanations.
+
+Specification:
+---
+{SPECIFICATION_HERE}

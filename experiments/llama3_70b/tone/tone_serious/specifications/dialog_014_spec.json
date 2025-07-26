@@ -1,0 +1,20 @@
+{
+  "topic": "Thesis Progress",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "supportive",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "Offer help",
+    "P2": "Get methodology section done"
+  },
+  "subplots": [
+    "Academic struggle",
+    "Seeking help"
+  ],
+  "imperfections": [
+    "Admitting weakness (P2)"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+"topic": "Booking of train tickets",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "accusatory", "P2": "defensive" },
+"goals": { "P1": "to confirm booking", "P2": "to rectify the situation" },
+"subplots": [ "miscommunication", "responsibility" ],
+"imperfections": [ "hesitation (nervous pause)", "forgetfulness" ]
+}

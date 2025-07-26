@@ -1,0 +1,17 @@
+Here is the extracted high-level structured specification in the required JSON format:
+
+{
+  "topic": "Order Delay and Refund",
+  "turns": 7,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get laptop",
+    "P2": "resolve order issue"
+  },
+  "subplots": [ "delayed delivery" ],
+  "imperfections": [ "P1's lack of patience (frustration)" ]
+}

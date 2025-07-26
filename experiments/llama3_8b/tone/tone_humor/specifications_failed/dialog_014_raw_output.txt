@@ -1,0 +1,17 @@
+Here is the high-level structured specification for the conversation:
+
+{
+  "topic": "Academic struggles",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "helpful",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "offer assistance",
+    "P2": "get help with thesis"
+  },
+  "subplots": [ "joke (offhand remark)" ],
+  "imperfections": [ "joke (genuine offer of help)" ]
+}

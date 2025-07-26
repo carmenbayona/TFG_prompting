@@ -1,0 +1,16 @@
+You are a dialog generation expert. Your task is to generate a **realistic and engaging** human conversation based on the following specification.
+
+The dialog must:
+- Follow the topic, tone, and goals defined in the specification.
+- Include **at least one subplot or secondary theme**, even if minor.
+- Contain natural imperfections like hesitations, clarifications or repetition (if specified).
+- Integrate subplots as natural digressions, jokes, or changes in subject.
+- Start each line with a speaker label: P1: or P2:
+
+Do not include explanations, system messages or headings.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the full dialog, starting directly with P1: or P2:, line by line.

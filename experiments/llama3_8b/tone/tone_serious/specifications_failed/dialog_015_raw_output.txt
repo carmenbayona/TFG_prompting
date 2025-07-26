@@ -1,0 +1,17 @@
+Here is the extracted specification in JSON format:
+
+{
+  "topic": "Travel Arrangements",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "hesitant"
+  },
+  "goals": {
+    "P1": "clarify responsibility",
+    "P2": "double-check"
+  },
+  "subplots": ["miscommunication", "confusion"],
+  "imperfections": ["lack of clear communication"]
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "Planning weekend activities",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "polite"
+  },
+  "goals": {
+    "P1": "suggest a weekend activity",
+    "P2": "agree on an activity and offer to check the weather"
+  }
+}

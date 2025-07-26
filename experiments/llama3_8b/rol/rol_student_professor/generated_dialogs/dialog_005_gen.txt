@@ -1,0 +1,15 @@
+Here is the generated dialog:
+
+P1: Hey, Mrs. Johnson, can we plan a movie night for next Friday?
+
+P2: Ah, sure thing! What kind of movie are you thinking of?
+
+P1: I was thinking maybe something in the sci-fi genre. Have you seen any good ones recently?
+
+P2: (pauses) Hmm, I think I saw a sci-fi movie a while back... but I'm not exactly sure what it was. Can you give me a few options?
+
+P1: Yeah, sure! I was thinking of "Interstellar" or "Arrival". Both are pretty popular.
+
+P2: Ah, those sound great! I've heard good things about both. What about snacks? Should we have a potluck or order something in?
+
+P1: Hmm, that's a good question. What do you think?

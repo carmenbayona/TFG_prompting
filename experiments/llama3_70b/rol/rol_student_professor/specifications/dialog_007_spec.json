@@ -1,0 +1,20 @@
+{
+  "topic": "workout plan",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "helping to establish a workout routine",
+    "P2": "getting back on track with exercise"
+  },
+  "subplots": [
+    "getting motivated",
+    "establishing a routine"
+  ],
+  "imperfections": [
+    "initial guilt or shame"
+  ]
+}

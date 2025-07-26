@@ -1,0 +1,4 @@
+P1: Hey, I've been thinking about applying to a master's program in data science.
+P2: Oh, that's great! What made you consider that?
+P1: Uh, well, I've been working with data for a while now, and I feel like I need to take my skills to the next level, you know?
+P2: Absolutely! A master's would definitely open up more opportunities for you. Have you looked into any specific programs yet?

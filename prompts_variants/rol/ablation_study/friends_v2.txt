@@ -1,0 +1,14 @@
+You are a dialog generation expert. Generate a casual and humorous conversation between two friends based on the following specification.
+
+Requirements:
+- Use the exact number of turns.
+- Alternate between P1 and P2 naturally.
+- Make each participant pursue their goal clearly.
+- Include small imperfections like hesitations or contradictions.
+- Use P1: and P2: at the start of each line only.
+
+No system messages, narration, or meta-comments.
+
+Specification:
+---
+{SPECIFICATION_HERE}

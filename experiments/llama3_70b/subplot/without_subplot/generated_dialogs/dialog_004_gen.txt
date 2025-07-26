@@ -1,0 +1,5 @@
+P1: So, I finally finished my thesis draft and I was wondering if you could take a look and give me some feedback?
+P2: Of course, I'd be happy to help. What specifically are you looking for feedback on? The methodology, the literature review, or something else?
+P1: Um, yeah... I guess just overall. You know, is it coherent, does it make sense... that kind of thing.
+P2: Alright. Well, I've had a chance to read through it, and overall it's a good start. One thing that stood out to me is that your introduction could be stronger. You jump right into the problem statement without setting up the context very well.
+P2: Also, I think you could benefit from breaking up some of the longer paragraphs, especially in the discussion section. It's a bit of a dense read right now.

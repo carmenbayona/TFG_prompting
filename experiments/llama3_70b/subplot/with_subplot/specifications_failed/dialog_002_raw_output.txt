@@ -1,0 +1,9 @@
+{
+"topic": "Travel Arrangements",
+"turns": 6,
+"participants": 2,
+"tone": { "P1": "assertive", "P2": "defensive" },
+"goals": { "P1": "to confirm travel plans", "P2": "to fulfill responsibility" },
+"subplots": [ "avoidance of responsibility (trust issue)" ],
+"imperfections": [ "miscommunication", "broken promise" ]
+}

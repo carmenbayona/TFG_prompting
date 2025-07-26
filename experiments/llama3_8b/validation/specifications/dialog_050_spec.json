@@ -1,0 +1,13 @@
+{
+  "topic": "learning to code",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "ambitious",
+    "P2": "encouraging"
+  },
+  "goals": {
+    "P1": "discussing learning to code",
+    "P2": "providing support and guidance"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "Attendance at class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "uncertain"
+  },
+  "goals": {
+    "P1": "check attendance",
+    "P2": "decide whether to attend class"
+  }
+}

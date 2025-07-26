@@ -1,0 +1,4 @@
+P1: Hey, have you seen my wallet? I think I lost it.
+P2: Hmm, no, I haven't seen it. When did you last have it?
+P1: Uh, I'm not sure... I think it was when we were at the coffee shop earlier today.
+P2: Okay, did you check your pockets, just in case?

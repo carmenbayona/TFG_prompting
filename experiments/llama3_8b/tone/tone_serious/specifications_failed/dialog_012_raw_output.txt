@@ -1,0 +1,11 @@
+Here is the extracted specification in JSON format:
+
+{
+  "topic": "Graduate Education",
+  "turns": 4,
+  "participants": 2,
+  "tone": {"P1": "neutral", "P2": "encouraging"},
+  "goals": {"P1": "obtaining a master's degree", "P2": "helping with the application"},
+  "subplots": ["master's program in data science", "Madrid location"],
+  "imperfections": ["no hesitation or filler words"]
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "thesis methodology",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "helpful",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "offer help",
+    "P2": "get help with thesis"
+  }
+}

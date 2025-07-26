@@ -1,0 +1,16 @@
+{
+  "topic": "evaluation of a presentation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "positive",
+    "participant_2": "self-critical"
+  },
+  "goals": {
+    "participant_1": "to compliment and reassure",
+    "participant_2": "to seek validation"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

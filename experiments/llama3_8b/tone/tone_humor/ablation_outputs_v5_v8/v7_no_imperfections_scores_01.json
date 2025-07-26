@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 4,
+  "realism": 2,
+  "fidelity_to_specification": 3,
+  "engagement": 3,
+  "originality": 2,
+  "comments": "The dialog has some awkward phrasing and unrealistic expectations.",
+  "Variant": "v7_no_imperfections_01",
+  "Dialog": "Here is the generated dialog:\n\nP1: Oh man, I've been thinking about planning a surprise trip and I'm so excited! You're going to love it, I promise!\n\nP2: Uh-oh, what's going on? You're acting suspiciously. Spill the beans!\n\nP1: No way, I'm not telling! But trust me, it's going to be amazing. Just pack your bags and be ready for an adventure!\n\nP2: Hmm, I don't know... You're really milking this surprise thing, aren't you? Is it Antarctica?",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

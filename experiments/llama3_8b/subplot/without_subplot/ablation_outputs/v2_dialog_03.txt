@@ -1,0 +1,7 @@
+Here is the generated conversation:
+
+P1: Hey, what's for lunch today? I'm really hungry.
+P2: Um, I don't know... I was thinking maybe pasta, but I'm not sure if I'm in the mood for that...
+
+P1: How about we check out that new sandwich place? I heard great things about it.
+P2: Actually, I was thinking maybe we could try that new sushi place instead? But, wait, no, I don't know if that's a good idea...

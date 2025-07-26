@@ -1,0 +1,16 @@
+{
+  "topic": "exchanging opinions about a new sushi place",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inquisitive",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "gathering information to decide whether to visit the sushi place",
+    "participant_2": "sharing a positive experience"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

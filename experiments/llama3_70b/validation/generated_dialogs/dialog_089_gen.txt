@@ -1,0 +1,7 @@
+P1: Hey, I'm having some trouble with my laptop. Can you take a look?
+P2: Yeah, what's going on with it?
+P1: Uh, it won't connect to the Wi-Fi. I've tried restarting it and everything.
+P2: Hmm, that's weird. Have you tried forgetting the network and then reconnecting?
+P1: Forgetting the network? How do I do that?
+P2: You go to your Wi-Fi settings, and then there should be an option to forget the network. Then you can try reconnecting to it.
+P1: Okay, let me try that. (pause) Yeah, that didn't work. It still won't connect.

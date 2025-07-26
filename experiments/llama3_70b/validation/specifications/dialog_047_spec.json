@@ -1,0 +1,17 @@
+{
+  "topic": "P2's distraction in the meeting",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "to understand the reason for P2's distraction",
+    "P2": "to explain and justify the distraction"
+  },
+  "subplots": [
+    "P2's stress about deadlines"
+  ],
+  "imperfections": []
+}

@@ -1,0 +1,9 @@
+{
+"topic": "Flight and Hotel Booking",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "confused", "P2": "exasperated" },
+"goals": { "P1": "clarify flight details", "P2": "resolve booking issue" },
+"subplots": [ "P1's trust in P2's planning abilities (subplot)" ],
+"imperfections": [ "miscommunication", "assumed knowledge" ]
+}

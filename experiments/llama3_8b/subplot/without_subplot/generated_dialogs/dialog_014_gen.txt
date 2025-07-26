@@ -1,0 +1,9 @@
+P1: So, you're having trouble with your thesis methodology? What specifically is giving you a hard time?
+
+P2: Ugh, it's just so confusing. I don't even know where to start. I have a bunch of data, but I don't know how to analyze it.
+
+P1: Okay, let's break it down. Can you tell me more about the data you have and what kind of insights you're trying to get out of it?
+
+P2: Yeah... it's just a bunch of survey responses. But I want to identify patterns and correlations between different variables.
+
+P1: Alright, that sounds like a good place to start. Have you thought about using statistical software to analyze the data?

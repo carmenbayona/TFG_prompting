@@ -1,0 +1,16 @@
+You are a dialog generation expert. Your task is to generate a **relaxed and informal** human conversation between two friends, based on the following specification.
+
+The dialog must:
+- Feel like a spontaneous exchange between close friends.
+- Reflect the tone, goals, and number of turns given in the specification.
+- Include casual language, teasing, personal references or playful disagreements.
+- Show imperfections like going off-topic, interruptions or repeated words.
+- Use P1: and P2: as speaker labels — the roles are symmetrical and relaxed.
+
+No system messages, narrations, or AI disclaimers.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the full dialog, line by line, starting directly with P1: or P2:, without any explanation or heading.

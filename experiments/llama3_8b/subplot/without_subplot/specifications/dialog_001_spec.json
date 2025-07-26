@@ -1,0 +1,18 @@
+{
+  "topic": "Meeting Reminder",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "forgetful"
+  },
+  "goals": {
+    "P1": "remind P2 about the meeting",
+    "P2": "remember the meeting"
+  },
+  "subplots": [],
+  "imperfections": [
+    "P2 forgot about the meeting",
+    "P1 is slightly frustrated"
+  ]
+}

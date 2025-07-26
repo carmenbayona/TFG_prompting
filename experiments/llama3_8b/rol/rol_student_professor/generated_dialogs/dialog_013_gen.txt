@@ -1,0 +1,13 @@
+Here is the generated dialog:
+
+P1: Hi, Professor Thompson. I'm having some trouble with my internet connection. I've tried restarting my router, but it's still not working.
+
+P2: (sigh) Okay, let's take a look at this. What exactly is happening when you try to connect?
+
+P1: Well, I can't seem to get an IP address. It just keeps saying "no connection" or something like that.
+
+P2: (frustrated) Alright, alright. So, have you checked the router's lights? Are they all lit up like they should be?
+
+P1: Um, no... I'm not really sure. I just checked, and the power light is on, but the other lights are still off.
+
+P2: (exasperated) Okay, that's our problem right there. I think we have a router issue. Let me go get the replacement from the IT department.

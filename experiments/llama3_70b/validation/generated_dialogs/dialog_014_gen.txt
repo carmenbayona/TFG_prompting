@@ -1,0 +1,12 @@
+P1: Hey, how's the thesis going? You've been pretty quiet about it lately.
+P2: Honestly, it's a nightmare. I'm stuck on the methodology chapter and I just can't seem to get it right.
+P1: Ah, yeah, that can be tough. What's specifically giving you trouble? Is it the research design or the data analysis?
+P2: Hmm, it's... uh... both, I guess. I mean, I know what I want to do, but I'm not sure if it's the right approach. And then I start overthinking it and... ugh.
+P1: Okay, let's break it down then. What's your research question again?
+P2: It's... uh... how does social media influence consumer behavior. But every time I try to operationalize it, it feels too simplistic or too complex.
+P1: I see. So you're worried about losing the nuance. Have you considered using a mixed-methods approach?
+P2: Yeah, I've thought about it, but I'm not sure if it's applicable to my study. Can you explain it again, like, really simply?
+P1: Sure thing! So, you'd be combining quantitative and qualitative data to get a more comprehensive picture. It might help you capture the subtleties you're worried about losing.
+P2: Okay, that makes sense. But wouldn't that be, like, a lot more work?
+P1: It can be, but it might be worth it in the end. And I can definitely help you brainstorm some ideas. We could even set up a meeting with your advisor to discuss it further.
+P2: That would be amazing, thank you! I feel like I can finally see a way forward now.

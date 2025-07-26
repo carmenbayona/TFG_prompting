@@ -1,0 +1,7 @@
+P1: Hi, Professor. I was hoping to get your advice on applying to graduate school. I'm really interested in data science and I'm not sure where to start.
+
+P2: Ah, great topic! I'd be happy to help. Data science is a fascinating field, and there are so many programs out there. What specifically are you looking for in a graduate program?
+
+P1: Well, I've been looking at a few different programs, but I'm not really sure what the differences are between them. I mean, some of them say they're more focused on the technical side, while others seem more geared towards business applications.
+
+P2: That's a great observation! Yes, data science programs can vary widely in their focus. If you're interested in the technical side, you might want to look at programs that are more research-oriented. But if you're interested in applying data science to real-world problems, a more applied program might be a better fit. Let me give you some examples...

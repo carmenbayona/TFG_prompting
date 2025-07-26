@@ -1,0 +1,6 @@
+P1: Alright, I need to confirm our travel arrangements for the conference. You said you'd book the flights and hotel, right?
+P2: Ah, yeah... about that... I meant to, but things got busy and it slipped my mind.
+P1: Slipped your mind? We discussed this weeks ago! I trusted you to take care of it.
+P2: I know, I know. I'm sorry. It's just been crazy around here. Can I do it now and send you the confirmations?
+P1: Do it now? The conference is in two days! What if everything is booked up? We can't just show up without a plan.
+P2: Okay, fine. I'll try to get something. But you have to understand, I've had a lot on my plate lately. You're not the only one with responsibilities.

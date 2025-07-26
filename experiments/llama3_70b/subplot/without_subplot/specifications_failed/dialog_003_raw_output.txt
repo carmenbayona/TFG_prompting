@@ -1,0 +1,9 @@
+{
+"topic": "Laptop Order Delay",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "frustrated", "P2": "apologetic" },
+"goals": { "P1": "Resolve laptop order delay", "P2": "Provide customer support" },
+"subplots": [],
+"imperfections": ["P1's emotional tone", "P2's lack of explanation for the delay"]
+}

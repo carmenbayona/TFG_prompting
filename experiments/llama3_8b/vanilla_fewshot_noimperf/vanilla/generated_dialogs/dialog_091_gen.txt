@@ -1,0 +1,3 @@
+P1: Hi, I'm calling to book a room at your hotel for tonight. Can you help me with that?
+
+P2: Of course! I'd be happy to assist you. What kind of room are you looking for?

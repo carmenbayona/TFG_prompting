@@ -1,0 +1,4 @@
+P1: Are you free this weekend?
+P2: I think so, why?
+P1: Let’s go hiking.
+P2: Sounds like a great idea!

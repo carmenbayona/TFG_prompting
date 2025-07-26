@@ -1,0 +1,18 @@
+{
+  "topic": "Medical consultation for headache and related symptoms",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "concerned",
+    "participant_2": "reassuring"
+  },
+  "goals": {
+    "participant_1": "Get diagnosis and treatment for symptoms",
+    "participant_2": "Gather information and provide reassurance"
+  },
+  "subplots": [
+    "Addressing patient's anxiety"
+  ],
+  "misunderstandings": [],
+  "imperfections": []
+}

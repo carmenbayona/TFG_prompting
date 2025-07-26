@@ -1,0 +1,16 @@
+{
+  "topic": "pottery class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inviting",
+    "participant_2": "enthusiastic"
+  },
+  "goals": {
+    "participant_1": "to share experience and invite others",
+    "participant_2": "to show interest and accept invitation"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

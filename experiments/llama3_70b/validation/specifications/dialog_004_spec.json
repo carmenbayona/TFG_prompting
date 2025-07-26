@@ -1,0 +1,16 @@
+{
+  "topic": "feedback on thesis draft",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "receptive",
+    "participant_2": "constructive"
+  },
+  "goals": {
+    "participant_1": "seeking feedback and guidance",
+    "participant_2": "providing feedback and improvement suggestions"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

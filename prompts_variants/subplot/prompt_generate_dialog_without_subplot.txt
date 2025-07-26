@@ -1,0 +1,16 @@
+You are a dialog generation expert. Your task is to generate a **realistic and focused** human conversation based on the following specification.
+
+The dialog must:
+- Follow the topic, tone, and goals defined in the specification.
+- Stay **strictly on topic**, avoiding subplots, tangents or off-topic elements.
+- Reflect natural imperfections like hesitation or repetition if included.
+- Avoid adding any secondary stories or unexpected turns.
+- Begin each line with P1: or P2:
+
+Do not include explanations, system notes, or headings.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the full dialog, starting directly with P1: or P2:, line by line.

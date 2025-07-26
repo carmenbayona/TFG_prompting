@@ -1,0 +1,19 @@
+{
+  "topic": "Lost Charger",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find the charger",
+    "P2": "help P1 find the charger"
+  },
+  "subplots": [
+    "hidden motive (P2 might have taken the charger without asking)"
+  ],
+  "imperfections": [
+    "P1 did not specify where they last saw the charger"
+  ]
+}

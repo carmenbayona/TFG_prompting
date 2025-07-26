@@ -1,0 +1,6 @@
+P1: So... did you book the tickets?
+P2: Hmm, I thought you were going to do it!
+P1: Seriously? We talked about this last night.
+P2: Ugh, my bad. I’ll do it now. Promise.
+P1: Great. And don’t forget the hotel.
+P2: Got it. Both tickets and hotel, right?

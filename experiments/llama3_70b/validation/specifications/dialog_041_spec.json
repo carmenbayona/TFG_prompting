@@ -1,0 +1,16 @@
+{
+  "topic": "new yoga class",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "enthusiastic",
+    "participant_2": "interested"
+  },
+  "goals": {
+    "participant_1": "recommend the yoga class",
+    "participant_2": "gather information about the yoga class"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

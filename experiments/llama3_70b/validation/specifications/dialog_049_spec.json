@@ -1,0 +1,16 @@
+{
+  "topic": "dog training",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "admiring",
+    "participant_2": "matter-of-fact"
+  },
+  "goals": {
+    "participant_1": "express admiration",
+    "participant_2": "share experience"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

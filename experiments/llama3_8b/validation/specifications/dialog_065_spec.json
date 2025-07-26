@@ -1,0 +1,13 @@
+{
+  "topic": "quitting a job",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "concerned"
+  },
+  "goals": {
+    "P1": "express feelings and consider quitting",
+    "P2": "understand P1's situation and offer support"
+  }
+}

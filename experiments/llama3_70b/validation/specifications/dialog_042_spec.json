@@ -1,0 +1,16 @@
+{
+  "topic": "traffic and commuting",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "frustrated",
+    "participant_2": "sympathetic"
+  },
+  "goals": {
+    "participant_1": "find a solution to traffic problem",
+    "participant_2": "show empathy and agree"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

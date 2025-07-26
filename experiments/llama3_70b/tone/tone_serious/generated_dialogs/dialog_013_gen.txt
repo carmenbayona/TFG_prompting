@@ -1,0 +1,4 @@
+P1: I'm experiencing some issues with my internet connectivity, and I was hoping you could help me troubleshoot the problem.
+P2: Okay, let's take a look. Can you tell me more about what's happening? Are you getting any error messages or is it just not connecting at all?
+P1: It's not connecting at all. I've tried restarting my router and modem, but that didn't work. I'm not getting any error messages, it just says "no internet connection" on my device.
+P2: Alright, that's helpful to know. I'm going to go ahead and check on our end to see if there are any outages in your area. Can you tell me what kind of router you're using?

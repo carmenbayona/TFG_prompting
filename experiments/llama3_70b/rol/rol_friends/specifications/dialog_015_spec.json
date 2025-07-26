@@ -1,0 +1,21 @@
+{
+  "topic": "train tickets",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "accusatory",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "confirm ticket booking",
+    "P2": "check and book tickets"
+  },
+  "subplots": [
+    "miscommunication",
+    "responsibility"
+  ],
+  "imperfections": [
+    "forgetfulness",
+    "blame-shifting"
+  ]
+}

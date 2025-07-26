@@ -1,0 +1,13 @@
+{
+  "topic": "delayed laptop delivery and customer service",
+  "turns": 7,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get a resolution to the issue",
+    "P2": "assess the issue and provide a solution"
+  }
+}

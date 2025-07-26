@@ -1,0 +1,13 @@
+{
+  "topic": "Deciding on dinner plans",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "nonchalant"
+  },
+  "goals": {
+    "P1": "find a dinner option",
+    "P2": "suggest dinner options"
+  }
+}

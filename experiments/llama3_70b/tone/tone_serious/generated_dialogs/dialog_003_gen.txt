@@ -1,0 +1,5 @@
+P1: I'm extremely dissatisfied with the laptop I received. It was supposed to arrive last week, but it only showed up yesterday.
+P2: I apologize for the delay, sir. Can you please provide me with your order number so I can look into this further?
+P1: It's #1234. And it's not just the delay. The laptop is also not what I ordered. I specifically asked for a Core i7 processor, but this one has a Core i5.
+P2: I see. I'm going to check on the status of your original order. Can you please tell me a little bit more about why you needed the laptop urgently?
+P1: I need it for work. I'm a graphic designer and I have a project due soon. I was counting on having this laptop to meet the deadline. Now I'm not sure if I'll be able to deliver on time.

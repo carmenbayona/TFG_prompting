@@ -1,0 +1,4 @@
+P1: Hey, I'm having some issues with the app. It's been freezing on me nonstop.
+P2: Sorry to hear that! Can you tell me more about what's happening? Like, what were you doing when it started freezing?
+P1: Uh, I was just trying to upload a file, and then it just... stopped. Wouldn't respond to anything. I had to force quit it.
+P2: Okay, hmm, that's weird. Have you tried restarting your phone or checking for updates?

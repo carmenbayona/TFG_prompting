@@ -1,0 +1,11 @@
+Here is the analyzed conversation in the required JSON format:
+
+{
+  "topic": "travel plans",
+  "turns": 5,
+  "participants": 2,
+  "tone": { "P1": "frustrated", "P2": "calm" },
+  "goals": { "P1": "clarify travel plans", "P2": "correct misunderstanding" },
+  "subplots": [],
+  "imperfections": [ "miscommunication" ]
+}

@@ -1,0 +1,21 @@
+{
+  "topic": "Booking Travel Arrangements",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "confirm travel arrangements",
+    "P2": "apologize and rectify mistake"
+  },
+  "subplots": [
+    "miscommunication about responsibilities",
+    "reminder to book hotel"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause) from P2",
+    "tone of frustration from P1"
+  ]
+}

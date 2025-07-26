@@ -1,0 +1,9 @@
+Here is a generated conversation based on the specification:
+
+---
+P1: I'm really worried about my exam results. I didn't think I failed.  
+P2: I know it's disappointing, but let's take a look at the results together.  
+P1: (interrupting) I know I didn't do as well as I wanted, but what did I do wrong? I studied so hard!  
+P2: Okay, let's take a deep breath. The results indicate that you struggled with the theoretical part of the exam. You might want to focus on that in the next attempt.  
+P1: (changing topic) I don't know if I can repeat the course. I'll be behind my peers, and I don't want to fall behind.  
+P2: Repeating the course is a common path. Many students have done it and gone on to succeed. We can discuss strategies to catch up and make it work for you.

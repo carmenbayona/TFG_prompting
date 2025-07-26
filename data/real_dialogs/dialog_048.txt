@@ -1,0 +1,4 @@
+P1: We should plan a weekend getaway.
+P2: Where to?
+P1: Somewhere with a beach.
+P2: I’m already packing.

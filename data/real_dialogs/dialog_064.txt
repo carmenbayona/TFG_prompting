@@ -1,0 +1,4 @@
+P1: Why are you so quiet today?
+P2: Just tired, didn't sleep well.
+P1: Want to grab a coffee?
+P2: That might help, thanks.

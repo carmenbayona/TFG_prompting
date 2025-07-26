@@ -1,0 +1,8 @@
+P1: Hey, I was wondering if I could take a day off on Friday. We're having some family issues and I need to deal with it.
+P2: Oh, sorry to hear that. What's going on?
+P1: It's just my grandma's birthday and we're having a big family gathering, but I really need to take care of some personal stuff beforehand. I'll make sure to get all my work done ahead of time, so it won't impact the project.
+P2: I see. Well, let me check the schedule real quick. (hesitates) Okay, I think I can approve your request, but just this once. Can you tell me more about what's going on with your grandma?
+P1: (hesitates) Yeah... she's been struggling with her health lately and I just want to be there for her. It means a lot to me to take a day off for this.
+P2: I understand. Sorry again for your family's struggles. You're more than welcome to take the day off. Just make sure to wrap up your tasks and leave everything organized before you go.
+P1: Thanks, I really appreciate it. I'll make sure to stay on top of things.
+P2: No problem at all.

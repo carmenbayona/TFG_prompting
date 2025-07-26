@@ -1,0 +1,13 @@
+P1: Hey, I need to make a doctor's appointment soon. Have you done that before?
+
+P2: Yeah, yeah, I have. What's the reason?
+
+P1: Just a check-up, you know, get my blood work done and stuff.
+
+P2: Hmm, okay. Do you have a primary care doc or do you just go to whoever's available?
+
+P1: Um, I just see whoever's got an opening, to be honest. I've never really stuck with one person.
+
+P2: Yeah, I know what you mean. So, how do you usually schedule the appointment? Online or over the phone?
+
+P1: Mostly online, but sometimes I have to call in if I need something specific.

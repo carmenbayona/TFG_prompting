@@ -1,0 +1,13 @@
+You are a dialog generation expert. Generate a **clean, minimalistic, and direct** conversation that strictly follows the specification.
+
+Instructions:
+- Only the main topic should be discussed.
+- No imperfections, side comments, or digressions.
+- Alternate P1/P2 consistently, with precise number of turns.
+- Keep language grammatically correct and focused.
+
+Do not include any subplot or extra commentary.
+
+Specification:
+---
+{SPECIFICATION_HERE}

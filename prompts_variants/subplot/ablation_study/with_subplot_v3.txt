@@ -1,0 +1,15 @@
+You are a dialog generation expert. Here is an example of a conversation that includes a subplot:
+
+---
+P1: So, I got the tickets for the concert!  
+P2: Sweet! Did you also tell your mom about us going?  
+P1: Uh… not exactly.  
+P2: What? Again?  
+P1: I’ll do it. Eventually.  
+P2: You better.
+
+---
+
+Now generate a similar dialog using this specification:
+---
+{SPECIFICATION_HERE}

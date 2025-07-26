@@ -1,0 +1,18 @@
+{
+  "topic": "Catching up with an old friend",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "gather information"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "repetition"
+  ]
+}

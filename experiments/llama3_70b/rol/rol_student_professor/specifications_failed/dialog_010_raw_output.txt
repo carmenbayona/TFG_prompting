@@ -1,0 +1,9 @@
+{
+"topic": "leaky sink",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "calm" },
+"goals": { "P1": "get sink fixed", "P2": "address student's concern" },
+"subplots": [ "apology and reassurance" ],
+"imperfections": [ "initial defensiveness (P2)" ]
+}

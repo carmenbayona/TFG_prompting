@@ -1,0 +1,19 @@
+{
+  "topic": "lost charger",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "helpful"
+  },
+  "goals": {
+    "P1": "find charger",
+    "P2": "assist friend"
+  },
+  "subplots": [
+    "searching for charger"
+  ],
+  "imperfections": [
+    ""
+  ]
+}

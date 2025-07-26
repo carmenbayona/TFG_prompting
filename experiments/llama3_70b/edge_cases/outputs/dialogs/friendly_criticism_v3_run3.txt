@@ -1,0 +1,15 @@
+Here is a generated dialog based on the specification:
+
+---
+P1: Hey, thanks for taking the time to chat about your performance on the recent projects. I want to start by saying you've been doing a great job overall.
+P2: Thanks, I appreciate that. I've been trying to stay on top of things.
+P1: Absolutely, and it shows. However, there were a few areas where we stumbled. The Johnson account, for instance... we lost them due to the delay in delivery.
+P2: Yeah, I know. I was stuck waiting on feedback from the design team, and it backed up everything.
+P1: I understand that, and we'll definitely look into improving our internal communication. But, moving forward, let's focus on proactive problem-solving, okay?
+P2: Okay, got it. I didn't want to bother them, but maybe I should've escalated it sooner.
+P1: Exactly! And that's what I want to see more of – taking initiative when things aren't going as planned. Now, about the Smith project... we went way over budget.
+P2: (pausing slightly) I know that was a tough one. The client kept changing their requirements, and we had to adapt. I thought we did a good job of... (trailing off)
+P1: (softening the tone) I agree, the client was challenging. But we need to find ways to better scope and estimate resources, even when things are unpredictable. Can you walk me through your thought process on that project?
+P2: (becoming slightly defensive) I did consider all the variables, but maybe I should've pushed back harder on the scope. In hindsight, I'd do things differently.
+P1: (empathetically) I think we all would, in hindsight. The key is learning from those experiences and applying them to future projects. Let's make a plan to revisit our estimation process, okay?
+P2: (relaxing) Yeah, okay. That sounds like a good plan.

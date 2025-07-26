@@ -1,0 +1,13 @@
+{
+  "topic": "birthday gift ideas for Emma",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "thoughtful"
+  },
+  "goals": {
+    "P1": "find a suitable gift for Emma",
+    "P2": "help P1 find a suitable gift for Emma"
+  }
+}

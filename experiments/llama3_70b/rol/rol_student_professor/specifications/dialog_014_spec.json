@@ -1,0 +1,18 @@
+{
+  "topic": "thesis methodology",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "supportive",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "to help",
+    "P2": "to resolve methodology issues"
+  },
+  "subplots": [
+    "P1 offers help",
+    "P2 accepts offer"
+  ],
+  "imperfections": []
+}

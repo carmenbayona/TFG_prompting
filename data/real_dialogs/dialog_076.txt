@@ -1,0 +1,4 @@
+P1: This app keeps crashing!
+P2: Have you updated it?
+P1: No, not yet.
+P2: Try that, it might fix it.

@@ -1,0 +1,17 @@
+{
+  "topic": "Praise for a well-trained dog",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "modest"
+  },
+  "goals": {
+    "P1": "express admiration",
+    "P2": "acknowledge effort"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

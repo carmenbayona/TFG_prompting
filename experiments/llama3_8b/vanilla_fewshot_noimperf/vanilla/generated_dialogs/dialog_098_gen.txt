@@ -1,0 +1,17 @@
+P1: So, thank you for coming in today for our job interview. Can I just start by saying a little bit about the company and the role we're looking to fill?
+
+P2: Ah, absolutely. I'm really excited to learn more. Could you tell me a bit more about what the company does and what the job entails?
+
+P1: Yeah, of course. We're a mid-sized software development firm, and the role is for a junior developer. We're looking for someone who's got a strong foundation in programming languages, particularly Java and Python... (pauses slightly) And experience with agile development methodologies would be a big plus.
+
+P2: That sounds really interesting. What kind of projects would I be working on if I were to join the team?
+
+P1: Well, right now we're working on a few different projects, but one of the main ones is a new mobile app for tracking and managing personal finances. It's a really innovative product, and we're looking for someone who can help us bring it to market quickly and efficiently.
+
+P2: That sounds like a great opportunity. Can you tell me a bit more about the team I'd be working with? What's the dynamic like?
+
+P1: (laughs slightly) Ah, well, it's definitely a fun and collaborative team. We're a pretty laid-back bunch, but we all share a passion for writing good code and solving complex problems. Our team lead is really great to work with, and she's always available to answer questions or provide feedback.
+
+P2: That sounds awesome. What's the next step in the process? When would I hear back about whether or not I got the job?
+
+P1: We typically make our decisions within a week or two of completing the interview process. We'll be in touch soon to let you know whether or not you're moving forward to the next round.

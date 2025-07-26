@@ -1,0 +1,14 @@
+{
+  "topic": "Requesting a day off",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "inquisitive",
+    "P2": "intrigued"
+  },
+  "goals": {
+    "P1": "getting approval",
+    "P2": "gaining knowledge"
+  },
+  "subplots": []
+}

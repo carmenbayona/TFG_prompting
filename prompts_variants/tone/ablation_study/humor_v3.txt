@@ -1,0 +1,24 @@
+You are a dialog generation expert. Your task is to generate a **humorous, informal, and natural** human conversation based on the following specification.
+
+Here is an example of the expected style and tone:
+
+---
+P1: Hey, don’t forget we’ve got that project presentation tomorrow.  
+P2: Wait, what presentation? I thought we were just winging it.  
+P1: Seriously? We've been planning this for weeks!  
+P2: Oh, right. Totally knew that. Just testing you.  
+P1: (laughs) You're hopeless.  
+P2: And proud of it.
+---
+
+Now, generate a dialog that:
+- Matches the tone, goals, and number of turns indicated in the specification.
+- Includes humor, jokes, digressions, or exaggerations.
+- Shows imperfections like hesitations, off-topic remarks, or contradictions.
+- Uses P1: and P2: at the start of each line.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Output ONLY the dialog, line by line, without any explanation or prefix.

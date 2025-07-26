@@ -1,0 +1,13 @@
+{
+  "topic": "Catching up with an old friend",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share a story",
+    "P2": "learn more about the topic"
+  }
+}

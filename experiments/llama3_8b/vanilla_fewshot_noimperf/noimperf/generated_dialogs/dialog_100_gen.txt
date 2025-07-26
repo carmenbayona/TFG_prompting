@@ -1,0 +1,13 @@
+P1: Hey there! I'm in charge of the weather forecast for this week. Would you like to know what's expected?
+
+P2: Oh, absolutely! I've been trying to plan a beach trip for Saturday, and I want to make sure I'm prepared for the weather.
+
+P1: Well, let me check the latest models... Ah, yes! It looks like we're expecting partly cloudy skies on Saturday, with a high of 78 degrees and a low of 60. There's a slight chance of scattered thunderstorms in the afternoon, but nothing too severe.
+
+P2: That sounds great! I was worried it might be too hot. But what about humidity? I don't want to be stuck in the sand with 90% humidity.
+
+P1: Ah, good point! As it turns out, the humidity is expected to be relatively low, around 50-60%. And the winds should be pretty gentle, around 10-15 miles per hour.
+
+P2: That's perfect! I was also wondering, are there any advisories or warnings I should be aware of? You know, like rip currents or anything like that.
+
+P1: Actually, yes! The beach patrol did issue a warning about strong currents near the pier, so be sure to check with lifeguards before swimming. But other than that, everything looks good.

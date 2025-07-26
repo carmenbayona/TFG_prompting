@@ -1,0 +1,19 @@
+{
+  "topic": "Leaky Sink",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "get sink fixed",
+    "P2": "verify previous fix and resolve current issue"
+  },
+  "subplots": [
+    "hidden motive (subplot): P2 may be seeking to demonstrate their competence and independence in fixing the sink"
+  ],
+  "imperfections": [
+    "P1 may be perceived as nagging"
+  ]
+}

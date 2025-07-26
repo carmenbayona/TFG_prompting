@@ -1,0 +1,13 @@
+You are a dialog generation expert. Generate a structured dialog based on the following specification.
+
+Ensure:
+- Main topic and subplot are both addressed clearly.
+- Exactly the number of turns are used.
+- Participants follow their goals.
+- Dialog includes mild imperfections for realism.
+
+Use only lines starting with P1: or P2:
+
+Specification:
+---
+{SPECIFICATION_HERE}

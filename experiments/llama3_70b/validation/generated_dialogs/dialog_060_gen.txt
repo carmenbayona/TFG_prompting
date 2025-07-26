@@ -1,0 +1,8 @@
+P1: I don't know, what do you wanna do for dinner?
+P2: Hmm, well, we could do Italian. You like pasta, right?
+P1: Yeah, I do... but I had it for lunch. Uh, what else is there?
+P2: Okay, no Italian then. How about we do Mexican? We haven't had that in a while.
+P1: That sounds good, but I was thinking maybe something a little lighter. You know, since I had a big lunch.
+P2: Oh, okay. Well, we could do salad or something. Or I was thinking we could do that new Thai place that just opened up.
+P1: Hmm, Thai sounds pretty good. But is it, like, super spicy?
+P2: I think they have options for mild, medium, or hot. We could go for medium, that way it's not too spicy.

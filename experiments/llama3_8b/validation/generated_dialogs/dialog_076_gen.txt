@@ -1,0 +1,17 @@
+P1: Ah, man, I'm so frustrated with this app. It just stopped working for me.
+
+P2: Sorry to hear that. What's going on? Can you tell me more about the issue?
+
+P1: Yeah, I was just trying to check my email and it says the server's down. But I know it's not, 'cause I just checked it on my phone.
+
+P2: Hmm, that's weird. Did you try restarting the app?
+
+P1: Yeah, I did. And I even uninstalled and reinstalled it, but nothing's working.
+
+P2: Okay, let me think for a sec... Are you running the latest version?
+
+P1: Uh, I think so... I mean, I haven't checked in a while. How do I check?
+
+P2: You can check in the app store. And if you're not running the latest version, that might be the problem.
+
+P1: Okay, I'll do that. Thanks for your help so far.

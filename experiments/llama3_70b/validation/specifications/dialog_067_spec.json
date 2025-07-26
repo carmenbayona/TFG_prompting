@@ -1,0 +1,16 @@
+{
+  "topic": "P1's emotional state",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "share feelings and get support",
+    "P2": "offer help and comfort"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

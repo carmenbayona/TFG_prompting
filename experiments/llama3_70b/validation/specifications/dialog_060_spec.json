@@ -1,0 +1,16 @@
+{
+  "topic": "deciding on dinner",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "indecisive",
+    "P2": "accommodating"
+  },
+  "goals": {
+    "P1": "decide on dinner",
+    "P2": "suggest a dinner option"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

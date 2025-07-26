@@ -1,0 +1,17 @@
+P1: Look, I'm really struggling to book this flight. Can you please help me?
+
+P2: I apologize for the inconvenience, sir. What seems to be the issue?
+
+P1: I try to book online, but it says the payment method is invalid. I've tried multiple times, and I'm getting frustrated.
+
+P2: I understand your frustration, sir. Can you please confirm your payment information with me?
+
+P1: Yeah, I think so... let me check my emails. (pauses) Ah, yes! Here it is. My card details are up to date.
+
+P2: Thank you for confirming, sir. I'm going to try and book the flight again. Can you please hold for a moment?
+
+P1: Fine... I'll wait. (pauses) Is it still not working?
+
+P2: I apologize for the delay, sir. It seems there was a miscommunication with our system. Let me try again. Ah, yes! The flight has been booked successfully.
+
+P1: Finally! Thank you so much for your help.

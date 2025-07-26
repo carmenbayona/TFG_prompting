@@ -1,0 +1,13 @@
+{
+  "topic": "Movie Discussion",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "neutral"
+  },
+  "goals": {
+    "P1": "share opinion",
+    "P2": "agree or provide additional thoughts"
+  }
+}

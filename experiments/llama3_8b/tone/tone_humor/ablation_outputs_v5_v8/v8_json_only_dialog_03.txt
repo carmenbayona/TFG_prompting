@@ -1,0 +1,23 @@
+Here is a dialog between two characters, Alex and Sam:
+
+**Alex:** Hey, Sam. How's it going?
+
+**Sam:** Not bad, Alex. Just got back from a meeting with a potential new client. Fingers crossed that it turns into something.
+
+**Alex:** That sounds promising. What's the client looking for?
+
+**Sam:** They're a small startup looking for help with their marketing strategy. They're trying to get more visibility online and are looking for someone to help them create a social media presence.
+
+**Alex:** Ah, that's right up my alley. I've been working with a few startups on their online marketing lately. I might have some ideas that could help them out.
+
+**Sam:** Yeah, I was thinking you might be a good person to talk to. Do you want to meet up with me and the client this week?
+
+**Alex:** Sure thing. When were you thinking?
+
+**Sam:** How about Wednesday afternoon? The client is free then, and we can discuss what they're looking for and what kind of services you offer.
+
+**Alex:** Sounds good to me. I'll make sure to clear my schedule and meet you at the coffee shop at 2 PM.
+
+**Sam:** Great, thanks Alex. I'll send you a reminder and the client's contact info.
+
+Let me know if you'd like me to continue the dialog or generate a new one!

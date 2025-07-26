@@ -1,0 +1,21 @@
+{
+  "topic": "Rare Antique Negotiation",
+  "turns": 12,
+  "participants": 2,
+  "tone": {
+    "P1": "persistent",
+    "P2": "defensive"
+  },
+  "goals": {
+    "P1": "lower the price by pointing out flaws",
+    "P2": "maintain the high price and justify value"
+  },
+  "subplots": [
+    "P1 questions the authenticity of the antique",
+    "P2 references previous sales to defend the price"
+  ],
+  "imperfections": [
+    "P1 occasionally interrupts",
+    "P2 shows signs of frustration"
+  ]
+}

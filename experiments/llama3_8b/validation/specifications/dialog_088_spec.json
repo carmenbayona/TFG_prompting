@@ -1,0 +1,13 @@
+{
+  "topic": "Debating politics",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "learn about politics"
+  }
+}

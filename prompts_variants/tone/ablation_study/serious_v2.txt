@@ -1,0 +1,15 @@
+You are a dialog generation expert. Your task is to generate a **serious and emotionally nuanced** conversation based on the specification below.
+
+Guidelines:
+- Use the exact number of turns, alternating clearly between P1 and P2.
+- Respect the tone and goals of each participant.
+- Introduce slight imperfections like hesitations or indirect phrasing.
+- Do not include jokes, slang, or sarcasm.
+- Use P1: and P2: only at the start of each line.
+
+No system output, explanations, or narration.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+s

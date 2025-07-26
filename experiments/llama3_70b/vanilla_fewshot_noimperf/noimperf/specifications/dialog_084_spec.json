@@ -1,0 +1,16 @@
+{
+  "topic": "Movie discussion",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "Share information",
+    "P2": "Learn more"
+  },
+  "subplots": [
+    "Exploring the movie's details"
+  ]
+}

@@ -1,0 +1,9 @@
+Here is a generated dialog between friends planning a weekend trip:
+
+---
+P1: Oh man, we should totally plan a weekend trip to the mountains! I heard the weather is going to be amazing.  
+P2: I don't know, I've got a family commitment on Sunday. Can't we do it some other time?  
+P1: But that's the best time! The fall foliage is incredible. And think about how refreshing it'll be to get out of the city for a bit. You need a break from work!  
+P2: I'm not sure... I was really looking forward to spending the day with my family. Can we talk about this later?  
+P1: But it'll be so much fun! We can hike and camp and just relax. I've already been thinking about booking a cabin. Want to come with me?  
+P2: You're really selling this, aren't you? Okay, fine... but if we have to cut the trip short because of my family commitment, you're not going to be happy with me, are you?

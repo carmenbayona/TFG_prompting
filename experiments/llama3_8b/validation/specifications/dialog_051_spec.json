@@ -1,0 +1,13 @@
+{
+  "topic": "P2's academic performance and stress",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "relaxed"
+  },
+  "goals": {
+    "P1": "express concern and offer support",
+    "P2": "acknowledge stress and lack of concern"
+  }
+}

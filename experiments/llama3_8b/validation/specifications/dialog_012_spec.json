@@ -1,0 +1,13 @@
+{
+  "topic": "Master's program in data science",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "excited",
+    "P2": "supportive"
+  },
+  "goals": {
+    "P1": "seeking advice",
+    "P2": "offering help"
+  }
+}

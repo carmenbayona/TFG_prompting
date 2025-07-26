@@ -1,0 +1,11 @@
+Here is the high-level structured specification in JSON format:
+
+{
+  "topic": "Internet connectivity issues",
+  "turns": 4,
+  "participants": 2,
+  "tone": { "P1": "concerned", "P2": "frustrated" },
+  "goals": { "P1": "get internet working", "P2": "get internet working" },
+  "subplots": [ "router issues", "previous failure" ],
+  "imperfections": [ "lack of patience (P2)", "joke (offhand remark)" ]
+}

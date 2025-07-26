@@ -1,0 +1,13 @@
+{
+  "topic": "Ordering at a restaurant",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share knowledge",
+    "P2": "learn about ordering at a restaurant"
+  }
+}

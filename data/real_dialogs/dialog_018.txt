@@ -1,0 +1,4 @@
+P1: Are you coming to class today?
+P2: Not sure, I have a dentist appointment.
+P1: We’re doing project presentations.
+P2: Oh… then I’ll try to come after the dentist.

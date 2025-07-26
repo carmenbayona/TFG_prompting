@@ -1,0 +1,20 @@
+{
+  "topic": "Household maintenance",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "calm"
+  },
+  "goals": {
+    "P1": "report a problem",
+    "P2": "offer help"
+  },
+  "subplots": [
+    "previous repair",
+    "current issue"
+  ],
+  "imperfections": [
+    "P1's annoyance"
+  ]
+}

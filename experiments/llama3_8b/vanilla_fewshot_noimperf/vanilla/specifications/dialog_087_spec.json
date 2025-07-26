@@ -1,0 +1,19 @@
+{
+  "topic": "Weekend Plans",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share plans",
+    "P2": "learn plans"
+  },
+  "subplot": [
+    "Discussing plans"
+  ],
+  "imperfections": [
+    "hesitation"
+  ]
+}

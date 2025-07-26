@@ -1,0 +1,20 @@
+{
+  "topic": "Meeting with Client",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "nonchalant"
+  },
+  "goals": {
+    "P1": "ensure P2's attendance",
+    "P2": "avoid responsibility"
+  },
+  "subplots": [
+    "hidden motive (P2 doesn't want to attend the meeting)"
+  ],
+  "imperfections": [
+    "P2's forgetfulness",
+    "P1's frustration"
+  ]
+}

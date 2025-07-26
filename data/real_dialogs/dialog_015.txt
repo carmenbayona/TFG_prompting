@@ -1,0 +1,4 @@
+P1: Have you booked the train tickets?
+P2: Uh… no, I thought you were doing that.
+P1: What? I told you yesterday!
+P2: Oh no. Let me check right now.

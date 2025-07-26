@@ -1,0 +1,17 @@
+{
+  "topic": "Movie Night",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "casual",
+    "P2": "engaged"
+  },
+  "goals": {
+    "P1": "suggest a movie",
+    "P2": "agree on a movie"
+  },
+  "subplots": [],
+  "imperfections": [
+    "P1 didn't explicitly confirm P2's questions"
+  ]
+}

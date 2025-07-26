@@ -1,0 +1,17 @@
+{
+  "topic": "printer issue",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "calm"
+  },
+  "goals": {
+    "P1": "get help with printer issue",
+    "P2": "diagnose and potentially fix printer issue"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

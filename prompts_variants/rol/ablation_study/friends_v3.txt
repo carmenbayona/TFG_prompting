@@ -1,0 +1,15 @@
+You are a dialog generation expert. Here is an example of a relaxed and friendly exchange:
+
+---
+P1: Hey, are we still on for the movie night?  
+P2: Totally! Got popcorn and everything.  
+P1: Nice! But if you burn it again, I'm leaving.  
+P2: That was one time!  
+P1: One time too many.  
+P2: You're cruel.
+
+---
+
+Now generate a similar dialog between friends using this specification:
+---
+{SPECIFICATION_HERE}

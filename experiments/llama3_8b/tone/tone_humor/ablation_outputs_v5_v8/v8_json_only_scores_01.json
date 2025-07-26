@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 5,
+  "realism": 4,
+  "fidelity_to_specification": 5,
+  "engagement": 4,
+  "originality": 3,
+  "comments": "The dialog is mostly natural and fluent, but some phrases feel a bit forced.",
+  "Variant": "v8_json_only_01",
+  "Dialog": "Here is a dialog between two characters, Alex and Mia:\n\n**Alex:** Hey, Mia. How's it going?\n\n**Mia:** Not bad, Alex. Just got back from a long weekend. How about you?\n\n**Alex:** Same here. I spent the whole weekend binge-watching Netflix and eating pizza. I think I gained five pounds.\n\n**Mia:** (laughs) That sounds like a great weekend to me. I wish I could've joined you. What was your favorite show?\n\n**Alex:** Oh, definitely \"The Office\". I must've watched every episode five times. I'm starting to think I'm Michael Scott in disguise.\n\n**Mia:** (laughs) That's hilarious. I'm more of a \"Game of Thrones\" person myself. I'm still reeling from that shocking finale.\n\n**Alex:** Yeah, I know what you mean. I was on the edge of my seat the whole time. Do you think they'll do a spin-off?\n\n**Mia:** I hope so. I'd love to see more of Daenerys' world. But what about you? Are you going to keep watching \"The Office\" or move on to something new?\n\n**Alex:** I think I need to take a break from Dunder Mifflin. I'm starting to feel like I'm part of the office. But I do have a new show to check out - my friend just recommended \"Stranger Things\".\n\n**Mia:** Oh, yeah! I loved that show. It's so nostalgic and creepy at the same time. You should totally check it out.\n\n**Alex:** Will do. Thanks for the rec. Maybe we can even have a marathon viewing party soon?\n\n**Mia:** Sounds like a plan to me!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": 2,\n  \"tone\": {\n    \"P1\": \"enthusiastic\",\n    \"P2\": \"suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack a bag without asking too many questions\",\n    \"P2\": \"understand what's going on and get more info\"\n  },\n  \"subplots\": [\n    \"P1 struggles to keep the destination secret\",\n    \"P2 thinks it's a prank or a kidnapping\"\n  ],\n  \"imperfections\": [\n    \"P1 slips a hint by accident\",\n    \"P2 repeats questions and gets more paranoid\"\n  ]\n}"
+}

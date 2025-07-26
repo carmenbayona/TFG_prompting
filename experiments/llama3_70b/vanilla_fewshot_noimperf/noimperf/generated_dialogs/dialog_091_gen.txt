@@ -1,0 +1,7 @@
+P1: Hi there! I'm looking for a hotel room for an upcoming business trip. Can I get some information on what you have available?
+
+P2: Absolutely! We have a range of rooms to choose from. We've got standard singles, doubles, and even suites if you're looking to splurge. What's your budget looking like?
+
+P1: Ah, great! I'm thinking around $200 a night. Do you have any rooms with a nice view of the city?
+
+P2: Actually, we have a few rooms on the 10th floor that have a fantastic view of the city skyline. But I have to warn you, they're pretty popular, so we might not have availability. Would you like me to check?

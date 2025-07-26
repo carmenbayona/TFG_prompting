@@ -1,0 +1,10 @@
+P1: Hey, I'm having some trouble with my internet connection. I can't seem to connect to the Wi-Fi at all.
+P2: (sighing) What's going on now? I just set up the router yesterday and it was working fine.
+P1: I don't know, I just woke up and it wasn't working. Do you think it's the router? I really need it for work, I have a deadline to meet today.
+P2: (frustrated) Of course it's the router. I told you we should've gotten a better one. I've had issues with this brand before, remember that time it just stopped working for no reason?
+P1: (nervously) Yeah, I remember. But I thought we had fixed that problem. Can you try restarting it or something?
+P2: (skeptical) I already did. Multiple times. It's not the router, it's the internet connection itself. I'm going to call the provider and see what's going on.
+P1: (concerned) Okay, please hurry. I really need to get online ASAP. I have a conference call in an hour and I still need to prepare for it.
+P2: (muttering) Great, just great. Now I have to deal with the internet company's customer service... (to P1) You know, I swear, I'm starting to think it's not the router, it's the apartment's wiring or something.
+P1: (confused) Wait, what do you mean? I thought we ruled out the wiring issue last time this happened?
+P2: (exasperated) I don't know, okay? I just know I'm sick of dealing with this. (pauses) Look, just give me a minute to call them, okay?

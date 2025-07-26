@@ -1,0 +1,17 @@
+{
+  "topic": "weather and recreational activity",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "playful",
+    "P2": "wistful"
+  },
+  "goals": {
+    "P1": "to suggest a fun activity",
+    "P2": "to express dissatisfaction with the weather"
+  },
+  "subplots": [
+    "desire for sunshine"
+  ],
+  "imperfections": []
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "P2's unusual quietness and offer of help",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "show concern and offer help",
+    "P2": "explain and accept help"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

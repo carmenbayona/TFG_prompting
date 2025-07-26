@@ -1,0 +1,16 @@
+{
+  "topic": "hiking plans",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "inviting",
+    "participant_2": "open"
+  },
+  "goals": {
+    "participant_1": "to make hiking plans",
+    "participant_2": "to understand the proposal"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

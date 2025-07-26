@@ -1,0 +1,11 @@
+P1: Hey, Samantha! I'm so excited to talk to you about joining the coding club!
+P2: Ah, hi there! Yeah, I've been thinking about it. What's the club all about?
+P1: Oh, it's amazing! We're a group of students who get together every week to work on projects, learn from each other, and just have fun with coding. Uh, I think it's one of the best ways to improve your skills quickly.
+P2: That sounds interesting. What kind of projects do you work on?
+P1: Hmm, everything from mobile apps to machine learning models. We have a mentor who helps us brainstorm and provides guidance. You'd be amazed at what people come up with!
+P2: I'm not sure if I'm ready for that level of complexity, though. I'm still learning the basics.
+P1: Totally understandable! We have a whole beginner-friendly track too. You could start with some smaller projects and work your way up. We're always looking for new members to share their ideas and learn from each other.
+P2: Yeah, that sounds doable. But what are the plans for the club? Do you have any big projects lined up?
+P1: Actually, we're organizing a hackathon next month, and it'd be awesome if you could join us! It's a great way to meet other members and get a feel for the community. We'll provide food, drinks, and prizes for the winners.
+P2: Hmm, I'm not sure if I can make it, but I'll definitely think about it. Can I get your number so I can reach out if I decide to join?
+P1: Yeah, of course! I'll send you my number. Thanks for considering it, Samantha!

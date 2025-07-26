@@ -1,0 +1,7 @@
+P1: Hi, I'm having some trouble with this new software we're using at work. Can you help me figure out what's going on?
+P2: Yeah, I'd be happy to try and help you out! What's the problem exactly?
+P1: Well, I'm trying to export a report, but it keeps saying the file is corrupted. I've tried re-saving it a few times, but it doesn't seem to make a difference.
+P2: Hmm, that does sound frustrating. Can you show me exactly what's happening? Maybe we can troubleshoot it together.
+P1: Yeah, sure thing. *pauses* Okay, I'm just clicking on the "export" button... and it says "file corrupted" again. *hesitates* Sorry, I'm still trying to figure out how to share my screen with you.
+P2: No worries, I'm patient! It's okay to take a little time. *pauses* Hang on, I think I see the issue. It looks like there's a compatibility problem with the file format. Do you think you could try converting the file to a different format before exporting?
+P1: Oh, that makes sense. Yeah, I think that could work. *unnatural phrasing* I'll just have to... uh... convert the file... and then try exporting again. Do you think that'll fix the problem?

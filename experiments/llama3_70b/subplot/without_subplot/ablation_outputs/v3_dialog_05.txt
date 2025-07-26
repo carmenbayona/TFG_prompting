@@ -1,0 +1,7 @@
+Here is a generated dialog that meets the specified requirements:
+
+---
+P1: What do you want for lunch? I'm starving.  
+P2: Um, I don't know... Maybe a sandwich... or salad...  
+P1: Come on, make up your mind. We don't have all day.  
+P2: Okay, okay... How about a burger? No, wait, a wrap.

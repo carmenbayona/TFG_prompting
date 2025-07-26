@@ -1,0 +1,8 @@
+Here is the generated dialog:
+
+P1: P-professor, c-can I talk to you about the assignment deadline? 
+P2: Yes, what's the issue? 
+P1: I-I'm having some trouble meeting it, s-sir. 
+P2: Can you clarify what's causing the delay? 
+P1: Well, I've been having some p-personal problems lately, and it's been h-hard for me to focus. 
+P2: I see. How much more time do you think you'll need to complete the assignment?

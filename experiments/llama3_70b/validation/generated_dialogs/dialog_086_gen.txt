@@ -1,0 +1,11 @@
+P1: Hey, can I help you with something? You look a bit lost.
+
+P2: Oh, yeah. I'm trying to get to the city center. I have no idea where I am right now.
+
+P1: Ah, okay. You're not too far off, actually. You're on Main Street, and the city center is just a few blocks down that way.
+
+P2: Down that way? You mean... (points) that direction?
+
+P1: Yeah, exactly. You can't miss it. Just head straight down Main, and you'll run into the city hall. It's a big building with a clock tower.
+
+P2: Clock tower, got it. And, um, how long of a walk is it? Is it like... 10 minutes or...?

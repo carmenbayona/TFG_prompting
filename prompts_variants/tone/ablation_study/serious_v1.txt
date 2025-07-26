@@ -1,0 +1,14 @@
+You are a dialog generation expert. Your task is to generate a **serious, formal, and realistic** conversation between two participants based on the following specification.
+
+The dialog must:
+- Reflect the serious tone and goals of each participant.
+- Be natural and respectful in language.
+- Include occasional imperfections like pauses ("uh", "hmm") or emotional hesitation.
+- Use P1: and P2: at the start of each line.
+- Follow the number of turns specified.
+
+Avoid system messages or explanations.
+
+Specification:
+---
+{SPECIFICATION_HERE}

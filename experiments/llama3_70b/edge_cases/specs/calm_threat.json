@@ -1,0 +1,21 @@
+{
+  "topic": "Contract Breach Dispute",
+  "turns": 8,
+  "participants": 2,
+  "tone": {
+    "P1": "calm",
+    "P2": "defensive"
+  },
+  "goals": {
+    "P1": "threaten legal action without raising voice",
+    "P2": "justify their actions and avoid escalation"
+  },
+  "subplots": [
+    "P1 references specific clauses in the contract",
+    "P2 insists there was a misunderstanding"
+  ],
+  "imperfections": [
+    "P1 repeats threats politely",
+    "P2 hesitates before answering"
+  ]
+}

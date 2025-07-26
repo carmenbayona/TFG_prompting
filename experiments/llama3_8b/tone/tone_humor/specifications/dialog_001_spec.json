@@ -1,0 +1,21 @@
+{
+  "topic": "Scheduling and Reminders",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned and slightly annoyed",
+    "P2": "apologetic and slightly sarcastic (offhand remark)"
+  },
+  "goals": {
+    "P1": "ensure P2 attends the meeting on time",
+    "P2": "avoid being late to the meeting and maintain a good impression"
+  },
+  "subplots": [
+    "P1's frustration with P2's forgetfulness",
+    "P2's embarrassment and guilt"
+  ],
+  "imperfections": [
+    "P1's nagging tone",
+    "P2's lack of attention to scheduling details"
+  ]
+}

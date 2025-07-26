@@ -1,0 +1,9 @@
+{
+"topic": "health concern",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "reassuring" },
+"goals": { "P1": "get diagnosis", "P2": "provide diagnosis" },
+"subplots": [ "dizziness", "tiredness" ],
+"imperfections": [ "uncertainty" ]
+}

@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 4,
+  "realism": 2,
+  "fidelity_to_specification": 2,
+  "engagement": 4,
+  "originality": 2,
+  "comments": "The dialog's fluency is hindered by some robotic phrases and unnatural sentence structures.",
+  "Variant": "v6_no_example_01",
+  "Dialog": "P1: Hey, I've got a surprise for you! Pack your bags, we're going on a trip!\n\nP2: What, another one of your harebrained schemes? Where are we off to this time?\n\nP1: Hmm, let's just say it's a place with a lot of sunshine.\n\nP2: Antarctica? You're planning a surprise trip to Antarctica?\n\nP1: *laughs* Oh, no, nothing that cold! Just... warm sunshine. Yeah.\n\nP2: Llama farm? You're taking me to a llama farm?\n\nP1: *chuckles* Not exactly. But we might see some llamas.\n\nP2: Okay, I'm guessing a tropical island with a llama rental service...\n\nP1: *hesitates* Uh, something like that. Just... don't worry about the details, okay?\n\nP2: You're really bad at this, you know? Last time you surprised me with a trip to the in-laws' house for Thanksgiving. That was... memorable.\n\nP1: *laughs* Hey, that wasn't a bad idea! The in-laws loved it!\n\nP2: *skeptical* Yeah, I'm sure they did.",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

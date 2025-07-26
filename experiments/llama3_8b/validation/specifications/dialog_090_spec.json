@@ -1,0 +1,13 @@
+{
+  "topic": "sports results",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share sports results",
+    "P2": "learn about sports results"
+  }
+}

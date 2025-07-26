@@ -1,0 +1,16 @@
+You are a dialog generation expert. Your task is to generate a **realistic, formal and focused** human conversation based on the following specification.
+
+The dialog must:
+- Reflect a serious tone, staying on-topic and goal-oriented.
+- Follow the number of turns and participants as specified.
+- Minimize informalities and stick to logical, coherent exchanges.
+- Show occasional misunderstandings or hesitations if included in the specification.
+- Use explicit participant labels: P1: and P2: at the start of each line.
+
+Do not include any out-of-character comments or narration. No system messages.
+
+Specification:
+---
+{SPECIFICATION_HERE}
+
+⚠️ Return ONLY the dialog, line by line, starting directly with P1: or P2:, without any heading or extra explanation.

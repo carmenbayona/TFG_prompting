@@ -1,0 +1,10 @@
+{
+  "fluency": 2,
+  "coherence": 2,
+  "realism": 2,
+  "fidelity_to_specification": 1,
+  "engagement": 3,
+  "originality": 1,
+  "comments": "The dialog's unnatural phrasing and robotic tone detract from its overall fluency and realism.",
+  "Variant": "llama3_8b_tone_humor_v4_04"
+}

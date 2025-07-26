@@ -1,0 +1,15 @@
+{
+  "topic": "discussing a new caf\u00e9",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "neutral"
+  },
+  "goals": {
+    "P1": "suggest trying the new caf\u00e9",
+    "P2": "agree to try the new caf\u00e9"
+  },
+  "subplots": [],
+  "imperfections": []
+}

@@ -1,0 +1,9 @@
+P1: Hi, I'm having some issues with my laptop order. I was supposed to get it last week, but I still haven't received it.
+
+P2: I'm so sorry to hear that. Let me check on the status of your order. Can you please tell me your student ID or the order number?
+
+P1: Yeah, it's... uh... 123456. I really need the laptop for my project, and it's already delayed.
+
+P2: Okay, I've checked on it, and it seems there was a issue with the supplier. We're going to send you a new one with expedited shipping, and you should receive it by the end of the week.
+
+P1: That's still going to take a few days. Is there any way I can get a loaner laptop or something in the meantime? I really need it for my work.

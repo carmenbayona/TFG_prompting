@@ -1,0 +1,16 @@
+{
+  "topic": "complaining about a product",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "participant_1": "negative",
+    "participant_2": "curious"
+  },
+  "goals": {
+    "participant_1": "share a complaint",
+    "participant_2": "gather information"
+  },
+  "subplots": [],
+  "misunderstandings": [],
+  "imperfections": []
+}

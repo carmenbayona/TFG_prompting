@@ -1,0 +1,12 @@
+P1: Hey, I was thinking we should plan a hike for this weekend. The weather's supposed to be amazing.
+P2: Hmm, yeah, I'd love to get outdoors. Where did you have in mind?
+P1: Uh, I was thinking maybe that new trail that just opened up in Red Rock Canyon. I've been wanting to check it out.
+P2: Red Rock? Isn't that a bit of a drive? How long of a hike are we talking about?
+P1: Oh, it's not that bad, like an hour and a half from here. And the hike's about five miles, pretty moderate.
+P2: Okay, sounds doable. What time were you thinking of heading out?
+P1: How about we meet at my place at 7 am and grab some breakfast on the way?
+P2: 7 am? You know I'm not a morning person... can we make it a bit later?
+P1: Hmm, okay, how about 8? We can still get a good start before it gets too hot.
+P2: Yeah, that works for me. And what's the plan for lunch?
+P1: Oh, I was thinking we could just pack some sandwiches and snacks. We can stop at that scenic overlook for lunch.
+P2: Sounds like a plan. I'm in!

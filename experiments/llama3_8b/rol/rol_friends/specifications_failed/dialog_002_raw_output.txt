@@ -1,0 +1,17 @@
+Here is the extracted high-level structured specification:
+
+{
+  "topic": "Travel Planning",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get tickets booked",
+    "P2": "book tickets and hotel"
+  },
+  "subplots": [ "miscommunication about task", "promise to complete task" ],
+  "imperfections": [ "forgetfulness", "lack of clear communication" ]
+}

@@ -1,0 +1,17 @@
+{
+  "topic": "Planning a group project",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "curious",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "inform",
+    "P2": "learn"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

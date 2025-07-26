@@ -1,0 +1,9 @@
+{
+"topic": "planning a movie night",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "casual", "P2": "open" },
+"goals": { "P1": "to decide on a movie", "P2": "to agree on a movie and snacks" },
+"subplots": [ "choosing a movie genre" ],
+"imperfections": [ "P2's hesitation ( slight uncertainty )" ]
+}

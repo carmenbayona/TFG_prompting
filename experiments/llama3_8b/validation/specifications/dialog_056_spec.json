@@ -1,0 +1,13 @@
+{
+  "topic": "watering plants",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "remorseful"
+  },
+  "goals": {
+    "P1": "remind P2 to water plants",
+    "P2": "take responsibility for watering plants"
+  }
+}

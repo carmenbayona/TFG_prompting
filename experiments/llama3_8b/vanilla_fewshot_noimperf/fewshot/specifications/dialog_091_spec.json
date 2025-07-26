@@ -1,0 +1,18 @@
+{
+  "topic": "Booking a hotel room",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information",
+    "P2": "gain knowledge"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "repetition"
+  ]
+}

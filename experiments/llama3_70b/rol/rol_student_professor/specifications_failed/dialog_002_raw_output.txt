@@ -1,0 +1,9 @@
+{
+"topic": "travel arrangements",
+"turns": 6,
+"participants": 2,
+"tone": { "P1": "assertive", "P2": "apologetic" },
+"goals": { "P1": "ensure travel arrangements are made", "P2": "fulfill obligation" },
+"subplots": [ "clarification of responsibility" ],
+"imperfections": [ "miscommunication", "forgetfulness" ]
+}

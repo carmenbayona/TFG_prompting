@@ -1,0 +1,17 @@
+{
+  "topic": "Medical Consultation",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "professional"
+  },
+  "goals": {
+    "P1": "diagnose and treat the headache",
+    "P2": "collect information for diagnosis"
+  },
+  "subplots": [],
+  "imperfections": [
+    "vague symptom descriptions"
+  ]
+}

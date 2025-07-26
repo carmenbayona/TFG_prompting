@@ -1,0 +1,13 @@
+{
+  "topic": "Requesting a day off",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "share information and request a day off",
+    "P2": "understand the concept of requesting a day off"
+  }
+}

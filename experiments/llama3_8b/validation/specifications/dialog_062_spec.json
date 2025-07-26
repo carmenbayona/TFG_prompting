@@ -1,0 +1,13 @@
+{
+  "topic": "lost phone",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "concerned"
+  },
+  "goals": {
+    "P1": "find phone",
+    "P2": "help P1 find phone"
+  }
+}

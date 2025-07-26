@@ -1,0 +1,15 @@
+{
+  "topic": "concert experience",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "enthusiastic",
+    "P2": "enthusiastic"
+  },
+  "goals": {
+    "P1": "share excitement",
+    "P2": "share agreement"
+  },
+  "subplots": [],
+  "imperfections": []
+}

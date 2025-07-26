@@ -1,0 +1,10 @@
+P1: So, I was thinking about the Johnson project and I realized we're running a bit behind schedule.
+P2: Yeah, I've been feeling that too. What's the current status?
+P1: Well, if we don't get the new design specs by the end of the week, we'll have to push the launch date back.
+P2: That's not ideal. Are we sure we won't be able to meet the deadline?
+P1: Honestly, I'm not sure. We've been hitting some roadblocks, but I'm hoping to get an update from the design team tomorrow.
+P2: Okay, so what's the plan if we do miss it? Do we have a contingency in place?
+P1: Yeah, we do. We can slide the launch to the following week and still meet our quarterly goals.
+P2: That makes sense. Anything else I should know about the project's status?
+P1: No, that's about it. Oh, just to confirm, I'll make sure to remind the team about the meeting on Friday, right?
+P2: Yeah, please do.

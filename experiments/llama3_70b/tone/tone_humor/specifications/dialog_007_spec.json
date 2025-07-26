@@ -1,0 +1,20 @@
+{
+  "topic": "going to the gym",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "encouraging",
+    "P2": "self-deprecating"
+  },
+  "goals": {
+    "P1": "help P2 get back on track",
+    "P2": "get back into exercising"
+  },
+  "subplots": [
+    "making a plan",
+    "starting with small goals"
+  ],
+  "imperfections": [
+    "P2's initial self-criticism"
+  ]
+}

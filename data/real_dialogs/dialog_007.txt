@@ -1,0 +1,5 @@
+P1: You made it to the gym!
+P2: Finally! I've been slacking lately.
+P1: No worries, let’s start with some warm-up.
+P2: Sounds good. Ten minutes on the treadmill?
+P1: Yep, and then some weights.

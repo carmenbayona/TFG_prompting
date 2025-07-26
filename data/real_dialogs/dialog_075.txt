@@ -1,0 +1,4 @@
+P1: Want to join the coding club?
+P2: Hmm, sounds interesting.
+P1: We meet every Thursday.
+P2: I’ll check my schedule.

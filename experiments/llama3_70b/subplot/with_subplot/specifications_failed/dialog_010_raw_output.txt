@@ -1,0 +1,9 @@
+{
+"topic": "leaking sink",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "concerned", "P2": "calm" },
+"goals": { "P1": "get the sink fixed", "P2": "avoid blame and maintain calm" },
+"subplots": [ "P1's fear of being seen as nagging (subplot)" ],
+"imperfections": [ "P2's possible guilt or defensiveness", "P1's apology for being 'annoying'" ]
+}

@@ -1,0 +1,22 @@
+{
+  "topic": "booking train tickets",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "accusatory",
+    "participant_2": "apologetic"
+  },
+  "goals": {
+    "participant_1": "to confirm ticket booking",
+    "participant_2": "to clarify responsibility and rectify the situation"
+  },
+  "subplots": [
+    "clarifying responsibility"
+  ],
+  "misunderstandings": [
+    "misattribution of task responsibility"
+  ],
+  "imperfections": [
+    "hesitation"
+  ]
+}

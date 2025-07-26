@@ -1,0 +1,17 @@
+Here is the generated conversation:
+
+**Turn 1**
+P1: I'm starving! What do you want to order for lunch?
+P2: Hmm, I'm not sure... Maybe a sandwich or a salad?
+
+**Turn 2**
+P1: Okay, which one do you think you'll go with?
+P2: Wait, actually, I was thinking maybe a burger instead?
+
+**Turn 3**
+P1: Alright, so a burger it is. Do you want to go to that new place downtown?
+P2: I don't know... Have you heard anything about their burgers?
+
+**Turn 4**
+P1: Yeah, I've heard they're really good. Let's just go there. We can decide on toppings when we get there.
+P2: Okay, sounds good to me.

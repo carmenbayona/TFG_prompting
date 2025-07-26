@@ -1,0 +1,9 @@
+{
+"topic": "Meeting with a client",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "reminding", "P2": "forgetful" },
+"goals": { "P1": "Ensure P2 attends the meeting", "P2": "Attend the meeting" },
+"subplots": [ "P2's forgetfulness" ],
+"imperfections": [ "P2's initial denial (forgetting)", "P1's gentle reprimand" ]
+}

@@ -1,0 +1,20 @@
+{
+  "topic": "Internet Connectivity Issues",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "identify the cause of internet drop",
+    "P2": "resolve the issue"
+  },
+  "subplots": [
+    "router troubleshooting",
+    "previous issues with internet connectivity"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause)"
+  ]
+}

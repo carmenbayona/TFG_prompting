@@ -1,0 +1,17 @@
+{
+  "topic": "internship and celebration",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "participant_1": "excited",
+    "participant_2": "supportive"
+  },
+  "goals": {
+    "participant_1": "share good news",
+    "participant_2": "show enthusiasm and suggest celebration"
+  },
+  "subplots": [
+    "celebration plans"
+  ],
+  "imperfections": []
+}

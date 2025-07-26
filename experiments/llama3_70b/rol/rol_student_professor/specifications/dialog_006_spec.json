@@ -1,0 +1,20 @@
+{
+  "topic": "medical consultation",
+  "turns": 5,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "calm"
+  },
+  "goals": {
+    "P1": "get diagnosis",
+    "P2": "diagnose condition"
+  },
+  "subplots": [
+    "student's health",
+    "doctor's diagnosis"
+  ],
+  "imperfections": [
+    "initial vagueness"
+  ]
+}

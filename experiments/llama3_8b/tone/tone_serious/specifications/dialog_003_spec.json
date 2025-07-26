@@ -1,0 +1,20 @@
+{
+  "topic": "Delayed Laptop Order",
+  "turns": 7,
+  "participants": 2,
+  "tone": {
+    "P1": "frustrated",
+    "P2": "apologetic"
+  },
+  "goals": {
+    "P1": "get laptop delivered",
+    "P2": "resolve issue"
+  },
+  "subplots": [
+    "delayed order",
+    "needed for work"
+  ],
+  "imperfections": [
+    "hesitation (nervous pause)"
+  ]
+}

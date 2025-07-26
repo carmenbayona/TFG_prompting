@@ -1,0 +1,23 @@
+P1: Hi, I'm having some trouble with my laptop, can you help me?
+
+P2: Yeah, sure thing! What's going on with it?
+
+P1: Well, I was trying to upgrade my RAM and now it won't turn on.
+
+P2: Hmm, that's weird. Did you follow the instructions carefully?
+
+P1: Yeah, I think so... I mean, I did it like five times before without any issues.
+
+P2: I see. So, you're saying it worked fine before, but then you upgraded the RAM and now it's not turning on at all?
+
+P1: Exactly. And now it just won't even charge.
+
+P2: Okay, that makes sense. Can you tell me what kind of RAM you installed?
+
+P1: Uh, let me check... *pause* Ah, it says it's a Kingston 8GB DDR3.
+
+P2: Alright, that looks like it should be compatible. But I'm going to take a wild guess here - are you sure you didn't short out the RAM or something when you installed it?
+
+P1: Hmm, I didn't think of that... Yeah, that's possible. I might have touched the contacts or something.
+
+P2: Yeah, that could definitely do it. Alright, so here's what we're going to do...

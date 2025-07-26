@@ -1,0 +1,17 @@
+{
+  "topic": "Internet connectivity issue",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "concerned",
+    "P2": "frustrated"
+  },
+  "goals": {
+    "P1": "get internet working",
+    "P2": "get internet working"
+  },
+  "subplots": [],
+  "imperfections": [
+    "P1's assumption about router being the issue"
+  ]
+}

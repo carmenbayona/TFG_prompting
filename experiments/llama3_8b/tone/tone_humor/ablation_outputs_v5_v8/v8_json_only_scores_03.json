@@ -1,0 +1,12 @@
+{
+  "fluency": 4,
+  "coherence": 5,
+  "realism": 4,
+  "fidelity_to_specification": 5,
+  "engagement": 3,
+  "originality": 2,
+  "comments": "The dialog is well-structured and follows a clear conversation flow, but lacks creative and unexpected responses.",
+  "Variant": "v8_json_only_03",
+  "Dialog": "Here is a dialog between two characters, Alex and Sam:\n\n**Alex:** Hey, Sam. How's it going?\n\n**Sam:** Not bad, Alex. Just got back from a meeting with a potential new client. Fingers crossed that it turns into something.\n\n**Alex:** That sounds promising. What's the client looking for?\n\n**Sam:** They're a small startup looking for help with their marketing strategy. They're trying to get more visibility online and are looking for someone to help them create a social media presence.\n\n**Alex:** Ah, that's right up my alley. I've been working with a few startups on their online marketing lately. I might have some ideas that could help them out.\n\n**Sam:** Yeah, I was thinking you might be a good person to talk to. Do you want to meet up with me and the client this week?\n\n**Alex:** Sure thing. When were you thinking?\n\n**Sam:** How about Wednesday afternoon? The client is free then, and we can discuss what they're looking for and what kind of services you offer.\n\n**Alex:** Sounds good to me. I'll make sure to clear my schedule and meet you at the coffee shop at 2 PM.\n\n**Sam:** Great, thanks Alex. I'll send you a reminder and the client's contact info.\n\nLet me know if you'd like me to continue the dialog or generate a new one!",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": 2,\n  \"tone\": {\n    \"P1\": \"enthusiastic\",\n    \"P2\": \"suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack a bag without asking too many questions\",\n    \"P2\": \"understand what's going on and get more info\"\n  },\n  \"subplots\": [\n    \"P1 struggles to keep the destination secret\",\n    \"P2 thinks it's a prank or a kidnapping\"\n  ],\n  \"imperfections\": [\n    \"P1 slips a hint by accident\",\n    \"P2 repeats questions and gets more paranoid\"\n  ]\n}"
+}

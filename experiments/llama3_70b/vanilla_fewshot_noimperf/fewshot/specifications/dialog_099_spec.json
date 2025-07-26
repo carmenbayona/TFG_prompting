@@ -1,0 +1,17 @@
+{
+  "topic": "complaining about a product",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "inquisitive"
+  },
+  "goals": {
+    "P1": "to share information",
+    "P2": "to learn"
+  },
+  "subplots": [],
+  "imperfections": [
+    "repetition"
+  ]
+}

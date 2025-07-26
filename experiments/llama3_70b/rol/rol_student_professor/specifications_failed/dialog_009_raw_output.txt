@@ -1,0 +1,9 @@
+{
+"topic": "travel plans",
+"turns": 4,
+"participants": 2,
+"tone": { "P1": "confused", "P2": "irritated" },
+"goals": { "P1": "clarify travel plans", "P2": "correct misunderstanding" },
+"subplots": [ "hotel booking" ],
+"imperfections": [ "miscommunication", "misunderstanding" ]
+}

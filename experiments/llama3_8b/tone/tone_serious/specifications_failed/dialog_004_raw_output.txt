@@ -1,0 +1,11 @@
+Here is the extracted structured specification in the exact format you requested:
+
+{
+  "topic": "thesis draft review",
+  "turns": 6,
+  "participants": 2,
+  "tone": { "P1": "curious", "P2": "constructive" },
+  "goals": { "P1": "get feedback", "P2": "provide feedback" },
+  "subplots": [ "strengths and weaknesses of thesis draft", "literature review discussion" ],
+  "imperfections": [ "hesitation (nervous pause)" ]
+}

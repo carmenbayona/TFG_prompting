@@ -1,0 +1,17 @@
+Here is the generated conversation:
+
+**Turn 1**
+P1: I'm starving, what do you want for lunch?
+P2: Hmm, I don't know... maybe a sandwich?
+
+**Turn 2**
+P1: Okay, which kind of sandwich? We need to order soon.
+P2: Um, no... actually, I was thinking maybe a salad instead.
+
+**Turn 3**
+P1: A salad? That's a good choice. What kind of protein do you want?
+P2: Oh, wait, no... I mean, can we get pizza instead?
+
+**Turn 4**
+P1: Alright, pizza it is. What toppings do you want?
+P2: Yeah, that sounds good. Let's get the veggie lovers' pizza.

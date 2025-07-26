@@ -1,0 +1,9 @@
+{
+"topic": "thesis draft feedback",
+"turns": 5,
+"participants": 2,
+"tone": { "P1": "inquisitive", "P2": "constructive" },
+"goals": { "P1": "seek feedback", "P2": "provide helpful critique" },
+"subplots": [ "P2's motive for giving feedback (is it to help or to assert authority?)" ],
+"imperfections": [ "P1's defensiveness implied but not expressed" ]
+}

@@ -1,0 +1,18 @@
+{
+  "topic": "making a doctor's appointment",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "curious"
+  },
+  "goals": {
+    "P1": "inform",
+    "P2": "obtain information"
+  },
+  "subplots": [],
+  "imperfections": [
+    "hesitation",
+    "unnatural phrasing"
+  ]
+}

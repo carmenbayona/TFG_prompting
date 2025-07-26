@@ -1,0 +1,13 @@
+{
+  "topic": "feedback on a presentation",
+  "turns": 4,
+  "participants": 2,
+  "tone": {
+    "P1": "positive",
+    "P2": "self-doubting"
+  },
+  "goals": {
+    "P1": "praise and encouragement",
+    "P2": "seeking honest feedback"
+  }
+}

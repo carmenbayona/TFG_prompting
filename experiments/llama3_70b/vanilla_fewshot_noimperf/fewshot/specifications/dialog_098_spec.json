@@ -1,0 +1,19 @@
+{
+  "topic": "Job Interview",
+  "turns": 6,
+  "participants": 2,
+  "tone": {
+    "P1": "informative",
+    "P2": "interested"
+  },
+  "goals": {
+    "P1": "sharing experience",
+    "P2": "gathering information"
+  },
+  "imperfections": [
+    "repetition"
+  ],
+  "subplots": [
+    "P2's interest in job interviews"
+  ]
+}

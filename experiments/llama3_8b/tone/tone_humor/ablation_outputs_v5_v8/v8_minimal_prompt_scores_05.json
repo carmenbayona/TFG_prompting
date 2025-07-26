@@ -1,0 +1,12 @@
+{
+  "fluency": 3,
+  "coherence": 4,
+  "realism": 3,
+  "fidelity_to_specification": 5,
+  "engagement": 2,
+  "originality": 2,
+  "comments": "The dialog is somewhat robotic and lacks natural flow.",
+  "Variant": "v8_minimal_prompt_05",
+  "Dialog": "Here is the conversation:\n\nTurn 1:\nP1: Hey, I have a surprise for you! I've booked a trip and I want you to pack your bags. No questions, just get ready to go!\nP2: (skeptical) What's going on? Where are we going?",
+  "Specification": "{\n  \"topic\": \"Booking a surprise trip\",\n  \"turns\": 8,\n  \"participants\": [\n    \"P1\",\n    \"P2\"\n  ],\n  \"tone\": {\n    \"P1\": \"cheerful\",\n    \"P2\": \"playfully suspicious\"\n  },\n  \"goals\": {\n    \"P1\": \"convince P2 to pack without giving away the destination\",\n    \"P2\": \"figure out what's going on without spoiling the surprise\"\n  },\n  \"subplots\": [\n    \"P2 keeps guessing increasingly absurd locations (like Antarctica or a llama farm)\",\n    \"P1 drops small, vague hints that only confuse P2 more\"\n  ],\n  \"imperfections\": [\n    \"P1 accidentally reveals one tiny detail about the weather there\",\n    \"P2 jokes about past surprise plans that went hilariously wrong\"\n  ]\n}"
+}

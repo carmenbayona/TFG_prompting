@@ -1,0 +1,11 @@
+P1: Hey, I'm still waiting to hear back about my laptop order. I was supposed to get it last week.
+
+P2: I'm so sorry to hear that. Let me check on the status for you. Can you please provide me with your order number?
+
+P1: Yeah, it's... uh... 5421. I think. No, wait, that's not it. Hmm... *rummages through papers* Ah, here it is. 8542.
+
+P2: Okay, I've located your order. It looks like there was an issue with the shipment. I apologize for the inconvenience.
+
+P1: An issue? That's an understatement. I need this laptop for work, and I've already fallen behind because of this delay. Do you know how much this is impacting my work?
+
+P2: I understand, and I'm truly sorry. Let me see what I can do to expedite the delivery. Can I offer you a complimentary upgrade to express shipping?
