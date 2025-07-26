@@ -48,7 +48,19 @@ pip install -r requirements.txt
 2. **Set up your API key**  
 Create a `.env` file or use `keys.env` with your Groq API key (or load models locally with `llama-cpp`).
 
-3. **Run the full pipeline**
+This project uses private API keys to access external services such as Groq and OpenAI.  
+For security reasons, **these keys are not included in the repository**.
+
+You are expected to create a `.env` or `keys.env` file in the root directory of the project with the following format:
+
+```ini
+GROQ_API_KEY=your_groq_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
+```
+
+This file is listed in `.gitignore`, so it will not be uploaded to the repository.
+
+4. **Run the full pipeline**
 
 Use the notebook:
 
